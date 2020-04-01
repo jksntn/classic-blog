@@ -1,0 +1,164 @@
+- id: home
+  translation: "Accueil"
+- id: menuTitle
+  translation: "Menu"
+- id: templateBy
+  translation: "Template par"
+- id: portedBy
+  translation: "Porté sur Hugo par"
+- id: contactGoTo
+  translation: "Aller à la page de contact"
+- id: contactAddrTitle
+  translation: "Adresse"
+- id: contactTitle
+  translation: "Contact"
+- id: contactForm
+  translation: "Formulaire de contact"
+- id: contactName
+  translation: "Votre nom"
+- id: contactMail
+  translation: "Votre adresse de courriel"
+- id: contactMessage
+  translation: "Votre message"
+- id: contactSend
+  translation: "Envoyer le message"
+- id: navHome
+  translation: "Aller à la page d'accueil"
+- id: navToggle
+  translation: "Afficher/masquer la navigation"
+- id: permalink
+  translation: "Permalien"
+- id: categoriesTitle
+  translation: "Catégories"
+- id: searchTitle
+  translation: "Recherche"
+- id: searchPlaceholder
+  translation: Recherche...
+- id: searchDocTitle
+  translation: "Recherche dans la documentation"
+- id: searchDocVerb
+  translation: "Rechercher dans la documentation..."
+- id: searchButton
+  translation: "Rechercher"
+- id: searchResults
+  translation: "articles trouvés"
+- id: searchNoResults
+  translation: "Aucun article trouvé"
+- id: tagsTitle
+  translation: "Tags"
+- id: continueReading
+  translation: "Continuer la lecture"
+- id: readMore
+  translation: "En savoir plus"
+- id: readingTime
+  translation: "de lecture"
+- id: authorBy
+  translation: "Par"
+- id: recentPosts
+  translation: "Articles récents"
+- id: aboutUs
+  translation: "À propos"
+- id: archive
+  translation: "Archive"
+- id: newer
+  translation: "Plus récent"
+- id: older
+  translation: "Plus ancien"
+- id: previous
+  translation: "Précédent"
+- id: next
+  translation: "Suivant"
+- id: publishedOn
+  translation: "le"
+- id: testimonials
+  translation: "Témoignages"
+- id: toMainContent
+  translation: "Aller au contenu principal"
+- id: relatedPosts
+  translation: "Articles similaires"
+- id: whatsYourName
+  translation: "Quel est votre nom ?"
+- id: whatsYourEmail
+  translation: "Quel est votre courriel ?"
+- id: contactSubject
+  translation: "Sujet"
+- id: donationAmount
+  translation: "Montant du don"
+- id: customAmount
+  translation: "Montant personnalisé"
+- id: donateNow
+  translation: "Faire un don maintenant"
+- id: collapseArticles
+  translation: "Replier les articles"
+- id: showAllArticles
+  translation: "Afficher tous les articles"
+- id: error404
+  translation: "Désolé, impossible de trouver cette page"
+- id: error404Title
+  translation: "Page non trouvée"
+- id: error404Message1
+  translation: "Nous n'avons pas pu trouver la page que vous cherchez"
+- id: error404Message2
+  translation: "La page a peut-être été déplacée ou n'existe plus ! Essayez de faire une recherche ou retournez sur la page d'accueil."
+- id: noResultsTitle
+  translation: "Aucun document trouvé"
+- id: noResultsText
+  translation: "Désolé, mais rien ne correspond à votre recherche. Veuillez réessayer avec des termes différents ou [consultez la documentation](/fr/help)."
+- id: searchTermTooShort
+  translation: "Le terme recherché doit comporter au moins 3 caractères."
+- id: recentNews
+  translation: "Nouveautés"
+- id: warning
+  translation: "Avertissement"
+- id: note
+  translation: "Remarque"
+- id: info
+  translation: "Information"
+- id: tip
+  translation: "Astuce"
+- id: RSSFeed
+  translation: "Flux RSS"
+- id: lastUpdated
+  translation: "Dernière mise à jour :"
+- id: seeAllDoc
+  translation: "Consulter la documentation"
+- id: privacyTitle
+  translation: "Confidentialité"
+- id: licenseTitle
+  translation: "Licence"
+- id: donateTitle
+  translation: "Faire un don"
+- id: cookiesTitle
+  translation: "Cookies"
+- id: sources
+  translation: "Sources"
+
+- id: January
+  translation: "janvier"
+- id: February
+  translation: "février"
+- id: March
+  translation: "mars"
+- id: April
+  translation: "avril"
+- id: May
+  translation: "mai"
+- id: June
+  translation: "juin"
+- id: July
+  translation: "juillet"
+- id: August
+  translation: "août"
+- id: September
+  translation: "septembre"
+- id: October
+  translation: "octobre"
+- id: November
+  translation: "novembre"
+- id: December
+  translation: "décembre"
+
+- id: minuteSingular
+  translation: "minute"
+- id: minutePlural
+  translation: "minutes"

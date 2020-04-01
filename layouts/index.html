@@ -1,0 +1,21 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+{{ define "header" }}{{ partial "site-header" . }}{{ end }}
+{{ define "body-classes" }}home blog has-sidebar{{ end }}
+
+{{ define "widgets-column" }}
+  {{ partial "widgets/recent" . }}
+  {{ partial "widgets/menu" . }}
+{{ end }}
+
+{{ define "main" }}
+
+  {{ $paginator := .Paginate (where .Site.RegularPages "Type" "in" site.Params.mainSections) }}
+  {{ range $paginator.Pages }}
+    {{- partial "page-summary" . -}}
+  {{ end }}
+
+  {{ partial "pagination" . }}
+
+{{ end }}
+
+{{ define "footer" }}{{ partial "footer" . }}{{ end }}

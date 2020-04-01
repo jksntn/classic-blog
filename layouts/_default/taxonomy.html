@@ -1,0 +1,22 @@
+{{ define "header" }}{{ partial "site-header" . }}{{ end }}
+{{ define "body-classes" }}blog has-sidebar{{ end }}
+{{ define "page-header" }}
+<header class="page-header"><h2 class="page-title">{{ .Data.Singular }} : {{ $.Title }}</h2></header>
+{{ end }}
+
+{{ define "widgets-column" }}
+  {{ partial "widgets/recent" . }}
+  {{ partial "widgets/menu" . }}
+{{ end }}
+
+{{ define "main" }}
+
+  {{ range .Paginator.Pages }}
+    {{- partial "page-summary" . -}}
+  {{ end }}
+
+  {{ partial "pagination" . }}
+
+{{ end }}
+
+{{ define "footer" }}{{ partial "footer" . }}{{ end }}

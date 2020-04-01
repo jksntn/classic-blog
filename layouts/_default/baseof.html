@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+  {{ hugo.Generator }}
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="google-site-verification" content="iPJ0TcLx7PUk5rvhp7Zb94yo55JWSUTdHAEkTvAeqBM" />
+
+  <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ partial "description" . }}">
+  {{ $default_noindex_kinds := slice "" }}
+  {{ $noindex_kinds := .Site.Params.noindex_kinds | default $default_noindex_kinds }}
+  {{ $is_noindex_true := and (isset .Params "noindex") .Params.noindex }}
+  {{ if or (in $noindex_kinds .Kind) ($is_noindex_true) }}
+    <meta name="robots" content="noindex">
+  {{ end }}
+
+  {{ partial "meta/name-author" . }}
+  {{ template "_internal/opengraph.html" . }}
+  {{ partial "meta/ogimage" . }}
+
+  {{ template "_internal/google_analytics_async.html" . }}
+  {{ with .OutputFormats.Get "RSS" }}
+  <link rel="alternate" href="{{ .Permalink }}" type="application/rss+xml" title="{{ $.Site.Title }}">
+  <link rel="feed" href="{{ .Permalink }}" type="application/rss+xml" title="{{ $.Site.Title }}">
+  {{ end }}
+
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ if or .PrevInSection .NextInSection }}
+    {{ if .PrevInSection }}<link rel="prev" href="{{ .PrevInSection.Permalink }}">{{ end }}
+    {{ if .NextInSection }}<link rel="next" href="{{ .NextInSection.Permalink }}">{{ end }}
+  {{ end }}
+  <link rel="shortcut icon" href="{{ "favicon.png" | absURL }}" type="image/png" />
+  <link rel="me" href="https://framapiaf.org/@nmartignoni" />
+  <link rel="me" href="https://twitter.com/nmartignoni" />
+
+  {{ if or (.HasShortcode "figure") (.HasShortcode "gallery") .IsHome }}
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" rel="stylesheet" crossorigin="anonymous" />
+  {{ end }}
+  <!-- Custom fonts and styles for this template -->
+  {{ if .Site.IsServer }}
+    {{ $cssOpts := (dict "enableSourceMap" true ) }}
+    {{ $fontawesomeCSS := resources.Get "css/font-awesome.css" | toCSS $cssOpts }}
+    {{ $styleCSS := resources.Get "css/style.css" | toCSS $cssOpts }}
+    {{ $blocksCSS := resources.Get "css/blocks.css" | toCSS $cssOpts }}
+    {{ $syntaxCSS := resources.Get "css/syntax.css" | toCSS $cssOpts }}
+    {{ $customCSS := resources.Get "css/custom.css" | toCSS $cssOpts }}
+    <link href="{{ $fontawesomeCSS.Permalink }}" rel="stylesheet">
+    <link href="{{ $styleCSS.Permalink }}" rel="stylesheet">
+    <link href="{{ $blocksCSS.Permalink }}" rel="stylesheet">
+    <link href="{{ $syntaxCSS.Permalink }}" rel="stylesheet">
+    <link href="{{ $customCSS.Permalink }}" rel="stylesheet">
+  {{ else }}
+    {{ $cssOpts := (dict "enableSourceMap" false ) }}
+    {{ $fontawesomeCSS := resources.Get "css/font-awesome.css" | toCSS $cssOpts | minify | fingerprint }}
+    {{ $styleCSS := resources.Get "css/style.css" | toCSS $cssOpts | minify | fingerprint }}
+    {{ $blocksCSS := resources.Get "css/blocks.css" | toCSS $cssOpts | minify | fingerprint }}
+    {{ $syntaxCSS := resources.Get "css/syntax.css" | toCSS $cssOpts | minify | fingerprint }}
+    {{ $customCSS := resources.Get "css/custom.css" | toCSS $cssOpts | minify | fingerprint }}
+    <link href="{{ $fontawesomeCSS.Permalink }}" integrity="{{ $fontawesomeCSS.Data.Integrity }}" rel="stylesheet">
+    <link href="{{ $styleCSS.Permalink }}" integrity="{{ $styleCSS.Data.Integrity }}" rel="stylesheet">
+    <link href="{{ $blocksCSS.Permalink }}" integrity="{{ $blocksCSS.Data.Integrity }}" rel="stylesheet">
+    <link href="{{ $syntaxCSS.Permalink }}" integrity="{{ $syntaxCSS.Data.Integrity }}" rel="stylesheet">
+    <link href="{{ $customCSS.Permalink }}" integrity="{{ $customCSS.Data.Integrity }}" rel="stylesheet">
+  {{ end }}
+  {{ block "style" . }}{{ end }}
+  {{ $lazylist := findRE "class=\".*?\\blazyload\\b.*?\"|class=lazyload\b" .Content }}
+  <!-- http://regexr.com/3f9d1 -->
+  {{ if ge (len $lazylist) 1 }}
+  <script async src="/js/lazysizes.min.js"></script>
+  {{ end }}
+</head>
+
+<body class="{{ block "body-classes" . }}{{ end }}">
+  <div id="page" class="site">
+    {{ block "header" . }}{{ end }}
+    {{ block "featured-image" . }}{{ end }}
+    <div class="site-content-contain">
+      <div id="content" class="site-content">
+        <div class="wrap">
+          {{ block "page-header" . }}{{ end }}
+          <div id="primary" class="content-area">
+            <main id="main" class="site-main" role="main">{{ block "main" . }}{{ end }}</main>
+          </div> <!-- #primary -->
+          {{ block "widgets-column" . }}{{ end }}
+        </div> <!-- .wrap -->
+      </div> <!-- #content -->
+
+      {{ block "footer" . }}{{ end }}
+    </div> <!-- .site-content-contain -->
+  </div> <!-- #page -->
+  {{ block "scripts" . }}{{ partial "scripts.html" . }}{{ end }}
+  {{ block "analytics" . }}{{ partial "matomo_analytics.html" . }}{{ end }}
+</body>
+
+</html>

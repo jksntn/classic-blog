@@ -1,0 +1,33 @@
+{{ define "header" }}{{ partial "site-header" . }}{{ end }}
+{{ define "body-classes" }}blog has-sidebar{{ end }}
+
+{{ define "widgets-column" }}
+  {{ partial "widgets/recent" . }}
+  {{ partial "widgets/menu" . }}
+{{ end }}
+
+{{ define "main" }}
+
+<div class="container">
+  <section class="hero is-primary is-medium is-bold">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <h1 class="title">
+       {{ .Title }}
+      </h1>
+    </div>
+  </div>
+</section>
+
+  <ul>
+    {{ range $key, $value := .Data.Terms }}
+      <li><a href="{{ $key | urlize }}">{{ $key }}</a> ({{ len $value }})
+    {{ end }}
+  </ul>
+
+</div>
+
+{{ end }}
+{{ define "footer" }}
+  {{ partial "footer" . }}
+{{ end }}

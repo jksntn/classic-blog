@@ -1,0 +1,337 @@
+/* Vous pouvez ajouter du CSS personnalisé ici. */
+.entry-header .entry-summary {
+  margin-top: 0.25em;
+  font-size: .9375rem;
+}
+
+blockquote {
+  font-size: inherit;
+  line-height: inherit;
+  padding-left: .5em;
+}
+
+blockquote > p {
+  padding-left: 1em;
+  border-left: 3px solid #bbb
+}
+
+.site-content {
+  padding: 1.5em 0 0 0;
+}
+
+.site-info {
+  display: none;
+}
+
+.has-sidebar.single.post #secondary {
+  padding-top: 14px;
+}
+
+.widget_menu li .icon {
+  font-size: 1.1875rem;
+  margin-right: 0.5em;
+}
+
+/* Lists. */
+
+#primary ul {
+  list-style: none;
+  margin-left: 1.5em;
+  padding-left: 0;
+  text-indent: -1.5em;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
+#primary ol {
+  margin-left: 1.5em;
+  padding-left: 0.5em;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
+#primary ul li:before {
+  content: "–";
+  display: block;
+  float: left;
+  width: 1.5em;
+}
+
+/* archive lists */
+
+#primary section.archive-group {
+  font-size: .9375rem;
+  padding: 0 0 1.5em 0;
+}
+
+#primary .archive-group h4 {
+  margin: 0 0 0.25em;
+}
+
+#primary .archive-group ul,
+#primary .archive-group ol {
+  list-style: none;
+  text-indent: 0;
+  margin: 0;
+}
+
+#primary .archive-group ul li,
+#primary .archive-group ol li {
+  padding-left: 2em;
+  text-indent: -2em;
+  margin: 0 0 .25em 0;
+}
+
+#primary .archive-group ul li .link,
+#primary .archive-group ol li .link {
+  padding-right: 1.5em;
+}
+
+#primary .archive-group ul li:before {
+  content: "";
+}
+
+#primary .archive-group ul li a:hover {
+  color: #000;
+  -webkit-box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
+  box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
+}
+
+#primary .archive-group ul li .meta {
+  font-style: italic;
+  color: #666;
+}
+
+/* Gallery. */
+
+.gallery {
+  margin: 0.5em -4px 1.5em -4px;
+  font-size: 0;
+}
+
+a[data-fancybox] {
+  text-decoration: none;
+}
+
+.gallery a[data-fancybox] img {
+  /* height: 250px; */
+  width: 250px;
+  max-width: inherit;
+  display: inherit;
+  margin: 0;
+  padding: 4px;
+  box-shadow: none;
+  vertical-align: inherit;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+figcaption,
+.fancybox-caption {
+  font-size: .9375rem;
+  line-height: 1.5rem;
+  text-align: center;
+}
+
+/* Search. */
+
+body:not(.title-tagline-hidden) .site-search-button {
+  display: inline-block;
+  line-height: 3.9rem;
+  float: right;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.half {
+  -ms-flex: 0 0 50%;
+  flex: 0 0 50%;
+  max-width: 50%;
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+}
+
+.js-search {
+  font-size: 2rem;
+  color: #999;
+}
+
+.search-results {
+  transform: scale(0);
+  -webkit-transform: scale(0);
+  background-color: white;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  overflow: scroll;
+  position: fixed;
+  visibility: hidden;
+  z-index: -99;
+}
+
+.searching {
+  overflow: hidden;
+}
+
+.searching .search-results {
+  transform: scale(1);
+  -webkit-transform: scale(1);
+  visibility: visible;
+  z-index: 11; /* Second highest index, after navbar. */
+}
+
+.searching #search-box #search-query {
+  width: 100%;
+}
+
+.search-results > .container {
+  padding-top: 150px;  /* Navbar height. */
+}
+@media screen and (max-width: 1200px) {
+  .search-results > .container {
+    padding-top: 150px;  /* Navbar height. */
+  }
+}
+
+.search-header {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 70px;  /* Navbar height. */
+  background-color: white;
+  padding-top: 2rem;
+/*
+  padding-bottom: 1rem;
+ */
+}
+@media screen and (max-width: 1200px) {
+  .search-header {
+    top: 50px;  /* Navbar height. */
+  }
+}
+
+.search-header h1 {
+  margin: 0;
+  line-height: 1;
+}
+
+.col-search-close {
+  text-align: right;
+}
+
+.search-header i {
+  font-size: 2rem;
+  line-height: 1;
+}
+
+#search-box {
+  position: relative; /* Required for search icon positioning. */
+  margin-bottom: 0.5em;
+}
+
+#search-box::before {
+  font-family: 'FontAwesome';
+  font-weight: 900;
+  content: "\f002";
+  font-size: 1.1rem;
+  opacity: 0.7;
+  line-height: 1rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 0.75rem;
+}
+
+#search-box #search-query {
+  border: 1px solid #dedede;
+  border-radius: 2.5rem;
+  padding: 1rem 1rem 1rem 2.5rem; /* Wider left padding for search icon to fit in. */
+  width: 250px;
+  line-height: 2rem;
+  height: 2.5rem;
+  font-size: 1rem;
+}
+
+.search-hit em {
+  font-style: normal;
+  background-color: #ffc4c4;
+/*
+  color: #E65100;
+  border-bottom: 1px solid #E65100;
+ */
+}
+
+.search-hit-type {
+  margin-bottom: 0 !important; /* Override .article-metadata margin. */
+  text-transform: capitalize;
+}
+
+.search-hit-description {
+  /* font-size: 0.7rem; */
+  font-style: italic;
+}
+
+/* Load more results button - hide when there are no more results. */
+#search-hits button[disabled] {
+  display: none;
+}
+
+.form-control:focus {
+/*
+  border-color: {{ .Get "primary" }};
+  box-shadow: 0 0 0 .2rem {{ .Get "primary_light" }};
+ */
+}
+
+.search-hit h2 {
+  margin-bottom: .25em;
+}
+
+.search-hit h2 a:hover {
+  color: #000;
+  -webkit-box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
+  box-shadow: inset 0 0 0 rgba(0, 0, 0, 0), 0 3px 0 rgba(0, 0, 0, 1);
+}
+
+#error-page .icon {
+  font-size: 1.1875rem;
+}
+
+/* Sources. */
+
+div.sources {
+  margin-top: 2em;
+}
+
+.sources h6 {
+  font-size: 0.875rem;
+  font-weight: 600;
+  font-style: italic;
+  margin-bottom: .25em;
+}
+
+.sources ul li {
+  font-size: 0.8125rem;
+  font-style: italic;
+}
+
+/* Footnotes. */
+
+.footnotes {
+  font-size: 0.875rem;
+}
+
+.footnotes p {
+  margin: 0 0 .25em;
+}

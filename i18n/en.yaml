@@ -1,0 +1,164 @@
+- id: home
+  translation: "Home"
+- id: menuTitle
+  translation: "Menu"
+- id: templateBy
+  translation: "Template by"
+- id: portedBy
+  translation: "Ported to Hugo by"
+- id: contactGoTo
+  translation: "Go to contact page"
+- id: contactAddrTitle
+  translation: "Address"
+- id: contactTitle
+  translation: "Contact"
+- id: contactForm
+  translation: "Contact form"
+- id: contactName
+  translation: "Your Name"
+- id: contactMail
+  translation: "Your Email"
+- id: contactMessage
+  translation: "Your message"
+- id: contactSend
+  translation: "Send message"
+- id: navHome
+  translation: "Go to homepage"
+- id: navToggle
+  translation: "Toggle Navigation"
+- id: permalink
+  translation: "Permalink"
+- id: categoriesTitle
+  translation: "Categories"
+- id: searchTitle
+  translation: "Search"
+- id: searchPlaceholder
+  translation: Search...
+- id: searchDocTitle
+  translation: "Search knowledge base"
+- id: searchDocVerb
+  translation: "Search the documentation..."
+- id: searchButton
+  translation: "Search"
+- id: searchResults
+  translation: "results found"
+- id: searchNoResults
+  translation: "No results found"
+- id: tagsTitle
+  translation: "Tags"
+- id: continueReading
+  translation: "Continue reading"
+- id: readMore
+  translation: "Read more"
+- id: readingTime
+  translation: "reading time"
+- id: authorBy
+  translation: "By"
+- id: recentPosts
+  translation: "Recent articles"
+- id: archive
+  translation: "Archive"
+- id: aboutUs
+  translation: "About"
+- id: newer
+  translation: "Newer"
+- id: older
+  translation: "Older"
+- id: previous
+  translation: "Previous"
+- id: next
+  translation: "Next"
+- id: publishedOn
+  translation: "on"
+- id: testimonials
+  translation: "Testimonials"
+- id: relatedPosts
+  translation: "Related posts"
+- id: toMainContent
+  translation: "To main content"
+- id: whatsYourName
+  translation: "What's your name?"
+- id: whatsYourEmail
+  translation: "What's your email address?"
+- id: contactSubject
+  translation: "Subject"
+- id: donationAmount
+  translation: "Donation amount"
+- id: customAmount
+  translation: "Custom amount"
+- id: donateNow
+  translation: "Donate now"
+- id: collapseArticles
+  translation: "Collapse articles"
+- id: showAllArticles
+  translation: "Show all articles"
+- id: error404
+  translation: "Sorry, we could not find this page"
+- id: error404Title
+  translation: "Page not found"
+- id: error404Message1
+  translation: "We could not find the page you're looking for"
+- id: error404Message2
+  translation: "The page may have been moved or is not here anymore ! Try to do a search or return to the home page."
+- id: noResultsTitle
+  translation: "No document found"
+- id: noResultsText
+  translation: "Sorry, but nothing matches your search. Please try again with different terms or [browse our knowledge base](/en/help)."
+- id: searchTermTooShort
+  translation: "Your search term must be a minimum of 3 characters long."
+- id: recentNews
+  translation: "Recent news"
+- id: warning
+  translation: "Warning"
+- id: note
+  translation: "Note"
+- id: info
+  translation: "Info"
+- id: tip
+  translation: "Tip"
+- id: RSSFeed
+  translation: "Flux RSS"
+- id: lastUpdated
+  translation: "Last updated:"
+- id: seeAllDoc
+  translation: "See all documentation"
+- id: privacyTitle
+  translation: "Privacy"
+- id: licenseTitle
+  translation: "License"
+- id: donateTitle
+  translation: "Donate"
+- id: cookiesTitle
+  translation: "Cookies"
+- id: sources
+  translation: "Sources"
+
+- id: January
+  translation: "January"
+- id: February
+  translation: "February"
+- id: March
+  translation: "March"
+- id: April
+  translation: "April"
+- id: May
+  translation: "May"
+- id: June
+  translation: "June"
+- id: July
+  translation: "July"
+- id: August
+  translation: "August"
+- id: September
+  translation: "September"
+- id: October
+  translation: "October"
+- id: November
+  translation: "November"
+- id: December
+  translation: "December"
+
+- id: minuteSingular
+  translation: "minute"
+- id: minutePlural
+  translation: "minutes"

@@ -1,0 +1,29 @@
+<article class="post type-post status-publish format-standard has-post-thumbnail hentry">
+  <header class="entry-header">
+
+    <div class="entry-meta">{{ partial "post/meta" . }}</div>
+
+    <h3 class="entry-title"><a href="{{ .RelPermalink }}" rel="bookmark" itemprop="headline">{{ .Title }}</a></h3>
+
+    {{ with .Description }}
+    <div class="entry-summary" itemprop="about"><em>{{ . | markdownify }}</em></div>
+    {{ end }}
+
+  </header> <!-- .entry-header -->
+
+  {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
+  {{ with $img }}
+  <div class="post-thumbnail">
+    <img src="{{ .Permalink }}" alt="{{ $.Title }}">
+  </div> <!-- .post-thumbnail -->
+  {{ end }}
+
+  <div class="entry-content" itemscope itemtype="http://schema.org/CreativeWork">
+    {{/* Remove footnotes, see https://discourse.gohugo.io/t/how-to-make-footnote-links-absolute/5749/10 */}}
+    {{ .Summary | replaceRE `<sup.*footnote-ref.*><a href.*#fn:.*/a></sup>` "" | safeHTML}}
+    {{ if .Truncated }}
+    <p><a href="{{ .RelPermalink }}" class="more-link">{{ i18n "continueReading" }}<span class="screen-reader-text"> de « {{ .Title }} »</span></a></p>
+    {{ end }}
+  </div> <!-- .entry-content -->
+
+</article>
