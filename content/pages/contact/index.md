@@ -1,14 +1,17 @@
 ---
-title: Informations de contact
-author: Nicolas Martignoni
+title: Contact
+author: jksntn
+description: Cara menghubungi author Bekasi Salaryman Project
 slug: contact
-date: 2019-02-13
 ---
+Sapa saya melalui Twitter
 
-Si vous désirez me contacter, je serai heureux de recevoir vos commentaires sur les articles publiés sur _Perspectives_. Il m'arrive cependant d'être parfois un correspondant quelque peu négligent et de ne pas répondre tout de suite aux messages. Si cela vous arrive, ne le prenez pas personnellement 😉
+[jksntn](https://twitter.com/jksntn/)
 
-Veuillez adresser vos messages à
+Atau hubungi saya melalui Email
 
-{{< cloakemail address="nicolas@martignoni.net" query="subject=Contact via blog.martignoni.net" >}}
+{{< cloakemail address="contact@jksntn.pw" query="subject=Contact via jksntn.pw" >}}
+
+
 
 <!--more-->

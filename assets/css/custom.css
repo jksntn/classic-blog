@@ -1,4 +1,4 @@
-/* Vous pouvez ajouter du CSS personnalisé ici. */
+ /* Vous pouvez ajouter du CSS personnalisé ici. */
 .entry-header .entry-summary {
   margin-top: 0.25em;
   font-size: .9375rem;
@@ -335,3 +335,8 @@ div.sources {
 .footnotes p {
   margin: 0 0 .25em;
 }
+
+.site-description, .site-title, .site-title a {
+  color: #444;
+}
+
