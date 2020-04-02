@@ -29,7 +29,7 @@ params:
   github: jksntn
   twitter: "@jksntn"
   images: 
-    - "/img/image-default.png/"
+    - "/img/default.jpg/"
 
   noindex_kinds: [  "taxonomy", "taxonomyTerm", "tags" ]
 
