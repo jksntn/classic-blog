@@ -1,26 +1,21 @@
 ---
-title: "24 Hour Project 1 April 2017 Jakarta"
+title: "24 Hour Project"
 date: 2017-03-25
 author: jksntn
-description: 24 Hour Project adalah sebuah proyek fotografi tahunan yang awalnya dilakukan oleh Renzo Grande dan Sam Smotherman di tahun 2012, diikuti oleh 65 fotografer di 24 kota dan 20 Negara. 
-slug: 24-hour-project-1-april-2017-jakarta
+description: Buat para penggemar fotografi dokumenter dan street photography, maka 24 Hour Project ini bisa menjadi motivasi yang bagus bagi kita untuk membuat sebuah proyek street photography dan juga event ini bisa menjadi ajang pertemuan dengan para fotografer street lainnya, yang biasanya hanya bertemu di Instagram. 
+slug: 24-hour-project
 images: 
-  - /2017/03/24-hour-project-1-april-2017-jakarta/featured.jpg
+  - /2017/03/24-hour-project/featured.jpg
 categories:
   - photography
 tags:
   - streetphotography
 ---
-
-Buat para penggemar fotografi dokumenter dan s_treet photography,_ maka 24 Hour Project ini bisa menjadi motivasi yang bagus bagi kita untuk membuat sebuah proyek _street photography_ dan juga _event_ ini bisa menjadi ajang pertemuan dengan para fotografer street lainnya, yang biasanya hanya bertemu di Instagram.  
-
-<!--more-->
-
-### Apa itu 24 Hour Project?
-
 24 Hour Project adalah sebuah proyek fotografi tahunan yang awalnya dilakukan oleh Renzo Grande dan Sam Smotherman di tahun 2012, diikuti oleh 65 fotografer di 24 kota dan 20 Negara. Sekarang merupakan tahun ke 5 diselenggarakannya 24 Hour Project ini. 
   
 Kegiatan ini sendiri tergolong sukses mengajak fotografer dari seluruh dunia, buktinya pada tahun lalu (2016), kegiatan 24hourproject berhasil mengajak 2785 fotografer dari 718 Kota dan 107 Negara.  
+
+<!--more-->
   
 Kegiatan 24 Hour Project ini sendiri [bertujuan untuk](http://www.24hourproject.org/causes) mendokumentasikan kemanusiaan untuk menciptakan perbedaan dengan melakukan kemitraan dengan LSM Internasional untuk meningkatkan kesadaran dan memperkuat inisiatif mereka.  
   
@@ -40,4 +35,4 @@ Untuk berhasil memotret selama 24 jam tersebut, dibutuhkan strategi, misalnya ka
   
 Untuk bisa mengupload seharian juga disarankan fotografer membawa smartphone dengan kartu sim yang bisa 3G atau 4G, atau membawa modem.  
   
-Selamat memotret 24hourproject pada 1 April 2017!
+Selamat memotret 24hourproject!
