@@ -1,5 +1,5 @@
 ---
-title: "Cara Transfer eBook DRM"
+title: Cara Transfer eBook DRM
 date: 2020-03-20
 author: jksntn
 description: Karena saya termasuk warga negara yang baik, maka saya sangat menghindari namanya pembajakan buku. Namun alasan saya tidak membajak buku tersebut sebenarnya bukan karena rasa kemanusiaan sih, tapi karena engga nemu aja bajakannya 🙈.

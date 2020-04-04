@@ -129,12 +129,12 @@ a[data-fancybox] {
 }
 
 figcaption {
-  font-style: italic;
+  font-style: normal;
 }
 
 figcaption,
 .fancybox-caption {
-  font-size: .9375rem;
+  font-size: .8rem;
   line-height: 1.5rem;
   text-align: center;
 }
