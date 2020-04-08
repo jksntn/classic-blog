@@ -4,7 +4,7 @@ date: 2020-03-26
 description: Walaupun Evernote sudah bisa dibilang sebagai Note Taking yang lengkap, tapi menurut saya masih ada satu hal yang kurang, yaitu dukungan ke kalender.
 slug: sync-reminder-evernote-ke-google-calendar
 images: 
- - /2020/03/evernote-google-calendar.png
+ - /sync-reminder-evernote-ke-google-calendar/evernote-google-calendar.png
 categories: 
  - tools
 tags: 

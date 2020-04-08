@@ -5,7 +5,7 @@ author: jksntn
 description: Buat para penggemar fotografi dokumenter dan street photography, maka 24 Hour Project ini bisa menjadi motivasi yang bagus bagi kita untuk membuat sebuah proyek street photography dan juga event ini bisa menjadi ajang pertemuan dengan para fotografer street lainnya, yang biasanya hanya bertemu di Instagram. 
 slug: 24-hour-project
 images: 
-  - /2017/03/24-hour-project/featured.jpg
+  - /24-hour-project/featured.jpg
 categories:
   - photography
 tags:

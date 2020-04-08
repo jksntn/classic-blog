@@ -5,7 +5,7 @@ author: jksntn
 description: Karena saya termasuk warga negara yang baik, maka saya sangat menghindari namanya pembajakan buku. Namun alasan saya tidak membajak buku tersebut sebenarnya bukan karena rasa kemanusiaan sih, tapi karena engga nemu aja bajakannya 🙈.
 slug: cara-transfer-ebook-drm
 images: 
-  - /2020/03/cara-transfer-ebook-drm/cara-transfer-ebook-drm.png
+  - /cara-transfer-ebook-drm/cara-transfer-ebook-drm.png
 categories:
   - books
 tags: 

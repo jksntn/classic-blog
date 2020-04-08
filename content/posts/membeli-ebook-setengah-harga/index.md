@@ -5,7 +5,7 @@ author: jksntn
 description: Pada kesempatan ini saya mau membagikan tips supaya kamu bisa membeli ebook lebih murah daripada harga aslinya. 
 slug: membeli-ebook-setengah-harga
 images: 
- - /2020/03/membeli-ebook-setengah-harga/beli-ebook.png
+ - /membeli-ebook-setengah-harga/beli-ebook.png
 categories: 
  - books
 tags: 
