@@ -12,6 +12,7 @@ tags:
   - ebook
   - ebook reader
 ---
+
 Nah, di tulisan saya kali ini, saya mau menceritakan bagaimana saya memindahkan buku-buku DRM habis beli di [Google Play Books](https://play.google.com/store/books) atau Store Online lain seperti [Kobo.com](https://kobo.com). 
 
 Mengapa harus dipindahin sih? Karena saya mungkin tidak membeli eBook hanya di satu Store saja. Juga karena aplikasi reader bawaan store seperti Kobo Store atau Google Play Books di Android punya plus minus. Jadi mending saya satukan di satu tempat saja. Dalam hal ini saya menggunakan [PocketBook Reader](https://play.google.com/store/apps/details?id=com.obreey.reader) (Android), karena ringan, gratis, dan bisa membuka file DRM. Tapi kamu harus AUTHORIZE menggunakan [Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html) dulu biar bisa dibaca di ebook reader tersebut! Caranya penggunaan Adobe ID ini akan saya jelaskan di bawah.

@@ -9,8 +9,10 @@ images:
 categories:
   - photography
 tags:
-  - streetphotography
+  - street photography
+  - 24 hour project
 ---
+
 24 Hour Project adalah sebuah proyek fotografi tahunan yang awalnya dilakukan oleh Renzo Grande dan Sam Smotherman di tahun 2012, diikuti oleh 65 fotografer di 24 kota dan 20 Negara. Sekarang merupakan tahun ke 5 diselenggarakannya 24 Hour Project ini. 
   
 Kegiatan ini sendiri tergolong sukses mengajak fotografer dari seluruh dunia, buktinya pada tahun lalu (2016), kegiatan 24hourproject berhasil mengajak 2785 fotografer dari 718 Kota dan 107 Negara.  

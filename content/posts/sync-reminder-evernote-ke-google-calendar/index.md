@@ -12,9 +12,10 @@ tags:
  - google calendar
  - cronofy
 ---
+
 Kurangnya dukungan ke kalender third-party ini juga yang tidak ada di aplikasi note taking yang lain seperti [Notion.io](https://notion.so/). 
 
-Namun setelah melakukan beberapa observasi, cara menghubungkan reminder [Evernote][evernote] dengan [Google Calendar][google calendar] ternyata cukup mudah. Ada dua cara, dan saya menggunakan cara yang ke dua.
+Namun setelah melakukan beberapa observasi, cara menghubungkan reminder [Evernote][evernote] dengan [Google Calendar][google calendar] ternyata cukup mudah. Ada dua cara, dan saya menggunakan cara yang kedua.
 
 1. Menggunakan Aplikasi [Mobile Outlook](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook)
 1. Menggunakan layanan [Cronofy.com][cronofy]
