@@ -10,7 +10,7 @@ categories:
 tags: 
  - 24 hour project
  - street photography
- - featured photo
+ - essay photo
 ---
 
 Dari kedua belas foto yang saya unggah, ada satu foto yang ternyata direupload atau direpost sama akun instagram [@24hourproject Official](https://instagram.com/24hourproject). Foto ini juga menjadi salah satu favorit saya. Oleh karena itu pada kesempatan kali ini saya akan membahas foto ini.  
@@ -46,4 +46,4 @@ Jujur Saja, saya sebenarnya masih bisa mengeksplorasi subyek foto saya saat memo
 
 [taman]: https://www.google.com/search?client=opera&q=taman+martha+tiahahu&sourceid=opera&ie=UTF-8&oe=UTF-8
 [24hourproject]: /24-hour-project
-[canons95]: #
+[canons95]: /canon-s95
