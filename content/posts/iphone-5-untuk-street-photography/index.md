@@ -50,7 +50,19 @@ Memotret menggunakan iPhone 5 di keramaian juga sangat mudah, biasanya orang tid
 
 Karena baterai iPhone 5 ini yang cukup kecil, apalagi kalau koneksi datanya saya nyalakan, maka cepat sekali baterainya habis. Hal ini bisa menjadi masalah kalau menggunakan smartphone ini untuk proyek foto seharian penuh. Misalnya untuk [24 Hours Project][24 hour project].  
 
-Karena hal itulah maka dianjurkan membawa powerbank apabila mau memotret seharian menggunakan iPhone 5. Namun menyarankan untuk tidak menggunakan smartphone ini ketika sedang melakukan pengisian daya.  
+Karena hal itulah maka dianjurkan membawa powerbank apabila mau memotret seharian menggunakan iPhone 5. Namun menyarankan untuk tidak menggunakan smartphone ini ketika sedang melakukan pengisian daya.
+
+{{< figure src="foto3.jpg" >}}
+
+{{< figure src="foto1.jpg" >}}
+
+{{< figure src="foto2.jpg" >}}  
+
+{{< figure src="foto4.jpg" >}}
+
+{{< figure src="foto5.jpg" >}}
+
+Saya ternyata kebanyakan memotret kucing 😹 dan penumpang KRL.    
 
 ### Kekurangan iPhone 5
 
