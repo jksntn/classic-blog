@@ -14,9 +14,9 @@ tags:
 
 Saya hanya menggunakan kamera iPhone 4 dulu untuk memotret dokumen, hal-hal yang perlu diingat, pokoknya waktu itu saya tidak serius menggunakan kamera iPhone 4 untuk memotret sebagai pengganti DSRL, bahkan untuk memotret street photography.  
 
-Sampai akhirnya saya banyak mengenal fotografer atau mentor fotografi yang menggunakan iPhone-nya untuk memotret sehari-hari dan bahkan untuk memotret street photography, seperti [Olly Lang][oggsie] dan [Josh White][jtinseoul]. Sebenarnya ada banyak fotografer yang juga menggunakan smartphone untuk fokus memotret di jalanan, namun kedua orang inilah yang paling menginspirasi saya untuk fokus memotret street photography menggunakan smartphone. 
-
 <!--more--> 
+
+Sampai akhirnya saya banyak mengenal fotografer atau mentor fotografi yang menggunakan iPhone-nya untuk memotret sehari-hari dan bahkan untuk memotret street photography, seperti [Olly Lang][oggsie] dan [Josh White][jtinseoul]. Sebenarnya ada banyak fotografer yang juga menggunakan smartphone untuk fokus memotret di jalanan, namun kedua orang inilah yang paling menginspirasi saya untuk fokus memotret street photography menggunakan smartphone. 
 
 ### Mengapa iPhone 5?
 

@@ -13,12 +13,12 @@ tags:
  - essay photo
 ---
 
-Dari kedua belas foto yang saya unggah, ada satu foto yang ternyata direupload atau direpost sama akun instagram [@24hourproject Official](https://instagram.com/24hourproject). Foto ini juga menjadi salah satu favorit saya. Oleh karena itu pada kesempatan kali ini saya akan membahas foto ini.  
+Dari kedua belas foto yang saya unggah, ada satu foto yang ternyata direupload atau direpost sama akun instagram [@24hourproject Official](https://instagram.com/24hourproject). Foto ini juga menjadi salah satu favorit saya. Oleh karena itu pada kesempatan kali ini saya akan membahas foto ini. 
+
+<!--more--> 
   
 Judul foto ini sendiri saya beri nama "Street Tattoo", karena memang proses menatonya dilakukan di pinggir-pinggir jalan di sekitar Blok M, Jakarta. Jasa tato pinggir jalan seperti itu cukup lumrah terjadi di Blok M. Kalau saya perhatikan, memang yang memakai jasa tato merupakan orang-orang kelas menengah ke bawah.  
 
-<!--more-->
-  
 Ceritanya pada saat hunting [24 Hour Project][24hourproject], kebetulan rute siang itu menuju Blok M. Sesampai di Blok M, ternyata rombongan kami terpisah dengan beberapa orang. Akhirnya sambil istirahat siang, kami menunggu di [taman Martha Tiahahu][taman].  
   
 Sambil menunggu, sayapun menuju tempat tato pinggiran karena cukup tertarik dengan suara mesin (seperti bor di dokter gigi) yang terdengar sampai ke taman. Kebetulan juga temen-temen yang lain engga ada yang inisiatif ke tempat tersebut, sehingga foto saya engga bakal samaan, karena yang motoin subyek foto tersebut siang itu cuman saya seorang.  

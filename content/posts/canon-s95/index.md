@@ -12,13 +12,15 @@ tags:
  - gear
 ---
 
-Mengapa saya mereview kamera ini? Tentu saja karena saya sedang menggunakan kamera ini untuk memotret street photography. Setelah saya puas menggunakan smartphone iPhone 5 selama tahun 2016 untuk memotret street photography. 
+Mengapa saya mereview kamera ini? Tentu saja karena saya sedang menggunakan kamera ini untuk memotret street photography. Setelah saya puas menggunakan smartphone iPhone 5 selama tahun 2016 untuk memotret street photography.
+
+<!--more--> 
 
 Perlu diketahui bahwa saya bukanlah penggemar Canon, saya lebih familiar dengan menu-menu yang ada pada kamera Nikon (DSLR) dibandingkan Canon. Bagi saya kamera hanyalah tools, tidak ada alasan tertentu mengapa saya menggunakan kamera tersebut, bukan pula karena idealisme.  
   
 Misalnya saja karena pengguna DSLR Canon banyak, maka saya memilih Nikon, engga, saya menggunakan merk tertentu bukan karena itu, tapi karena memang kamera tersebut yang nyaman untuk saya gunakan.  
 
-<!--more-->
+
 
 ### Mengapa Saya Membeli Canon S95
 

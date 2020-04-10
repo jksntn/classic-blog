@@ -14,11 +14,11 @@ tags:
 ---
 
 24 Hour Project adalah sebuah proyek fotografi tahunan yang awalnya dilakukan oleh Renzo Grande dan Sam Smotherman di tahun 2012, diikuti oleh 65 fotografer di 24 kota dan 20 Negara. Sekarang merupakan tahun ke 5 diselenggarakannya 24 Hour Project ini. 
-  
-Kegiatan ini sendiri tergolong sukses mengajak fotografer dari seluruh dunia, buktinya pada tahun lalu (2016), kegiatan 24hourproject berhasil mengajak 2785 fotografer dari 718 Kota dan 107 Negara.  
 
 <!--more-->
   
+Kegiatan ini sendiri tergolong sukses mengajak fotografer dari seluruh dunia, buktinya pada tahun lalu (2016), kegiatan 24hourproject berhasil mengajak 2785 fotografer dari 718 Kota dan 107 Negara.  
+
 Kegiatan 24 Hour Project ini sendiri [bertujuan untuk](http://www.24hourproject.org/causes) mendokumentasikan kemanusiaan untuk menciptakan perbedaan dengan melakukan kemitraan dengan LSM Internasional untuk meningkatkan kesadaran dan memperkuat inisiatif mereka.  
   
 Pada tahun 2017 ini, kegiatan dilakukan serentak pada tanggal 1 April, dan pada tahun ini 24hourproject bermitra dengan [Lesvos Solidarity](http://www.lesvossolidarity.org/index.php/en/) untuk memberikan bantuan penting yang dibutuhkan oleh para pengungsi. Lebih lengkapnya bisa dilihat [di sini.](http://www.24hourproject.org/causes)  

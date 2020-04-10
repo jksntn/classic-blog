@@ -12,9 +12,9 @@ tags:
 
 Saat saya kuliah dulu saya menghabiskan 2 exposure film karena satu roll dibagi beberapa buat anak-anak yang sedang mengikuti workshop fotografi dasar. Pada akhir-akhir masa kuliah baru saya bisa mencicipi namanya DSLR, saya meminjam Canon 1000D milik temen saya saat sedang trip panjang ke nikahan teman di Indramayu.
 
-Saat-saat yang mengubah hidup saya adalah ketika saya memutuskan membeli kamera DSLR pertama saya di tahun 2013 (Nikon D3000 + Nikon 18-55mm). Semenjak itu fotografi menjadi bagian yang cukup penting dalam hidup saya.
-
 <!--more-->
+
+Saat-saat yang mengubah hidup saya adalah ketika saya memutuskan membeli kamera DSLR pertama saya di tahun 2013 (Nikon D3000 + Nikon 18-55mm). Semenjak itu fotografi menjadi bagian yang cukup penting dalam hidup saya.
 
 Kemudian momen yang mengubah pandangan saya terhadap fotografi adalah ketika saya mulai menggunakan film 35mm di tahun 2015. Saya banyak menghabiskan exposure yang sia-sia, tapi namanya juga belajar, bukan? Akhirnya keputusan besar saya adalah menjual kamera Nikon D90 saya dan membeli kamera SLR film 35mm.
 

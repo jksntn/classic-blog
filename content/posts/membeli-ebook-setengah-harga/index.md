@@ -15,12 +15,11 @@ tags:
 Cara membeli eBook dengan harga lebih murah ini mungkin sebenarnya udah banyak yang tau, tapi mumpung saya lagi rajin nulis lagi, sekalian aja saya kasi tipsnya buat yang belum tau.
 
 Tapi supaya berhasil, ada beberapa hal yang harus dilakukan atau disiapkan, di antaranya:
+<!--more-->
 
 1. VPN (bisa pindah negara, terutama negara seperti Turki, Kolombia, dan India)
 1. Kartu Kredit (Saya menggunakan Jenius)
 1. Data Pembeli untuk billing (sesuai negara store yang bersangkutan)
-
-<!--more-->
 
 Kunci utama bisa murah adalah kamu musti pindah regionalnya. Untuk kasus ini saya pindah ke India dan harga ebooknya kurang lebih 50% lebih murah dibandingkan di Regional Indonesia. Ada yang bilang regional Turki yang paling murah. Tapi kebetulan vpn saya engga bisa ke Turki. 
 

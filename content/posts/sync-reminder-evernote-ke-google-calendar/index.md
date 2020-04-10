@@ -17,10 +17,10 @@ Kurangnya dukungan ke kalender third-party ini juga yang tidak ada di aplikasi n
 
 Namun setelah melakukan beberapa observasi, cara menghubungkan reminder [Evernote][evernote] dengan [Google Calendar][google calendar] ternyata cukup mudah. Ada dua cara, dan saya menggunakan cara yang kedua.
 
+<!--more-->
+
 1. Menggunakan Aplikasi [Mobile Outlook](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook)
 1. Menggunakan layanan [Cronofy.com][cronofy]
-
-<!--more-->
 
 Cara pertama hanya bisa dilakukan di aplikasi mobile saja, jadi kalau misalnya Desktop kamu terhubung dengan kalender google, reminder di Evernote tidak muncul di kalender desktop itu, dia hanya muncul di aplikasi mobile saja. 
 
