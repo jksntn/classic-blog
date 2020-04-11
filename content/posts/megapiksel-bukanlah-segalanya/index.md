@@ -3,6 +3,8 @@ title: Megapiksel Bukanlah Segalanya
 date: 2016-10-21
 description: Ada alasan mengapa fotografi itu bukan segalanya tentang megapiksel yang besar
 slug: megapiksel-bukanlah-segalanya
+images: 
+ - /megapiksel-bukanlah-segalanya/featured.jpg
 categories:
  - photography
 tags:

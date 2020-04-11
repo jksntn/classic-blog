@@ -1,23 +1,19 @@
-+++
-title = "Memotret Street Photography untuk Pekerja Kantoran"
-date = 2017-01-31T09:35:00Z
-updated = 2018-11-11T14:30:43Z
-tags = ["fotografi"]
-draft = true
-blogimport = true 
-[author]
-	name = "jekicann"
-	uri = "https://www.blogger.com/profile/04171796069233081594"
-+++
+---
+title: Memotret Street Photography untuk Pekerja Kantoran
+date: 2017-01-31
+description: Namanya saja street photography, tentunya proses memotret pun terjadi di jalan, atau di luar. Lalu, apakah seorang karyawan atau pekerja kantoran yang punya waktu kerja tetap, bisa memotret street photography?  
+slug: memotret-street-photography-untuk-pekerja-kantoran
+images: 
+ - /memotret-street-photography-untuk-pekerja-kantoran/featured.jpg
+categories:
+ - photography
+tags:
+ - street photography
+---
 
-Namanya saja street photography, tentunya proses memotret pun terjadi di jalan, atau di luar. Dengan adanya pemikiran pada konsep seperti ini maka timbul pertanyaan, apakah seorang karyawan atau pekerja kantoran — yang punya waktu kerja tetap, bisa memotret street photography?  
-  
+Selain pertanyaan apakah seorang pekerja kantoran yang kerja tetap, bisa memotret street photography, pertanyaan lainpun akan timbul. Apakah bisa seorang yang kerja full time bahkan Weekend-pun dipakai kerja, bisa memotret street photography?  
 
-[![](https://2.bp.blogspot.com/-xZdj656m_RI/WajI5n8ojTI/AAAAAAAAb7g/nHnd1mBUDqQcoJ2Tn80WNcDPfn9GU8yUACLcBGAs/s1600/tumblr_on7fklGv4w1u01euvo1_1280.jpg)](https://2.bp.blogspot.com/-xZdj656m_RI/WajI5n8ojTI/AAAAAAAAb7g/nHnd1mBUDqQcoJ2Tn80WNcDPfn9GU8yUACLcBGAs/s1600/tumblr_on7fklGv4w1u01euvo1_1280.jpg)
-
-Kehidupan di dalam KRL
-
-Pertanyaan lainpun akan timbul, apakah bisa seorang yang kerja full time bahkan Weekend-pun dipakai kerja, bisa memotret street photography?  
+<!--more-->
   
 Tentu saja bisa, karena saya sendiri adalah seorang pekerja kantoran yang punya waktu masuk dan pulang yang tetap. Walaupun saya bisa memakai waktu weekend untuk memotret street photography, tapi saya juga berpendapat, orang yang waktu weekend-nya dipakai kerjapun tetap bisa memotret street photography.  
   
@@ -27,27 +23,25 @@ Saya sangat menggemari fotografi, terutama pada pendekatan street photography da
   
 Jawaban bagi saya pada pertanyaan di atas adalah: saya perlu memotret street photography karena itulah makanan untuk passion saya. Soal butuh pengakuan sosial, itu urusan yang berbeda, walau jujur saja di antara kita (bahkan saya juga) melakukan sesuatu hal karena butuh pengakuan sosial.  
 
-### Tips yang Berguna
-
 Saya akan menjelaskan beberapa tips supaya bisa memotret street photography walaupun waktu yang kamu miliki itu terbatas.  
 
-#### 1\. Gunakan kendaraan umum
+### Gunakan kendaraan umum
 
 Karena dengan menggunakan kendaraan umum, lebih mudah bertemu orang-orang sebagai subyek fotografi kita. Walaupun seburuk apapun kendaraan umum di tempatmu, kamu akan selalu menemukan hal menarik yang bisa kamu jadikan subjek fotografi atau bahkan proyek fotografi.  
   
-Saya menggunakan KRL sebagai transportasi antara rumah dan kantor, dari seringnya penggunaan KRL ini sehingga muncul proyek fotografi mengenai pengguna KRL yang saya buat yaitu ‘Commuters Project’, yang bisa dilihat di halaman portofolio saya. Bahkan selain proyek foto yang itu, saya bisa membuat proyek foto lainnya dari menggunakan kendaraan umum sebagai transportasi utama menuju tempat kerja.  
+Saya menggunakan KRL sebagai transportasi antara rumah dan kantor, dari seringnya penggunaan KRL ini sehingga muncul proyek fotografi mengenai pengguna KRL yang saya buat yaitu 'Commuters Project', yang bisa dilihat di halaman portofolio saya. Bahkan selain proyek foto yang itu, saya bisa membuat proyek foto lainnya dari menggunakan kendaraan umum sebagai transportasi utama menuju tempat kerja.  
   
 Penggunaan transportasi umum juga membantu saya untuk fokus pada hal lainnya selain pada perjalanan saya itu sendiri, misalnya saja, semenjak menggunakan KRL, saya bisa menghabiskan banyak bacaan buku ketimbang menggunakan kendaraan sendiri.  
   
 Kekurangan dari menggunakan kendaraan umum mungkin bisa menyebabkan waktu perjalanan kamu semakin lama dan beresiko terlambat datang ke kantor, tapi saya bisa jamin, kamu tidak akan menyesal dengan menggunakan transportasi umum untuk berangkat antara rumah dan kantor. Seperti yang saya bilang sebelumnya, kamu akan menemukan banyak hal menarik yang bisa kamu jadikan subjek fotografi pada saat di jalan menuju ke kantor atau rumah dengan transportasi umum.  
 
-#### 2\. Buat sebuah photo project
+### Buat sebuah photo project
 
 Supaya memudahkan untuk fokus, saya membuat sebuah photo project supaya hasil foto saya tetap fokus pada tema atau project yang sudah kita tentukan. Fokus pada project memudahkan saya untuk melihat potensi-potensi sebuah momen untuk saya ambil jepret dan saya masukkan ke dalam salah satu photo project saya.  
   
 Photo project bisa lebih dari satu, asal kita tetap fokus mengerjakan project tersebut, saya rasa punya banyak photo project tidak jadi masalah. Saya sendiri saat ini sedang fokus pada 3 project, ketiganya juga tidak berada dalam satu tempat, maksudnya, subyek foto dari 3 project saya tidak akan bisa saya foto dalam satu tempat.  
 
-#### 3\. Satu kamera dan  Satu lensa selama Satu tahun
+### Satu kamera dan Satu lensa selama Satu tahun
 
 Gunakanlah 1 kamera dan 1 lensa selama satu tahun atau selama pengerjaan project, supaya tidak terjadi inkonsistensi pada hasil foto pada photo project-mu, juga supaya lebih fokus pada kegiatan memotret, sehingga kita tidak lagi meraba-raba fitur kamera baru.  
   

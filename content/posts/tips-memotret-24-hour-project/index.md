@@ -1,22 +1,14 @@
-+++
-title = "Tips Memotret di 24 Hour Project Jakarta"
-date = 2017-03-27T15:08:00Z
-updated = 2018-11-11T14:30:42Z
-tags = ["fotografi"]
-draft = true
-blogimport = true 
-[author]
-	name = "jekicann"
-	uri = "https://www.blogger.com/profile/04171796069233081594"
-+++
+---
+title: Tips Memotret di 24 Hour Project Jakarta
+date: 2017-03-27
+description: 
+slug: tips-memotret-24-hour-project
+---
 
-Setelah saya memperkenalkan kegiatan 24 Hour Project di [tulisan saya sebelumnya](https://dagoryn.blogspot.com/2017/03/24-hour-project-1-april-2017-jakarta.html), selanjutnya saya akan memberikan tips memotret di kegiatan 24 Hour Project, khususnya di Jakarta, Indonesia.  
+Setelah saya memperkenalkan kegiatan 24 Hour Project di [tulisan saya sebelumnya][24 hour project], selanjutnya saya akan memberikan tips memotret di kegiatan 24 Hour Project, khususnya di Jakarta, Indonesia.
+
+<!--more-->
   
-
-[![](https://2.bp.blogspot.com/-LTxUNXOWuZo/WRlhzhcvJzI/AAAAAAAAYPk/XQbbZgbsB4sbuuA8FUcdsvhg4l21LOCUgCLcB/s1600/tumblr_oncrvwUDVs1u01euvo1_1280.jpg)](https://2.bp.blogspot.com/-LTxUNXOWuZo/WRlhzhcvJzI/AAAAAAAAYPk/XQbbZgbsB4sbuuA8FUcdsvhg4l21LOCUgCLcB/s1600/tumblr_oncrvwUDVs1u01euvo1_1280.jpg)
-
-Foto 24 Hour Project tahun lalu
-
 Tulisan ini merupakan hasil pengalaman tahun sebelumnya, juga berdasarkan keterangan fotografer-fotografer yang pada tahun-tahun sebelumnya sudah mengikuti kegiatan 24 Hour Project ini.  
   
 Semoga bermanfaat.  
@@ -30,7 +22,6 @@ Saya sendiri lebih merekomendasikan menggunakan kamera yang lebih kecil lagi, se
 Bicara soal cadangan, hal penting yang perlu disiapkan adalah daya tambahan, seperti powerbank dan baterai tambahan. Walaupun hanya diminta mengupload 24 foto terbaik, tidak ada salahnya untuk membawa memory cadangan. Tapi saya sendiri hanya cukup dengan 8GB SD card, karena saya hanya memotret sedikit, 8GB bagi saya lebih dari cukup untuk mendapatkan 24 foto terbaik.  
   
 Supaya memudahkan transfer data dari kamera digital ke smartphone (untuk diunggah ke Instagram), saya lebih menyarankan menggunakan card reader yang bisa dipasang ke smartphone, daripada menggunakan SD Card ber-wifi, atau kamera yang memiliki wifi. Karena bakal menguras baterai cukup cepat apabila melakukan transfer foto menggunakan wifi.  
-  
 Menurut saya membawa bawaan lebih ringan dan sedikit gear lebih baik, karena memudahkan untuk fokus pada memotret dan tidak cepat menguras stamina (karena hunting 24 jam).  
 
 ### Perlengkapan Penting Lainnya
@@ -43,9 +34,11 @@ Bawalah uang secukupnya, apabila memungkinkan, hindari membawa dokumen yang sang
 
 Persiapkan rute perjalanan sedini mungkin, apabila memiliki grup untuk hunting saat 1 April nanti, mungkin bisa dirumuskan rute perjalanan dengan grup beberapa hari sebelumnya, supaya juga bisa memperkirakan tempat istirahat.  
   
-Walaupun kemungkinan pada hari H nanti rute bisa berubah, tapi dengan menetapkan sedari awal, bisa memudahkan kamu untuk mempersiapkan uang dan perlengkapan tambahan juga bisa membantu kita untuk tetap fokus dan engga kehilangan arah atau bahkan bingung mau motret di mana saat hari H nanti.  
+Walaupun kemungkinan pada hari H nanti rute bisa berubah, tapi dengan menetapkan sedari awal, bisa memudahkan kamu untuk mempersiapkan uang dan perlengkapan tambahan juga bisa membantu kita untuk tetap fokus dan engga kehilangan arah atau bahkan bingung mau motret di mana saat hari H nanti.
 
-### Istirahat yang Cukup
+Apalagi kalau misalnya tempat-tempat tersebut menarik di waktu-waktu tertentu, misalnya ketika ada matahari pagi, atau matahari sore. Dengan menyiapkan rute perjalanan, kamu bisa tetap mendapatkan momen ketika waktu-waktu yang krusial tadi itu.
+
+### Rencanakan Waktu Istirahat
 
 Untuk bisa memotret selama 24 jam, tentu diperlukan stamina supaya tetap fokus memotret. Untuk menyiasati hal tersebut, maka istirahatlah yang cukup, kalau bisa, rencanakan dari awal istarahatmu. Misalnya istirahat saat pagi (sekitar pukul 05.00), waktu sarapan, makan siang sekalian tidur sebentar, sore (sekitar pukul 15.00), dan makan malam. Perkirakan waktu tersebut akan berada di mana. Makanya kalau bisa sedari awal rute perjalanan sudah ditentukan.  
   
@@ -60,11 +53,13 @@ Perhatikan larangan untuk memotret di tempat privat seperti di dalam Stasiun, te
 Karena di Jakarta larangan memotret tidak seketat di luar Negeri, tapi perhatikan untuk tidak melanggar etika, kurangi atau bahkan kalau bisa hindari memotret pengemis, anak jalanan, dan gelandangan. Kalaupun misalnya terdapat yang saya sebutkan tadi masuk ke dalam frame, buatlah supaya orang-orang tadi tidak menonjol di dalam frame tersebut.  
   
 Hindari membuat orang merasa tidak nyaman, mintalah izin kepada subyek yang difoto (terutama foto portrait). Jelaskan apa yang kamu lakukan pada hari itu, supaya subyek foto merasa aman (foto tidak disalahgunakan). Berikan juga dokumen seperti kartu nama atau kartu presentasi 24hourproject supaya bisa memberikan kenyamanan kepada subyek fotografi kita.  
-
-### Kurangi Waktu Ketika Mengedit Foto
+### Kurangi Mengedit Foto
 
 Karena ini adalah kegiatan 24 jam, mungkin kita tidak memiliki waktu yang cukup banyak untuk post processing atau mengedit foto. Beberapa fotografer menyarankan mengedit foto di kamera atau di ponsel, sebelum diunggah. Apabila kamu punya preset di aplikasi smartphone, usahakan menetapkan beberapa preset saja, supaya waktu kamu memotret lebih banyak dibandingkan mengedit foto.  
   
 Ada beberapa aplikasi pada smartphone yang bisa kamu gunakan untuk mengedit foto, seperti Snapseed atau VSCO, ada juga Lightroom Mobile. Usahakan untuk mempelajari workflow aplikasi-aplikasi tersebut sebelum hari H tanggal 1 April nanti, supaya waktu mengedit foto lebih sedikit dan kita bisa lebih fokus untuk memotret.  
   
 Selamat hunting foto di tanggal 1 April besok!!!
+
+
+[24 hour project]: /24-hour-project
