@@ -3,6 +3,8 @@ title: Tragedi Camp di Kaki Gunung Ungaran
 date: 2020-04-10
 description: Ini bukanlah cerita misteri, tapi lebih ke kekonyolan percintaan saya waktu kuliah di Semarang dulu.
 slug: tragedi-camp-di-kaki-gunung-ungaran
+images: 
+ - /tragedi-camp-di-kaki-gunung-ungaran/featured.png
 categories:
  - self
 tags:
@@ -61,7 +63,7 @@ Saya akhirnya nekat.
 
 Setelah barang-barang turun semua dari mobil, saya dengan buru-buru bilang ke temen-temen saya itu kalau saya mau balik lagi ke Tembalang, dan nanti akan menyusul menggunakan sepeda motor. 
 
-Karena temen saya bingung juga dan karena supirnya marah-marah, akhirnya saya ditarik paksa oleh temen saya itu, bener-bener keputusan yang benar. Karena belum tentu saya bisa balik lagi menjemput temen-temen saya itu. 
+Karena temen saya bingung juga dan karena supirnya marah-marah, akhirnya saya ditarik paksa oleh temen saya itu, bener-bener keputusan yang tepat. Karena belum tentu saya bisa balik lagi menjemput temen-temen saya itu. 
 
 Bisa jadi saya malah berantem hebat dan akhirnya bad mood untuk balik mengejar temen-temen saya yang mau naik ke kebun teh itu.
 

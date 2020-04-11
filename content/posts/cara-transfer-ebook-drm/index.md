@@ -53,9 +53,9 @@ Setelah menginstall PocketBook reader, hal yang harus dilakukan adalah AUTHORIZE
 
 Penting untuk diingat, Adobe ID ini harus sama antara yang di eBook reader dan PC kamu membuka Adobe Digital Editions tadi. Kalau lupa, kamu tinggal reset password saja. 
 
-### Error: E_GOOGLE_DEVICE_LIMIT_REACHED
+### Troubleshoot
 
-Kalau kamu tak sengaja memasukkan file .acsm ke dalam Adobe Digital Editions tanpa authorizarion ke Adobe ID, dan akhirnya ketika kamu memasukkan Adobe ID kamu tersebut, buku tadi tidak bisa dibuka, dan mendapati error: 
+Kalau kamu tak sengaja memasukkan file .acsm ke dalam Adobe Digital Editions tanpa authorizarion ke Adobe ID, dan akhirnya ketika kamu baru inget untuk memasukkan Adobe ID kamu tersebut, dan mendapati error: 
 
 `E_GOOGLE_DEVICE_LIMIT_REACHED`
 

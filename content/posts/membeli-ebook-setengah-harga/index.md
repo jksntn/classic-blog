@@ -49,7 +49,7 @@ Mungkin yang jadi pertanyaan selanjutnya adalah. Kamu pikir buku-buku tersebut h
 
 **ENGGA DONG...**
 
-Buku yang kamu beli di [Google Play Store][google book] dan [Kobo.com][kobo] bisa kamu pindahkan kok ke Ebook Reader. Caranya akan saya jelaskan di artikel [Memindahkan eBook dari Google Play Store ke Ebook Reader](/2020/03/cara-transfer-ebook-drm/).
+Buku yang kamu beli di [Google Play Store][google book] dan [Kobo.com][kobo] bisa kamu pindahkan kok ke Ebook Reader. Caranya akan saya jelaskan di artikel [Memindahkan eBook dari Google Play Store ke Ebook Reader](/cara-transfer-ebook-drm).
 
 Selamat membaca!
 
