@@ -3,10 +3,13 @@ title: Laki Kok Minum Kopi Pake Gula?
 date: 2019-10-21
 description: Kejadian ini menimpa saya mungkin pada tahun 2013-an akhir, saya lupa tepatnya.
 slug: laki-kok-minum-kopi-pake-gula
+images: 
+ - /laki-kok-minum-kopi-pake-gula/featured.jpg
 categories:
  - self
 tags:
  - kopi hitam
+ - kopi
 ---
 
 Saat itu ketika saya mau menjadi peminum kopi snob, saya mulai sering main ke coffeshop punya anak komunitas tempat saya kerja. Kebetulan lokasinya deket tempat kerja, jadi aja ga punya alasan buat ngebatalin janji.

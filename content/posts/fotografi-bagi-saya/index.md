@@ -3,6 +3,8 @@ title: Fotografi Bagi Saya
 date: 2016-05-01
 description: Bicara mengenai fotografi, saya mulai serius dengan fotografi adalah saat saya menggunakan kamera SLR Nikon FM10 waktu kuliah dulu kala
 slug: fotografi-bagi-saya
+images:
+ - /fotografi-bagi-saya/featured.jpg
 categories:
  - self
 tags: 

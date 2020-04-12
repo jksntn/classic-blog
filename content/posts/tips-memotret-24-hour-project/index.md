@@ -1,27 +1,34 @@
 ---
-title: Tips Memotret di 24 Hour Project Jakarta
+title: Tips Memotret di 24 Hour Project
 date: 2017-03-27
-description: 
+description: Setelah saya memperkenalkan kegiatan 24 Hour Project di tulisan saya sebelumnya, selanjutnya saya akan memberikan tips memotret di kegiatan 24 Hour Project.
 slug: tips-memotret-24-hour-project
+images: 
+ - /tips-memotret-24-hour-project/featured.jpg
+categories: 
+ - photography
+tags:
+ - street photography
+ - 24 hour project
+ - tips
 ---
 
-Setelah saya memperkenalkan kegiatan 24 Hour Project di [tulisan saya sebelumnya][24 hour project], selanjutnya saya akan memberikan tips memotret di kegiatan 24 Hour Project, khususnya di Jakarta, Indonesia.
+Tulisan ini merupakan hasil pengalaman tahun sebelumnya, juga berdasarkan keterangan fotografer-fotografer yang pada tahun-tahun sebelumnya sudah mengikuti kegiatan [24 Hour Project][24 hour project] ini.  
+  
+Semoga bermanfaat. 
 
-<!--more-->
-  
-Tulisan ini merupakan hasil pengalaman tahun sebelumnya, juga berdasarkan keterangan fotografer-fotografer yang pada tahun-tahun sebelumnya sudah mengikuti kegiatan 24 Hour Project ini.  
-  
-Semoga bermanfaat.  
+<!--more--> 
 
 ### Minimalkan Gear
 
 Untuk memotret selama kurang lebih 24 jam, maka saya sarankan membawa kamera yang ringan. Apabila hanya ada kamera DSLR atau kamera Mirrorless, maka saya sarankan juga untuk menggunakan satu lensa saja, saya rekomendasikan lensa fix yang cukup lebar seperti 35mm atau lebih lebar lagi, dan memiliki bukaan yang cukup besar, misalnya f1.8. Karena bisa bermanfaat saat kondisi bercahaya kurang.  
   
-Saya sendiri lebih merekomendasikan menggunakan kamera yang lebih kecil lagi, seperti kamera poket atau kamera Smartphone, namun karena smartphone juga dipakai untuk komunikasi dan kegiatan yang membutuhkan paket data Internet, maka kemungkinan smartphone kamu akan cepat habis baterainya. Saya sendiri menggunakan kamera poket Canon S95 sebagai kamera utama dan iPhone 5 sebagai kamera cadangan.  
+Saya sendiri lebih merekomendasikan menggunakan kamera yang lebih kecil lagi, seperti kamera poket atau kamera Smartphone, namun karena smartphone juga dipakai untuk komunikasi dan kegiatan yang membutuhkan paket data Internet, maka kemungkinan smartphone kamu akan cepat habis baterainya. Saya sendiri menggunakan kamera poket [Canon S95](/canon-s95) sebagai kamera utama dan [iPhone 5](/iphone-5-untuk-street-photography) sebagai kamera cadangan.  
   
 Bicara soal cadangan, hal penting yang perlu disiapkan adalah daya tambahan, seperti powerbank dan baterai tambahan. Walaupun hanya diminta mengupload 24 foto terbaik, tidak ada salahnya untuk membawa memory cadangan. Tapi saya sendiri hanya cukup dengan 8GB SD card, karena saya hanya memotret sedikit, 8GB bagi saya lebih dari cukup untuk mendapatkan 24 foto terbaik.  
   
-Supaya memudahkan transfer data dari kamera digital ke smartphone (untuk diunggah ke Instagram), saya lebih menyarankan menggunakan card reader yang bisa dipasang ke smartphone, daripada menggunakan SD Card ber-wifi, atau kamera yang memiliki wifi. Karena bakal menguras baterai cukup cepat apabila melakukan transfer foto menggunakan wifi.  
+Supaya memudahkan transfer data dari kamera digital ke smartphone (untuk diunggah ke Instagram), saya lebih menyarankan menggunakan card reader yang bisa dipasang ke smartphone, daripada menggunakan SD Card ber-wifi, atau kamera yang memiliki wifi. Karena bakal menguras baterai cukup cepat apabila melakukan transfer foto menggunakan wifi.
+
 Menurut saya membawa bawaan lebih ringan dan sedikit gear lebih baik, karena memudahkan untuk fokus pada memotret dan tidak cepat menguras stamina (karena hunting 24 jam).  
 
 ### Perlengkapan Penting Lainnya
@@ -32,7 +39,7 @@ Bawalah uang secukupnya, apabila memungkinkan, hindari membawa dokumen yang sang
 
 ### Menyiapkan Rute Perjalanan
 
-Persiapkan rute perjalanan sedini mungkin, apabila memiliki grup untuk hunting saat 1 April nanti, mungkin bisa dirumuskan rute perjalanan dengan grup beberapa hari sebelumnya, supaya juga bisa memperkirakan tempat istirahat.  
+Persiapkan rute perjalanan sedini mungkin, apabila memiliki grup untuk hunting saat hari H nanti, mungkin bisa dirumuskan rute perjalanan dengan grup beberapa hari sebelumnya, supaya juga bisa memperkirakan tempat istirahat.  
   
 Walaupun kemungkinan pada hari H nanti rute bisa berubah, tapi dengan menetapkan sedari awal, bisa memudahkan kamu untuk mempersiapkan uang dan perlengkapan tambahan juga bisa membantu kita untuk tetap fokus dan engga kehilangan arah atau bahkan bingung mau motret di mana saat hari H nanti.
 
@@ -57,9 +64,7 @@ Hindari membuat orang merasa tidak nyaman, mintalah izin kepada subyek yang difo
 
 Karena ini adalah kegiatan 24 jam, mungkin kita tidak memiliki waktu yang cukup banyak untuk post processing atau mengedit foto. Beberapa fotografer menyarankan mengedit foto di kamera atau di ponsel, sebelum diunggah. Apabila kamu punya preset di aplikasi smartphone, usahakan menetapkan beberapa preset saja, supaya waktu kamu memotret lebih banyak dibandingkan mengedit foto.  
   
-Ada beberapa aplikasi pada smartphone yang bisa kamu gunakan untuk mengedit foto, seperti Snapseed atau VSCO, ada juga Lightroom Mobile. Usahakan untuk mempelajari workflow aplikasi-aplikasi tersebut sebelum hari H tanggal 1 April nanti, supaya waktu mengedit foto lebih sedikit dan kita bisa lebih fokus untuk memotret.  
-  
-Selamat hunting foto di tanggal 1 April besok!!!
+Ada beberapa aplikasi pada smartphone yang bisa kamu gunakan untuk mengedit foto, seperti Snapseed atau VSCO, ada juga Lightroom Mobile. Usahakan untuk mempelajari workflow aplikasi-aplikasi tersebut sebelum hari H nanti, supaya waktu mengedit foto lebih sedikit dan kita bisa lebih fokus untuk memotret.
 
 
 [24 hour project]: /24-hour-project
