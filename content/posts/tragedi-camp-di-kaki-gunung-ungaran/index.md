@@ -1,8 +1,7 @@
 ---
 title: Tragedi Camp di Kaki Gunung Ungaran
 date: 2020-04-10
-description: Ini bukanlah cerita misteri, tapi lebih ke kekonyolan percintaan saya waktu kuliah di Semarang dulu.
-slug: tragedi-camp-di-kaki-gunung-ungaran
+description: Ini bukanlah cerita misteri, tapi lebih ke kekonyolan waktu saya lagi hiking ke area kamping di kaki gunung Ungaran, waktu saya kuliah dulu.
 images: 
  - /tragedi-camp-di-kaki-gunung-ungaran/featured.png
 categories:
@@ -11,13 +10,9 @@ tags:
  - kuliah
 ---
 
-Sebelum akhirnya saya berdamai dengan diri sendiri, saya mengalami beberapa krisis dalam drama pacaran saya waktu masih kuliah dulu. 
-
-Kisah yang akan saya ceritakan ini termasuk dalam krisis pacaran saya yang mungkin entah ke berapa, namun ini termasuk krisis sebelum krisis terakhir saya dengan mantan pacar saya dulu. 
+Cerita ini termasuk yang selalu teringat-ingat kalau saya sedang nostalgia dengan teman-teman saya sewaktu kuliah dulu di Semarang. Cerita bagaimana keposesifan itu bisa mengganggu kegiatan sehari-hari perkuliahan saya. 
 
 <!--more-->
-
-Krisis ini termasuk yang selalu teringat-ingat kalau saya sedang nostalgia dengan teman-teman saya sewaktu kuliah dulu di Semarang. Krisis selanjutnya hanyalah drama-drama receh yang lebay untuk diceritakan.
 
 Jadi gini. 
 
@@ -41,7 +36,7 @@ Ada satu hal penting yang bisa dibilang luput dari perencanaan, yaitu saya lupa 
 
 Celakanya saya minta izinnya sehari sebelum saya berangkat, dan mantan saya itu seperti bad mood setelah saya ceritakan 'rencana besar' saya itu. Dia mengiyakan, padahal sebenernya engga ngizinin. 
 
-Tapi saya masa bodoh, bodohnya saya.
+Tapi saya masa bodo.
 
 Hari H pun tiba, kami bertujuh menyewa mobil angkot untuk pergi ke kebun teh Promasan, orang-orang menyebutnya sebagai Pos Pendakian Mawar, di Gunung Ungaran.
 
@@ -73,20 +68,19 @@ Iya sih. selama perjalanan saya bingung bukan main musti ngapain, sampai akhirny
 
 Dengan bersusah payah akhirnya kami sampai di kebun teh tersebut, dan segera mendirikan 'tenda' supaya bisa segera membuat makan malam dan menaruh barang bawaan kami.
 
-Sepanjang malam saya nyanyi kenceng-kenceng, ga jelas kunci dan nadanya nyayiannya, setidaknya saya bisa melampiaskan kekesalan saya malam itu.
+Sepanjang malam saya nyanyi kenceng-kenceng, ga jelas kunci dan nadanya nyayiannya, setidaknya saya bisa melampiaskan kekesalan saya malam itu. 
 
-Paginya saya dan teman-teman saya itu bener-bener menikmati suasana kebun teh, tak lupa pula kami berenang di sungai deket kebun teh itu, asik sekali sampai ada pacet yang menempel di kaki saya. Baru kami berhenti berenang di sana.
+Apalagi ditambah mie goreng yang dimasak menggunakan lilin sebatang saja, menambah keasikan malam itu. Entah sudah berapa lagu dilatunkan sambil menunggu mie goreng yang engga jelas kapan matangnya itu.
+
+Paginya saya dan teman-teman saya itu bener-bener menikmati suasana kebun teh, tak lupa pula kami berenang di sungai deket kebun teh itu, asik sekali sampai ada pacet yang menempel di kaki saya. 
+
+Baru kami berhenti berenang di sana.
 
 Dengan bersusah payah kembali kami turun untuk sampai di jalan raya dan menyewa mobil angkot untuk sampai kembali ke Tembalang. Kami sampai ke kosan masing-masing sekitar sore hari. 
 
-Mantan saya susah dihubungi, telpon saya tak diangkat, sms tak dibalas. 
-
-Belakangan saya baru tau kalo mantan saya ini pergi ke Solo tadi pagi. Jadi ceritanya saking sakit hatinya dia pergi ke temennya yang di Solo untuk menghilangkan kekesalannya pada saya.
-
-Yauda masa bodo, yang penting berantemnya bisa dipending dulu.
+Setidaknya saya benar-benar menikmati hiking yang engga jelas ini, lumayan menambah energi untuk saya menghadapi perkuliahan yang masih belum jelas itu (Maklum lagi semester akhir banget).
 
 {{< figure src="IMG_4618.JPG" caption="bodo ah..." >}}
-
 
 {{< notice note >}}
 
