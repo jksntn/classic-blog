@@ -88,3 +88,12 @@ Yauda masa bodo, yang penting berantemnya bisa dipending dulu.
 {{< figure src="IMG_4618.JPG" caption="bodo ah..." >}}
 
 
+{{< notice note >}}
+
+Jadi, tujuan saya menulis cerita ini sebenernya kalo dibilang inget mantan, engga juga, saya cuman inget masa-masa kuliah dulu bareng anak tongkrongan basket saya. 
+
+Selanjutnya saya berencana menceritakan beberapa cerita konyol tapi entah kenapa menarik untuk saya ceritakan.
+
+Tapi hikmah dari cerita ini adalah, tidak salah untuk menjadi bego karena kasmaran, tapi pesan saya buat kalian yang punya pasangan adalah, jangan mengekang satu sama lain. Nanti bakalan kacau 🤣.
+
+{{< /notice >}}
