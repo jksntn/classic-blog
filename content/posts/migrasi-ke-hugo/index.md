@@ -47,7 +47,7 @@ Kamu juga bebas menentukan seperti apa websitemu, karena membuat di platform ora
 
 Dengan menggunakan platform SSG dan hosting sendiri memberikan saya kebebasan untuk membuat seperti apa website saya itu. 
 
-Coba bayangkan tulisanmu yang kamu posting di [Medium.com][medium.com] atau di [wordpress.com][wordpress.com], bayangkan kalau sewaktu-waktu mereka bubar (seperti band) dan sampai disitulah riwayat blog/ website milikmu itu. 
+Coba bayangkan tulisanmu yang kamu posting di [Medium.com][medium] atau di [wordpress.com][wordpress.com], bayangkan kalau sewaktu-waktu mereka bubar (seperti band) dan sampai disitulah riwayat blog/ website milikmu itu. 
 
 Buat platformmu sendiri.
 
