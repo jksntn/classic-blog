@@ -13,7 +13,7 @@ Saya adalah seorang ayah yang kebetulan tinggal di Bekasi, Jawa Barat. Punya ket
 
 Kebetulan saat ini bekerja di bidang Digital Marketing. Namun juga senang mengerjakan beberapa project seperti fotografi (streetphotography), desain grafis, video content, dan juga apps development. 
 
-Mengelola komunitas bernama [Katanya Anak IT?](https://t.me/katanyanakIT/). Planningnya jadi sebuah wadah komunitas IT dan juga ladang bisnis. Selain itu juga mengerjakan project creative bernama [Delapan Piksel](https://instagram.com/delapanpiksel/).
+Mengerjakan project konsultan IT bernama [Indolink](https://indolink.id). Selain itu juga mengerjakan project creative bernama [Delapan Piksel Design](https://instagram.com/delapanpiksel/).
 
 
 ## Licence
