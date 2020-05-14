@@ -1,7 +1,7 @@
 ---
 title: About
 author: jksntn
-description: Asal usul dari Bekasi Salaryman Project
+description: Bekasi Salaryman Project awalnya adalah sebuah project street photography yang saya kerjakan pada tahun 2015 - 2017. Pada akhirnya, BSP menjadi sebuah self branding bagi saya.
 slug: about
 ---
 
