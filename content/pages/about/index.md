@@ -5,7 +5,9 @@ description: Asal usul dari Bekasi Salaryman Project
 slug: about
 ---
 
-Bekasi Salaryman Project, konsepnya adalah seorang pekerja kantoran dari Bekasi, yang punya banyak cerita untuk dibagikan.
+Bekasi Salaryman Project awalnya adalah sebuah project street photography yang saya kerjakan pada tahun 2015 - 2017. Pada akhirnya, BSP menjadi sebuah self branding bagi saya.
+
+Dengan menggunakan konsep "Om-om pekerja kantoran yang tinggal di Bekasi dan bejibaku mencari nafkah ke Ibu kota" yang akan memberikan kisah hidup, dan ngomongin topik-topik seperti fotografi, gadget, aplikasi, dan kegiatan sosial yang sedang ramai dibicarakan di media sosial.
 
 ## jksntn
 
