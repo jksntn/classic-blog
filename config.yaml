@@ -1,5 +1,5 @@
 baseurl: https://jksntn.pw/
-title: Blog jksntn
+title: Bekasi Salaryman
 theme:
   - hugo-cloak-email
   - hugo-notice
@@ -24,7 +24,7 @@ SectionPagesMenu: main
 
 params:
   description: Seorang pekerja kantoran dari Bekasi, yang punya banyak cerita untuk dibagikan.
-  author: by Jaka
+  author: by jksntn
   powered_by:
   github: jksntn
   twitter: "@jksntn"

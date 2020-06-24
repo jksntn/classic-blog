@@ -1,15 +1,13 @@
 ---
 title: About
 author: jksntn
-description: Bekasi Salaryman Project awalnya adalah sebuah project street photography yang saya kerjakan pada tahun 2015 - 2017. Pada akhirnya, BSP menjadi sebuah self branding bagi saya.
+description: Bekasi Salaryman adalah sebuah manifestasi pemikiran dari seorang Ayah yang tinggal di Bekasi, yang berjuang untuk mencari nafkah ke Jakarta.
 slug: about
 ---
 
-## Tentang Blog ini
+Bekasi Salaryman adalah sebuah manifestasi pemikiran dari seorang Ayah yang tinggal di Bekasi, yang berjuang untuk mencari nafkah ke Jakarta.
 
-Blog ini adalah sebuah manifestasi pemikiran dari seorang Ayah yang tinggal di Bekasi, atau dengan kata lain buah pemikiran saya sendiri. 
-
-Kadang saya menulis teknologi, fotografi, atau tips dan trik. Ya pokoknya kurang lebih ngomongin itulah.
+Di web ini terkadang saya menulis teknologi, fotografi, atau tips dan trik. Ya pokoknya kurang lebih ngomongin itulah.
 
 ## jksntn
 
@@ -17,14 +15,12 @@ Saya adalah seorang ayah yang kebetulan tinggal di Bekasi, Jawa Barat. Punya ket
 
 Kebetulan saat ini bekerja di bidang Digital Marketing. Namun juga senang mengerjakan beberapa project seperti fotografi (streetphotography), desain grafis, video content, dan juga web development. 
 
-## Licence
+## Contact
 
-Beberapa konten grafis atau foto kemungkinan milik orang lain dan kemungkinan memiliki Copyright, harap diperhatikan aturan atau etika dalam menyomot konten-konten tersebut. Konten foto atau grafis yang saya buat gratis, namum ada baiknya diberikan credit ketika kamu membagikannya di tempat lain.
+Kamu bisa menemukan saya di digital dengan username saya `jksntn`
 
-Konten tulisan yang bermanfaat buat Anda seluruhnya gratis, harap diperhatikan untuk selalu membagikan juga kebaikan kepada orang lain. 
-
-Salam, 
-
-Jaka (jksntn)
+- [Twitter](https://twitter.com/jksntn) - microblog, hubungi saya lewat sini
+- [Instagram](https://instagram.com/jksntn) - visual story, kamu bisa hubungi saya lewat ini juga
+- [Facebook](https://facebook.com/jksntn) - untuk komunitas, jualan barang second, dll
 
 <!--more-->
