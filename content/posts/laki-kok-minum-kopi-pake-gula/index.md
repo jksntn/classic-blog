@@ -20,7 +20,7 @@ Singkat cerita, ternyata anak-anak komunitas saya ini entah emang penikmat kopi 
 
 Akhirnya tinggal saya yang belum mesen kopi, dan setelah melihat daftar menunya, yauda saya milih kopi Aceh dong, biar dianggap penikmat kopi beneran. (Sebenarnya alasannya karena kebetulan kopi Acer harganya paling murah dibandingkan Cafe Latte dan sebangsanya).
 
-Kalau saya bisa mengingat-ingat, kopi Acerhnya itu pahit dan asem, namun lebih dominan pahitnya, kalau dibandingin dengan kopi lampung yang saya tau.
+Kalau saya bisa mengingat-ingat, kopi Acehnya itu pahit dan asem, namun lebih dominan pahitnya, kalau dibandingin dengan kopi lampung yang saya tau.
 
 Kopi sayapun jadi dan kemudian disajikan, lengkap dengan cerita baristanya bagaimana atau sejarah mengenai kopi Aceh yang disajikannya itu.
 
