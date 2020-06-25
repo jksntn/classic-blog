@@ -11,7 +11,7 @@ Web ini terkadang menjadi media saya untuk menyalurkan opini dan gagasan terkait
 
 Kebetulan saat ini bekerja di bidang Digital Marketing dan IT. Namun juga senang mengerjakan beberapa project seperti fotografi (streetphotography), desain grafis, video content, dan juga web development. 
 
-## Contact
+### Contact
 
 Kamu bisa menemukan saya di digital dengan username saya `jksntn`
 
