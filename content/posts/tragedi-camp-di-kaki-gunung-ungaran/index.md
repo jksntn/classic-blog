@@ -2,6 +2,7 @@
 title: Tragedi Camp di Kaki Gunung Ungaran
 date: 2020-04-10
 description: Ini bukanlah cerita misteri, tapi lebih ke kekonyolan waktu saya lagi hiking ke area kamping di kaki gunung Ungaran, waktu saya kuliah dulu.
+draft: true
 images: 
  - /tragedi-camp-di-kaki-gunung-ungaran/featured.png
 categories:
