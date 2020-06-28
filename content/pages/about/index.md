@@ -19,5 +19,3 @@ Kamu bisa menemukan saya di digital dengan username saya `jksntn`
 - [Instagram](https://instagram.com/jksntn) - visual story, kamu bisa hubungi saya lewat ini juga
 - [Telegram](https://t.me/jksntn) - hubungi saya lewat Telegram 
 - [Facebook](https://facebook.com/jksntn) - untuk komunitas, jualan barang second, dll
-
-<!--more-->
