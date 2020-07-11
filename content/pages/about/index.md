@@ -13,7 +13,7 @@ Kebetulan saat ini bekerja di bidang Digital Marketing dan IT. Namun juga senang
 
 ### Contact
 
-Kamu bisa menemukan saya di digital dengan username saya `jksntn`
+Kamu bisa menemukan saya di digital dengan username saya `jksntn`.
 
 - [Twitter](https://twitter.com/jksntn) - microblog, hubungi saya lewat sini
 - [Instagram](https://instagram.com/jksntn) - visual story, kamu bisa hubungi saya lewat ini juga
