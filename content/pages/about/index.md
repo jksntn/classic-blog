@@ -9,7 +9,7 @@ Saya adalah seorang ayah yang kebetulan tinggal di Bekasi, Jawa Barat. Punya ket
 
 Web ini terkadang menjadi media saya untuk menyalurkan opini dan gagasan terkait passion saya di bidang teknologi, seni dan desain. Terkadang juga saya menulis tentang hal-hal menarik yang dulu pernah terjadi di kehidupan saya.
 
-Kebetulan saat ini bekerja di bidang Digital Marketing dan IT. Namun juga senang mengerjakan beberapa project seperti fotografi (streetphotography), desain grafis, video content, dan juga web development. 
+Kebetulan saat ini bekerja di bidang IT. Namun juga senang mengerjakan beberapa project seperti fotografi (streetphotography), desain grafis, video content, dan juga web development. 
 
 ### Contact
 
