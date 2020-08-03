@@ -63,7 +63,7 @@ Saya sendiri menggunakan template orang lain dan mengubahnya sesuai kebutuhan da
 
 Jadi tak ada alasan untuk tetap mempertaruhkan blog/website kamu di tangan orang lain, buatlah platformmu sendiri.
 
-Selamat berkoding ria 💪.
+Selamat berkoding ria 💪💪.
 
 [netlify]:  https://www.netlify.com/
 [hugo theme]:  https://themes.gohugo.io/
