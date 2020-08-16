@@ -23,8 +23,8 @@ enableRobotsTXT: true
 SectionPagesMenu: main
 
 params:
-  description: Seorang mantan Community Manager dan pejuang pencari nafkah dari Bekasi yang punya banyak cerita untuk dibagikan.
-  author: by jksntn
+  description: Pemikiran yang ditulis oleh Jaka Santana mengenai teknologi, isu saat ini, dan bagaimana cara saya menjadi bapak-bapak.
+  author: by Jaka Santana
   powered_by:
   github: jksntn
   twitter: "@jksntn"

@@ -70,7 +70,7 @@ Bagi pengguna Hugo yang menaruh file .jpeg, .png, dan file apapun itu di dalam f
 
 Menggunakan static web generator untuk saat ini menjadi pilihan terakhir saya untuk tetap mempertahankan blog saya ini. Untungnya ada cara untuk mengimport tulisan ke hugo yang bisa digunakan apabila kamu mau memindahkan tulisan kamu tadi dari platform lainnya.
 
-**Bye bye 👋 Medium 🤣**.
+**Bye bye 👍 Medium 🤣**.
 
 [medium]: https://medium.com/
 [telegraph]: https://instantview.telegram.org/
