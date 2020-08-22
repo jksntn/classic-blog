@@ -29,9 +29,9 @@
     <div class="entry-meta">
       <a href="{{ .Permalink }}">{{ partial "post/meta" . }}</a>
     </div> <!-- .entry-meta -->
-    {{ with .Description }}
+    <!--{{ with .Description }}
       <div class="entry-summary" itemprop="description"><em>{{ . | markdownify }}</em></div>
-    {{ end }}
+    {{ end }} -->
   </header> <!-- .entry-header -->
   <div class="entry-content">
     {{.Content}}
