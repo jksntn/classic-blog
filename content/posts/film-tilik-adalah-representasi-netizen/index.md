@@ -11,7 +11,7 @@ tags:
  - trending
 ---
 
-Film pendek berjudul Tilik rilis pada bulan Agustus 2020 (lupa tanggalnya, [liat aja di video](https://www.youtube.com/watch?v=GAyvgz8_zV8&t=1494s)), film ini menghebohkan dunia maya, menjadi trending topik, dan menjadi perbincangan saya bersama istri.
+Film pendek berjudul Tilik rilis di youtube pada bulan Agustus 2020 (lupa tanggalnya, [liat aja di video](https://www.youtube.com/watch?v=GAyvgz8_zV8&t=1494s)), film ini menghebohkan dunia maya, menjadi trending topik, dan menjadi perbincangan saya bersama istri.
 
 Istri saya suka film ini, berarti film ini emang bagus, bukan kualitas kaleng-kaleng yang akhirnya musti digenjot oleh para buzzer biar videonya ditontonin orang-orang.
 
