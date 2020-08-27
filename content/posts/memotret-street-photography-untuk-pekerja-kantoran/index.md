@@ -1,7 +1,7 @@
 ---
 title: Memotret Street Photography untuk Pekerja Kantoran
 date: 2017-01-31
-description: Namanya saja street photography, tentunya proses memotret pun terjadi di jalan, atau di luar. Lalu, apakah seorang karyawan atau pekerja kantoran yang punya waktu kerja tetap, bisa memotret street photography?  
+description: Tips dari saya cara memotret street photography untuk pekerja kantoran
 slug: memotret-street-photography-untuk-pekerja-kantoran
 images: 
  - /memotret-street-photography-untuk-pekerja-kantoran/featured.jpg
@@ -10,6 +10,8 @@ categories:
 tags:
  - street photography
 ---
+
+Namanya saja street photography, tentunya proses memotret pun terjadi di jalan, atau di luar. Lalu, apakah seorang karyawan atau pekerja kantoran yang punya waktu kerja tetap, bisa memotret street photography? 
 
 Selain pertanyaan apakah seorang pekerja kantoran yang kerja tetap, bisa memotret street photography, pertanyaan lainpun akan timbul. Apakah bisa seorang yang kerja full time bahkan Weekend-pun dipakai kerja, bisa memotret street photography?  
 

@@ -1,7 +1,7 @@
 ---
 title: Street Tattoo
 date: 2017-08-27
-description: Sebenarnya ada banyak foto 24 Hour Project Saya yang saya fotoin pada tanggal 1 April 2017 yang lalu. Memang engga sampai 24 foto yang saya upload di media Sosial, lebih tepatnya saya hanya mengunggah sebanyak 12 foto.
+description: Salah satu foto terbaik saya saat memotret 24 Hour project tahun 2017
 slug: street-tattoo
 images:
  - /street-tattoo/featured.jpg
@@ -12,6 +12,8 @@ tags:
  - street photography
  - essay photo
 ---
+
+Sebenarnya ada banyak foto 24 Hour Project Saya yang saya fotoin pada tanggal 1 April 2017 yang lalu. Memang engga sampai 24 foto yang saya upload di media Sosial, lebih tepatnya saya hanya mengunggah sebanyak 12 foto.
 
 Dari kedua belas foto yang saya unggah, ada satu foto yang ternyata direupload atau direpost sama akun instagram [@24hourproject Official](https://instagram.com/24hourproject). Foto ini juga menjadi salah satu favorit saya. Oleh karena itu pada kesempatan kali ini saya akan membahas foto ini. 
 

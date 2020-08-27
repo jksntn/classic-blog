@@ -2,7 +2,7 @@
 title: 24 Hour Project
 date: 2017-03-25
 author: jksntn
-description: Buat para penggemar fotografi dokumenter dan street photography, maka 24 Hour Project ini bisa menjadi motivasi yang bagus bagi kita untuk membuat sebuah proyek street photography dan juga event ini bisa menjadi ajang pertemuan dengan para fotografer street lainnya, yang biasanya hanya bertemu di Instagram. 
+description: Ngomongin project fotografi bernama 24 hour project
 slug: 24-hour-project
 images: 
   - /24-hour-project/featured.jpg
@@ -12,6 +12,7 @@ tags:
   - street photography
   - 24 hour project
 ---
+Buat para penggemar fotografi dokumenter dan street photography, maka 24 Hour Project ini bisa menjadi motivasi yang bagus bagi kita untuk membuat sebuah proyek street photography dan juga event ini bisa menjadi ajang pertemuan dengan para fotografer street lainnya, yang biasanya hanya bertemu di Instagram. 
 
 24 Hour Project adalah sebuah proyek fotografi tahunan yang awalnya dilakukan oleh Renzo Grande dan Sam Smotherman di tahun 2012, diikuti oleh 65 fotografer di 24 kota dan 20 Negara. Sekarang merupakan tahun ke 5 diselenggarakannya 24 Hour Project ini. 
 

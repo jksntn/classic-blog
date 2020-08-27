@@ -1,5 +1,5 @@
 baseurl: https://jksntn.pw/
-title: Jaka Santana
+title: Menjadi Bapak-Bapak oleh Jaka Santana
 theme:
   - hugo-cloak-email
   - hugo-notice
@@ -24,7 +24,7 @@ SectionPagesMenu: main
 
 params:
   description: Pemikiran yang ditulis oleh Jaka Santana mengenai teknologi, isu saat ini, dan bagaimana cara saya menjadi bapak-bapak.
-  author: by Jaka Santana
+  author: Jaka Santana
   powered_by:
   github: jksntn
   twitter: "@jksntn"

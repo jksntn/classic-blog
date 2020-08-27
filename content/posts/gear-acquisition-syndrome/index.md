@@ -1,7 +1,7 @@
 ---
 title: Gear Acquisition Syndrome
 date: 2017-07-10
-description: GAS menyebabkan para fotografer amatir lebih memilih menumpuk koleksi kamera dan lensa, tapi tidak ada progress pada kualitas hasil foto para fotografer ini.
+description: Ngomongin gear acquisition syndrome atau gas pada fotografer pemula
 slug: gear-acquisition-syndrome
 images: 
  - /gear-acquisition-syndrome/featured.jpg
@@ -12,6 +12,7 @@ tags:
  - photography
  - streetphotography
 ---
+GAS menyebabkan para fotografer amatir lebih memilih menumpuk koleksi kamera dan lensa, tapi tidak ada progress pada kualitas hasil foto para fotografer ini.
 
 Pernah dengar istilah ini? Iya, Gear Acquisition Syndrome atau disingkat GAS merupakan sesuatu yang berbahaya buat para fotografer. Sebenarnya enggak hanya buat fotografer aja sih, buat orang lain juga berbahaya, tapi karena saya sedang ngobrolin GAS dan korelasinya dengan fotografi, jadi di tulisan ini akan saya bahas bahayanya GAS buat para fotografer.  
 

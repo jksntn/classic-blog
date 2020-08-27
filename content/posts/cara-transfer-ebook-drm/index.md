@@ -2,7 +2,7 @@
 title: Cara Transfer eBook DRM
 date: 2020-03-20
 author: jksntn
-description: Karena saya termasuk warga negara yang baik, maka saya sangat menghindari namanya pembajakan buku. Namun alasan saya tidak membajak buku tersebut sebenarnya bukan karena rasa kemanusiaan sih, tapi karena engga nemu aja bajakannya 🙈.
+description: Bagaimana cara saya transfer eBook ber drm ke eBook Reader lain
 slug: cara-transfer-ebook-drm
 images: 
   - /cara-transfer-ebook-drm/cara-transfer-ebook-drm.png
@@ -12,6 +12,7 @@ tags:
   - ebook
   - ebook reader
 ---
+Karena saya termasuk warga negara yang baik, maka saya sangat menghindari namanya pembajakan buku. Namun alasan saya tidak membajak buku tersebut sebenarnya bukan karena rasa kemanusiaan sih, tapi karena engga nemu aja bajakannya 🙈.
 
 Nah, di tulisan saya kali ini, saya mau menceritakan bagaimana saya memindahkan buku-buku DRM habis beli di [Google Play Books](https://play.google.com/store/books) atau Store Online lain seperti [Kobo.com](https://kobo.com), ke eBook reader seperti aplikasi di Android, Kobo eReader, Kindle eReader, dll.
 

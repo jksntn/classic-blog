@@ -1,7 +1,7 @@
 ---
 title: Migrasi ke Hugo
 date: 2020-04-11
-description: Pada tahun 2020 ini saya kembali menggunakan static site generator untuk membuat blog jksntn ini, dan saya memilih Hugo sebagai frameworknya, karena mudah digunakan di Windows.
+description: Cerita saya pindahan blog ke Static Site Generator Hugo
 slug: migrasi-ke-hugo
 images:
  - /migrasi-ke-hugo/featured.png
@@ -12,6 +12,8 @@ tags:
  - static site generator
  - blog
 ---
+
+Pada tahun 2020 ini saya kembali menggunakan static site generator untuk membuat blog jksntn ini, dan saya memilih Hugo sebagai frameworknya, karena mudah digunakan di Windows.
 
 Setelah saya menggunakan berbagai macam platform untuk ngeblog, mulai dari [wordpress.com][wordpress.com], [blogspot][blogspot], [tumblr][tumblr], [postach.io][postach], kemudian self hosting menggunakan [wordpress.org][wordpress.org], dan juga self hosting menggunakan [jekyll][jekyll]. Kemudian mencoba platform ajaib [medium.com][medium], [write.as][writeas], dan [telegraph][telegraph].
 

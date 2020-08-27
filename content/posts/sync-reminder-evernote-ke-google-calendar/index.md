@@ -1,7 +1,7 @@
 ---
 title: Sync Reminder Evernote ke Google Calendar
 date: 2020-03-26
-description: Walaupun Evernote sudah bisa dibilang sebagai Note Taking yang lengkap, tapi menurut saya masih ada satu hal yang kurang, yaitu dukungan ke kalender.
+description: Ngomongin cara sync reminder evernote ke Google Calendar
 slug: sync-reminder-evernote-ke-google-calendar
 images: 
  - /sync-reminder-evernote-ke-google-calendar/evernote-google-calendar.png
@@ -12,6 +12,8 @@ tags:
  - google calendar
  - cronofy
 ---
+
+Walaupun Evernote sudah bisa dibilang sebagai Note Taking yang lengkap, tapi menurut saya masih ada satu hal yang kurang, yaitu dukungan ke kalender.
 
 Kurangnya dukungan ke kalender third-party ini juga yang tidak ada di aplikasi note taking yang lain seperti [Notion.io](https://notion.so/). 
 

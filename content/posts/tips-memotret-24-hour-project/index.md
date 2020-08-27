@@ -1,7 +1,7 @@
 ---
 title: Tips Memotret di 24 Hour Project
 date: 2017-03-27
-description: Setelah saya memperkenalkan kegiatan 24 Hour Project di tulisan saya sebelumnya, selanjutnya saya akan memberikan tips memotret di kegiatan 24 Hour Project.
+description: Tips memotret di acara 24 hour project dari saya 
 slug: tips-memotret-24-hour-project
 images: 
  - /tips-memotret-24-hour-project/featured.jpg
@@ -12,6 +12,8 @@ tags:
  - 24 hour project
  - tips
 ---
+
+Setelah saya memperkenalkan kegiatan 24 Hour Project di tulisan saya sebelumnya, selanjutnya saya akan memberikan tips memotret di kegiatan 24 Hour Project. 
 
 Tulisan ini merupakan hasil pengalaman tahun sebelumnya, juga berdasarkan keterangan fotografer-fotografer yang pada tahun-tahun sebelumnya sudah mengikuti kegiatan [24 Hour Project][24 hour project] ini.  
   

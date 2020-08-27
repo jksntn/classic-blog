@@ -1,16 +1,17 @@
 ---
-title: Fotografi Bagi Saya
+title: Fotografi Buat Saya
 date: 2016-05-01
-description: Bicara mengenai fotografi, saya mulai serius dengan fotografi adalah saat saya menggunakan kamera SLR Nikon FM10 waktu kuliah dulu kala
-slug: fotografi-bagi-saya
+description: Ngomongin betapa pentingnya fotografi buat saya
+slug: fotografi-buat-saya
 images:
- - /fotografi-bagi-saya/featured.jpg
+ - /fotografi-buat-saya/featured.jpg
 categories:
  - self
 tags: 
  - photography
  - street photogtaphy
 ---
+Bicara mengenai fotografi, saya mulai serius dengan fotografi adalah saat saya menggunakan kamera SLR Nikon FM10 waktu kuliah dulu kala.
 
 Saat saya kuliah dulu saya menghabiskan 2 exposure film karena satu roll dibagi beberapa buat anak-anak yang sedang mengikuti workshop fotografi dasar. Pada akhir-akhir masa kuliah baru saya bisa mencicipi namanya DSLR, saya meminjam Canon 1000D milik temen saya saat sedang trip panjang ke nikahan teman di Indramayu.
 

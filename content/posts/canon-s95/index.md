@@ -1,7 +1,7 @@
 ---
 title: Canon S95
 date: 2017-02-10
-description: Canon S95 merupakan kamera pocket yang saya gunakan untuk mengganti penggunaan smartphone untuk memotret street photography
+description: Review kamera poket Canon S95 untuk memotret street photography
 slug: canon-s95
 images: 
  - /canon-s95/featured.jpg
@@ -11,6 +11,8 @@ tags:
  - canon
  - gear
 ---
+
+Canon S95 merupakan kamera pocket yang saya gunakan untuk mengganti penggunaan smartphone untuk memotret street photography.
 
 Mengapa saya mereview kamera ini? Tentu saja karena saya sedang menggunakan kamera ini untuk memotret street photography. Setelah saya puas menggunakan smartphone iPhone 5 selama tahun 2016 untuk memotret street photography.
 
