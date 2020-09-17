@@ -4,6 +4,7 @@ date: 2020-08-22
 description: Ngomongin film Tilik yang sedang menjadi perbincangan netizen +62
 slug: film-tilik-adalah-representasi-netizen
 images:
+ - /film-tilik-adalah-representasi-netizen/featured.jpg
 categories:
  - social
 tags: 
