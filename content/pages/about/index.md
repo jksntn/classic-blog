@@ -1,5 +1,5 @@
 ---
-title: About
+title: Tentang Saya
 author: jksntn
 description: Saya adalah seorang ayah yang kebetulan tinggal di Bekasi, Jawa Barat. Punya ketertarikan atau passion yang cukup besar di bidang teknologi, seni, dan desain. 
 slug: about
