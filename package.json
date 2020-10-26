@@ -9,7 +9,8 @@
     "gulp": "^4.0.2",
     "gulp-ext-replace": "^0.3.0",
     "gulp-jsbeautifier": "^3.0.1",
-    "gulp-replace": "^1.0.0"
+    "gulp-replace": "^1.0.0",
+    "yargs-parser": "^13.1.2"
   },
   "devDependencies": {},
   "scripts": {
