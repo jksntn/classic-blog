@@ -10,10 +10,10 @@
     "gulp-ext-replace": "^0.3.0",
     "gulp-jsbeautifier": "^3.0.1",
     "gulp-replace": "^1.0.0",
-    "yargs-parser": "^13.1.2"
+    "yargs-parser": ">=13.1.2"
   },
   "devDependencies": {
-    "yargs-parser": "^13.1.2"
+    "yargs-parser": ">=13.1.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
