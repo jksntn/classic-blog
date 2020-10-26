@@ -144,7 +144,7 @@ figcaption,
 body:not(.title-tagline-hidden) .site-search-button {
   display: inline-block;
   line-height: 3.9rem;
-  float: left;
+  float: right;
 }
 
 .row {
