@@ -12,7 +12,9 @@
     "gulp-replace": "^1.0.0",
     "yargs-parser": "^13.1.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "yargs-parser": "^13.1.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
