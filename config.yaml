@@ -76,7 +76,7 @@ markup:
     angledQuotes: true
     fractions: false
     smartypantsQuotesNBSP: true
-#     footnoteReturnLinkContents: ↑
+# footnoteReturnLinkContents: ↑
   goldmark:
     renderer:
       unsafe: true

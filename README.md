@@ -50,3 +50,12 @@ Je serais heureux de publier bénévolement le guide des outils Moodle dans d'au
 ## Video
 
 `{{< youtube "_mRF0rBXIeg" >}}`
+
+## Audio
+
+```
+<audio controls>
+  <source src="music.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+```

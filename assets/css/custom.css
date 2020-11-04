@@ -339,3 +339,8 @@ div.sources {
 .site-description, .site-title, .site-title a {
   color: #444;
 }
+
+audio, video {
+  display: inline-block;
+  width: 100%;
+}
