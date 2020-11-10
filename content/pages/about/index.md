@@ -11,6 +11,10 @@ jksntn.pw menjadi media penyaluran pemikiran saya mengenai teknologi, isu saat i
 
 Kebetulan saat ini bekerja di bidang IT. Namun juga senang mengerjakan beberapa project seperti fotografi (streetphotography), desain grafis, video content, dan juga web development. 
 
+Salam hangat,
+
+![](/about/jksntn-ttd.png)
+
 ### Contact
 
 Kamu bisa menemukan saya di digital dengan username saya `jksntn`.
