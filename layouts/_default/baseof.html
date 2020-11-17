@@ -9,7 +9,8 @@
   <meta name="google-site-verification" content="iPJ0TcLx7PUk5rvhp7Zb94yo55JWSUTdHAEkTvAeqBM" />
 
   <!-- <title>{{ block "title" . }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title> -->
-  <title>{{ .Title }}{{ if ne .Title .Site.Title }} &mdash; {{ .Site.Title }}{{ end }}</title>
+  <!-- <title>{{ .Title }}{{ if ne .Title .Site.Title }} &mdash; {{ .Site.Title }}{{ end }}</title> -->
+  <title>{{ .Title }}{{ if ne .Title .Site.Title }} &mdash; Jaka Santana{{ end }}</title>
   <meta name="description" content="{{ partial "description" . }}">
   {{ $default_noindex_kinds := slice "" }}
   {{ $noindex_kinds := .Site.Params.noindex_kinds | default $default_noindex_kinds }}

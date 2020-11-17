@@ -5,9 +5,11 @@ description: Saya adalah seorang ayah yang kebetulan tinggal di Bekasi, Jawa Bar
 slug: about
 ---
 
-Saya adalah seorang ayah yang kebetulan tinggal di Bekasi, Jawa Barat. Punya ketertarikan atau passion yang cukup besar di bidang teknologi, seni, dan desain. 
+Saya adalah seorang bapak-bapak yang kebetulan tinggal di Bekasi, Jawa Barat. Punya ketertarikan atau passion yang cukup besar di bidang teknologi, seni dan isu sosial. 
 
-jksntn.pw menjadi media penyaluran pemikiran saya mengenai teknologi, isu saat ini, dan pengalaman pribadi saya. Ditulis kalau lagi sempet.  
+Platform ini menjadi media penyaluran opini saya terhadap perkembangan isu di internet, terutama teknologi, gadget, apps, operating system (os), sosial, politik, komedi, fotograi, desain grafis, film, musik, dan banyak hal.
+
+Tulisan diupdate kalau lagi sempet...
 
 Kebetulan saat ini bekerja di bidang IT. Namun juga senang mengerjakan beberapa project seperti fotografi (streetphotography), desain grafis, video content, dan juga web development. 
 

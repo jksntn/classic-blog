@@ -1605,7 +1605,7 @@ body {
 	/* letter-spacing: 0.08em; */
 	margin: 0;
 	padding: 0;
-	text-transform: lowercase;
+	text-transform: uppercase;
 }
 
 .site-title,
