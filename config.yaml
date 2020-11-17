@@ -23,7 +23,7 @@ enableRobotsTXT: true
 SectionPagesMenu: main
 
 params:
-  description: Opini yang ditulis oleh Jaka Santana mengenai teknologi, isu saat ini, dan bagaimana cara saya menjadi bapak-bapak.
+  description: Opini yang ditulis oleh Jaka Santana mengenai teknologi, isu saat ini, dan perjalanan menjadi bapak-bapak.
   author: Jaka Santana
   powered_by:
   github: jksntn
