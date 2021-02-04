@@ -73,6 +73,7 @@ Menggunakan static web generator untuk saat ini menjadi pilihan terakhir saya un
 
 **Bye bye 👍 Medium 🤣**.
 
+
 [medium]: https://medium.com/
 [telegraph]: https://instantview.telegram.org/
 [writeas]: https://write.as/
