@@ -13,6 +13,9 @@ tags:
  - ebook reader
 ---
 
+
+Photo by [青 晨](https://unsplash.com/@jiangxulei1990?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/kindle?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText).
+
 Cara membeli eBook dengan harga lebih murah ini mungkin sebenarnya udah banyak yang tau, tapi mumpung saya lagi rajin nulis lagi, sekalian aja saya kasi tipsnya buat yang belum tau.
 
 Tapi supaya berhasil, ada beberapa hal yang harus dilakukan atau disiapkan, di antaranya:
