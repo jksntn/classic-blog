@@ -6,7 +6,7 @@ theme:
   - hugo-video
 languageCode: en
 # Set site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage: id
+defaultContentLanguage: en
 # Set summary length.
 summaryLength: 250
 # Customize footnote return links.
