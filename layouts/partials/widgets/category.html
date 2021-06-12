@@ -1,0 +1,10 @@
+<aside id="secondary" class="widget-area" role="complementary" aria-label="side column">
+    <section id="category-posts" class="widget widget_related_entries">
+    <h2 class="widget-title">Kategori</h2>
+      <ul>
+        {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
+        <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+        {{end}}
+      </ul>
+    </section>
+  </aside>

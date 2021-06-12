@@ -6,7 +6,7 @@ slug: laki-kok-minum-kopi-pake-gula
 images: 
  - /laki-kok-minum-kopi-pake-gula/featured.jpg
 categories:
- - self
+ - stories
 tags:
  - kopi hitam
  - kopi

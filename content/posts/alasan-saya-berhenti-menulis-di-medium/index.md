@@ -9,7 +9,7 @@ tags:
  - medium
  - writing
 categories: 
- - Self
+ - stories
 ---
 Setelah beberapa minggu akun medium saya kena soft banned, saya memutuskan untuk menghapus akun saya dan mulai mencari platform menulis lainnya. 
 

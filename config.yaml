@@ -1,12 +1,12 @@
-baseurl: https://jksntn.pw/
+baseurl: https://jksntn.my.id/
 title: Jaka Santana
 theme:
   - hugo-cloak-email
   - hugo-notice
   - hugo-video
-languageCode: en
+languageCode: id
 # Set site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage: en
+defaultContentLanguage: id
 # Set summary length.
 summaryLength: 250
 # Customize footnote return links.

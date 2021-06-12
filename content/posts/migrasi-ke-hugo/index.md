@@ -6,7 +6,7 @@ slug: migrasi-ke-hugo
 images:
  - /migrasi-ke-hugo/featured.png
 categories:
- - web development
+ - stories
 tags:
  - hugo
  - static site generator

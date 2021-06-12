@@ -1,6 +1,6 @@
 # Bekasi Salaryman Project
 
-Personal Website of [jksntn.pw](https://jksntn.pw).
+Personal Website of [jksntn.my.id](https://jksntn.my.id).
 
 
 # Documentation

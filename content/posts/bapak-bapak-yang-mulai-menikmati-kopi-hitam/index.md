@@ -9,7 +9,7 @@ images:
 tags:
 - kopi
 categories: 
-- Self
+- stories
 ---
 
 Hampir selama saya dibesarkan, saya belum pernah minum kopi tanpa gula. Lingkungan keluarga saya tidak mengenal kopi tanpa gula. Barulah anak-anaknya yang senang minum kopi tanpa gula. 
