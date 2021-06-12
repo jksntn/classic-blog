@@ -4,8 +4,6 @@ title: Bapak-Bapak yang Mulai Bisa Menikmati Kopi Hitam
 date: 2020-08-13
 description: Bagaimana saya akhirnya bisa menikmati minum kopi hitam tanpa gula akhir-akhir ini
 slug: bapak-bapak-yang-mulai-bisa-menikmati-kopi-hitam
-images: 
- - /bapak-bapak-yang-mulai-bisa-menikmati-kopi-hitam/featured.jpg
 tags:
 - kopi
 categories: 
