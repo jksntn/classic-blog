@@ -35,7 +35,7 @@
     {{ if .PrevInSection }}<link rel="prev" href="{{ .PrevInSection.Permalink }}">{{ end }}
     {{ if .NextInSection }}<link rel="next" href="{{ .NextInSection.Permalink }}">{{ end }}
   {{ end }}
-  <link rel="shortcut icon" href="{{ "favicon.jpg" | absURL }}" type="image/jpg" />
+  <link rel="shortcut icon" href="{{ "favicon.png" | absURL }}" type="image/png" />
   <link rel="me" href="https://twitter.com/jksntn" />
 
   {{ if or (.HasShortcode "figure") (.HasShortcode "gallery") .IsHome }}
