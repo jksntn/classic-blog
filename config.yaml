@@ -28,6 +28,8 @@ params:
   powered_by:
   github: jksntn
   twitter: "@jksntn"
+  images: 
+    - "/favicon.png/"
 
   noindex_kinds: [  "taxonomy", "taxonomyTerm", "tags" ]
 
