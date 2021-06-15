@@ -4,8 +4,6 @@ date: 2020-03-20
 author: jksntn
 description: Bagaimana cara saya transfer eBook ber drm ke eBook Reader lain
 slug: cara-transfer-ebook-drm
-images: 
-  - /cara-transfer-ebook-drm/cara-transfer-ebook-drm.png
 categories:
   - books
 tags: 

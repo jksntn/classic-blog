@@ -1,5 +1,5 @@
 ---
-title: "Alasan saya menggunakan my id"
+title: "Alasan Saya Menggunakan my id"
 date: 2021-06-12
 author: jksntn
 slug: alasan-saya-menggunakan-my-id

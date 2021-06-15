@@ -3,8 +3,6 @@ title: Laki Kok Minum Kopi Pake Gula?
 date: 2019-10-21
 description: Pengalaman saya minum kopi hitam di Coffee shop
 slug: laki-kok-minum-kopi-pake-gula
-images: 
- - /laki-kok-minum-kopi-pake-gula/featured.jpg
 categories:
  - stories
 tags:
