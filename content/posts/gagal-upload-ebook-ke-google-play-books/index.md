@@ -22,13 +22,13 @@ Maksudnya saya kumpulkan adalah, buku-buku digital yang saya beli tersebut saya 
 Tentu cara ini (konversi ebook drm) sangat tidak saya sarankan, karena apabila epub tersebut dengan sengaja kamu bagikan online secara gratis maupun berbayar, hal tersebut sifatnya ilegal, dan risikonya adalah penjara.
 {{< /notice >}}
 
-Tidak hanya store yang banyak, bahkan GPB (google play books) pun saya punya dua akun, store Indonesia dan India. Yang India tujuannya buat mendapatkan ebook dengan harga yang sangat murah. Cara membuatkan saya jelaskan [di sini](/membeli-ebook-setengah-harga/).
+Tidak hanya store yang banyak, bahkan GPB (google play books) pun saya punya dua akun, store Indonesia dan India. Yang India tujuannya buat mendapatkan ebook dengan harga yang sangat murah. Cara membuat akun di store India-nya saya jelaskan di tulisan ini: [Membeli eBook Setengah Harga](/membeli-ebook-setengah-harga/).
 
 Semua buku tersebut saya kumpulkan di GPB akun store India saya.
 
 ### Processing Failed
 
-Pada suatu hari saya pernah mendapatkan pesan Error: Processing Failed ketika saya mengupload buku tersebut. Yang pasti ada struktur ebook yang gagal dibaca oleh GPB. Tapi saya ga tau struktur kode xml apa yang bikin gagal diuploadnya.
+Pada suatu hari saya pernah mendapatkan pesan Error: *Processing Failed* ketika saya mengupload buku tersebut. Yang pasti ada struktur ebook yang gagal dibaca oleh GPB. Tapi saya ga tau struktur kode xml apa yang bikin gagal diuploadnya.
 
 {{< figure src="epub-processing-failed.png" caption="Error: Processing Failed" >}}
 
