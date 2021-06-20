@@ -12,7 +12,7 @@ tags:
   - google play book
   - epub
 ---
-Saya punya banyak akun store ebook berbeda dan kemudian saya kumpulkan untuk dibaca di satu device saja supaya saya lebih mudah mengorganisasikannya. Semua ebook itu saya kumpulkan librarynya ke dalam satu platform yaitu google play books.
+Saya memiliki beberapa akun store ebook berbeda yang kemudian saya kumpulkan ebook yang saya beli tadi untuk dibaca di satu device saja, supaya saya lebih mudah mengorganisasikannya. Semua ebook itu saya kumpulkan librarynya ke dalam satu platform yaitu google play books.
 
 <!--more-->
 
