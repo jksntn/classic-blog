@@ -56,7 +56,7 @@ Bingung mau ikutan komunitas atau klub baca buku mana lagi? Kamu bisa cek utas y
 
 {{< tweet 1396074079547887617 >}}. 
 
-Btw @hazboy ini juga sering banget ngetwit yang berhubungan dengan buku, komunitas buku, dan dunia literasi. Wajib banget difollow sih 👍. 
+Btw @hzboy ini juga sering banget ngetwit yang berhubungan dengan buku, komunitas buku, dan dunia literasi. Wajib banget difollow sih 👍. 
 
 ### Beli eBook 👌
 
