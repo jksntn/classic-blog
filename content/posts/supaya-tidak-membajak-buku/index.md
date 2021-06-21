@@ -32,7 +32,7 @@ Namun kelemahan dari membaca buku perpustakaan adalah adanya tenggat waktu sehin
 
 Buat yang malas pergi ke perpustakaan, sekarang ada aplikasi mobile yang memungkinkan kita membaca koleksi bukunya tanpa harus membelinya. Dan sistem baca ini mirip banget sistem pinjem ke perpustakaan, nantinya ada tenggat waktu (14 hari) untuk membaca buku tersebut, dan selama ada yang minjem ini, orang lain tidak bisa langsung membacanya, mereka musti menunggu dulu hingga buku tersebut tersedia untuk dipinjam kembali. 
 
-Supaya bisa membaca juga kita musti buru-buru ikut antriannya supaya setelah selesai di orang lain, kita langsung dapet giliran untuk meminjammnya secara Online. 
+Supaya bisa membaca juga kita mesti buru-buru ikut antriannya supaya setelah selesai di orang lain, kita langsung dapet giliran untuk meminjammnya secara Online. 
 
 Di Indonesia ada [iPusnas](https://ipusnas.id/) yang mengadopsi sistem seperti ini. Tapi saya tidak bisa mereview lebih jauh aplikasinya, karena saya sendiri tidak menggunakannya. Yang penasaran bisa mengunjungi langsung saja alamat websitenya. 
 
