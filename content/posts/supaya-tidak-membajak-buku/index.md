@@ -3,7 +3,7 @@ title: "Supaya Tidak Membajak Buku"
 date: 2021-06-21
 author: jksntn
 slug: supaya-tidak-membajak-buku
-description: Buat sebagian orang mungkin membaca buku bisa jadi sebuah privilase, karena tidak semua orang bisa membaca buku yang dia mau (dengan membeli). 
+description: Buat sebagian orang mungkin membaca buku bisa jadi sebuah privilese, karena tidak semua orang bisa membaca buku yang dia mau (dengan membeli). 
 draft: false
 categories:
   - books
