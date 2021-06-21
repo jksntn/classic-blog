@@ -7,11 +7,9 @@ slug: tentang
 
 Saya adalah seorang bapak-bapak yang kebetulan tinggal di Bekasi, Jawa Barat. Punya ketertarikan atau passion yang cukup besar di bidang teknologi, seni dan isu sosial. 
 
-Platform ini menjadi media penyaluran opini saya terhadap perkembangan isu di internet, terutama teknologi, gadget, apps, operating system (os), sosial, politik, komedi, fotograi, desain grafis, film, musik, dan banyak hal.
+Platform ini menjadi media penyaluran opini saya terhadap perkembangan isu di internet, terutama teknologi, gadget, apps, operating system (os), sosial, politik, komedi, fotografi, desain grafis, film, musik, dan banyak hal lainnya.
 
 Tulisan diupdate kalau lagi sempet...
-
-Kebetulan saat ini bekerja di bidang IT. Namun juga senang mengerjakan beberapa project seperti fotografi (streetphotography), desain grafis, video content, dan juga web development. 
 
 Salam hangat,
 
