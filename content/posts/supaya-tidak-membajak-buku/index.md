@@ -20,11 +20,11 @@ Saya pernah mengalami hal itu (bahkan mungkin sampe sekarang 🤣), saat jalan-j
 
 ### Meminjam Buku Perpustakaan
 
-Untuk mengatasi rasa penasaran terhadap sebuah buku, hal yang pertama kali akan saya cari info mungkin adalah perpustakaan mana yang dekat dengan tempat tinggal, yang memiliki banyak koleksi buku dewasanya. Karena ga banyak perpustakaan bahkan perpus daerah yang memiliki koleksi buku yang menarik, terutama buku dewasa (bukan buku mesum ya 😥). Dan ga banyak juga perpustakaan ada di daerah-daerah, misalnya di Kabupaten Kuningan, tempat saya dibesarkan.
+Untuk mengatasi rasa penasaran terhadap sebuah buku, hal yang pertama kali akan saya cari info mungkin adalah perpustakaan mana yang dekat dengan tempat tinggal, yang memiliki banyak koleksi buku dewasanya. Karena ga banyak perpustakaan bahkan perpus daerah yang memiliki koleksi buku yang menarik, terutama buku dewasa (bukan buku mesum ya 😥). 
 
-Makanya ketika saya pindah ke Jakarta, dan menemukan banyak sekali perpus itu adalah sebuah privilese juga untuk saya.
+Tidak banyak juga perpustakaan ada di daerah-daerah (bahkan mungkin tidak ada), seperti misalnya di Kabupaten Kuningan, tempat saya dibesarkan. Makanya ketika saya pindah ke Jakarta, dan menemukan banyak sekali perpus itu adalah sebuah privilese juga untuk saya.
 
-Saya menemukan lokasi perpustakaan yang koleksi bacaan dewasanya cukup menarik, yaitu [perpustakaan Pustaka Kelana](https://goo.gl/maps/HsNeBhMYS6g8pePj8), namum sayangnya ketika pandemi ini sedang ditutup dulu sementara waktu 😥. Padahal lokasinya itu enak banget, mudah diakses menggunakan kendaraan Transjakarta, angkot, maupun pribadi. Juga banyak tempat makan yang enak di dekat situ, karena berdekatan dengan kampus UNJ (biasanya deket kampus banyak restoran murah meriah 😋).
+Saya menemukan lokasi perpustakaan yang koleksi bacaan dewasanya cukup lengkap dan menarik, yaitu [perpustakaan Pustaka Kelana](https://goo.gl/maps/HsNeBhMYS6g8pePj8), namum sayangnya ketika pandemi ini sedang ditutup dulu sementara waktu 😥. Padahal lokasinya itu enak banget, mudah diakses menggunakan kendaraan Transjakarta, angkot, maupun pribadi. Juga banyak tempat makan yang enak di dekat situ, karena berdekatan dengan kampus UNJ (biasanya deket kampus banyak restoran murah meriah 😋).
 
 Namun kelemahan dari membaca buku perpustakaan adalah adanya tenggat waktu sehingga agak susah menyempatkan diri membaca buku terutama ketika banyak deadline pekerjaan yang menumpuk. Apalagi kalau perpusnya agak jauh dengan lokasi tempat tinggal kita, kadang mau balikin bukunya jadi males 😅.
 
@@ -36,10 +36,10 @@ Supaya bisa membaca juga kita mesti buru-buru ikut antriannya supaya setelah sel
 
 Di Indonesia ada [iPusnas](https://ipusnas.id/) yang mengadopsi sistem seperti ini. Tapi saya tidak bisa mereview lebih jauh aplikasinya, karena saya sendiri tidak menggunakannya. Yang penasaran bisa mengunjungi langsung saja alamat websitenya. 
 
-Saya sendiri meminjam buku online di [Libby](https://libbyapp.com), walaupun punya interface web dan mobile yang sangat bagus, tapi untuk bisa meminjam buku di Libby ini kamu musti punya kartu anggota perpustakaan di daerah di US 😅. Tentunya selain warga US, orang luar juga bisa kok, nanti mendaftarkannya pake *non-citizen membership* gitu, tapi tiap perpus punya kebijakan berbeda-beda, dan ini musti bayar pertahunnya 😅😅😅.
+Saya sendiri meminjam buku online di [Libby](https://libbyapp.com), walaupun memiliki koleksi buku digital yang sangat banyak, tetapi untuk bisa meminjam buku di Libby ini kamu musti punya kartu anggota perpustakaan di Kota-kota di US sana 😅. Tentunya selain warga US, orang luar juga bisa kok, nanti mendaftarkannya pake *non-citizen membership* gitu, tapi tiap perpus punya kebijakan berbeda-beda, dan ini musti bayar pertahunnya 😅😅😅.
 
 {{< notice note >}}
-Buat yang mau punya kartu anggota gratis caranya cukup gampang kok. Cukup mendaftar tapi menggunakan alamat di US sana. Jangan bilang siapa-siapa ya 🤫.
+Buat yang mau punya kartu anggota gratis caranya cukup gampang kok. Cukup mendaftar *citizen membership*, triknya cukup menggunakan alamat di US sana. Jangan bilang siapa-siapa ya 🤫.
 {{< /notice >}}
 
 ### Gabung Komunitas Baca Buku
@@ -48,9 +48,9 @@ Dengan mengikuti kegiatan komunitas atau klub baca, kadang banyak sekali event y
 
 Dengan mengikuti komunitas buku juga saya jadi bisa lebih dapet referensi buku yang bahkan saya belum pernah dengar nama penulisnya, ini ngebantu banget juga kalau bingung mau baca buku apa.
 
-Bingung mau memulai dari gabung komunitas mana? Saya sarankan ikutin kegiatan komunitas GRI Indonesia. Mereka aktif di twitter dengan akun [@bacaituseru](https://twitter.com/bacaituseru), di website googdreads.com di [grup GRI Indonesia](https://www.goodreads.com/group/show/345-goodreads-indonesia), di Instagram di akun [@bacaituseru](https://www.instagram.com/bacaituseru/). Mereka juga aktif di website festival pembaca di [festivalpembacaindonesia.org](https://festivalpembacaindonesia.org). 
+Bingung mau memulai gabung komunitas mana dulu? Saya sarankan ikutin kegiatan komunitas GRI (Goodreads Indonesia) saja. Mereka aktif di twitter dengan akun [@bacaituseru](https://twitter.com/bacaituseru), di website googdreads.com di [grup GRI](https://www.goodreads.com/group/show/345-goodreads-indonesia), di Instagram di akun [@bacaituseru](https://www.instagram.com/bacaituseru/). Mereka juga aktif di website festival pembaca di [festivalpembacaindonesia.org](https://festivalpembacaindonesia.org). 
 
-Saya juga mendapatkan [jodoh](https://ellysdanjaka.tumblr.com/) dari ikutan komunitas GRI ini... 🥰
+Bahkan saya juga mendapatkan [jodoh](https://ellysdanjaka.tumblr.com/) dari ikutan komunitas GRI ini... 🥰
 
 Bingung mau ikutan komunitas atau klub baca buku mana lagi? Kamu bisa cek utas yang dibuat oleh [@hzboy](https://twitter.com/hzboy) ini
 

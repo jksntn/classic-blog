@@ -6,7 +6,7 @@ slug: menghapus-link-dari-google-search
 images: 
  - /menghapus-link-dari-google-search/featured.png
 categories: 
- - tools
+ - tools tips
 tags: 
  - google
  - google search
