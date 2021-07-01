@@ -114,3 +114,5 @@ related:
 # pygmentsCodeFencesGuessSyntax: true
 # pygmentsUseClasses: true
 # pygmentsStyle: "dracula"
+
+ignoreErrors: "error-remote-getjson"
