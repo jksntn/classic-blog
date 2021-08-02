@@ -1,4 +1,4 @@
-# Bekasi Salaryman Project
+# JKSNTN.my.id
 
 Personal Website of [jksntn.my.id](https://jksntn.my.id).
 
