@@ -22,9 +22,13 @@ Semua informasi diambil berdasarkan postingan [Kitabisa.com di Instagram](https:
 <!--more-->
 
 ### Info Fasilitas Kesehatan
+
 #### Ketersediaan IGD Khusus COVID-19
+
 - Sistem Informasi Rawat Inap Milik Kemenkes di [https://yankes.kemkes.go.id/](https://yankes.kemkes.go.id/)
+
 #### Hotline Rumah Sakit
+
 - [urundayacovid.com/rumahsakit](https://urundayacovid.com/rumahsakit)
 - [pikobar.jabarprov.go.id/contact](https://pikobar.jabarprov.go.id/contact)
 - [corona.jatengprov.go.id/rumah-sakit](https://corona.jatengprov.go.id/rumah-sakit)
