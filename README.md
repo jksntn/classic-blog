@@ -5,6 +5,10 @@ Personal Website of [jksntn.my.id](https://jksntn.my.id).
 
 # Documentation
 
+## Create New Posts
+
+`hugo new posts/folder-name`
+
 ## Figure
 
 Default Figure

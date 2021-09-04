@@ -11,6 +11,7 @@ tags:
  - ebook reader
  - google play book
  - kobo
+ - vpn
 ---
 Cara membeli eBook dengan harga lebih murah ini mungkin sebenarnya udah banyak yang tau, tapi mumpung saya lagi rajin nulis lagi, sekalian aja saya kasi tipsnya buat yang belum tau.
 
