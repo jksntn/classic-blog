@@ -21,7 +21,7 @@ Karena murah 😅
 
 {{< figure src="billing-my-id.png" alt="billing domain saya" caption="Lihat, murah banget kan?" >}}
 
-Jadi ceritanya beberapa bulan yang lalu domain .pw saya berakhir dan agak malas juga setiap tahun harus membayar domain dan hosting untuk blog pribadi yang isinya bahkan tidak saya komersilin (adsense).
+Jadi ceritanya beberapa bulan yang lalu domain saya (jksntn.pw) berakhir dan agak malas juga setiap tahun harus membayar domain dan hosting untuk blog pribadi yang isinya bahkan tidak saya komersilin (menggunakan adsense atau layanan iklan lainnya).
 
 Akhirnya saya beralih dulu ke blogspot (blogger) milik Google. Tapi entah mengapa saya kangen banget ngeblog di Hugo lagi [(baca tulisan saya soal migrasi ke Hugo)](/migrasi-ke-hugo). Apabila formatting blogspot engga bikin sakit kepala, mungkin saya tetep betah nulis di blogspot sih 😅.
 
