@@ -5,6 +5,8 @@ author: jksntn
 slug: cara-mudah-mengganti-mata-uang-di-google-play-store
 description: Tips mengganti mata uang di Google Play Store, supaya bisa beli item lebih murah.
 draft: false
+images:
+  - /cara-mudah-mengganti-mata-uang-di-google-play-store/featured.jpg
 categories:
   - tips
 tags:
