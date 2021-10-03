@@ -6,7 +6,7 @@ slug: tips-memotret-24-hour-project
 images: 
  - /tips-memotret-24-hour-project/featured.jpg
 categories: 
- - photography
+ - fotografi
 tags:
  - street photography
  - 24 hour project

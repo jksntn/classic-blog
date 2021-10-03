@@ -7,7 +7,7 @@ slug: alasan-saya-menggunakan-my-id
 description: Pada kali ini saya akan menjelaskan mengapa saya menggunakan domain .my.id
 draft: false
 categories:
-  - stories
+  - personal
 tags:
   - domain
   - static site generator

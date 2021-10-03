@@ -55,10 +55,12 @@
         {{ end }}
       </span>
       {{ end }}
+      <!--
       <span class="permalink"><i class="icon fa fa-link" aria-hidden="true"></i>
         <span class="screen-reader-text">{{ i18n "permalink" }}</span>
         <span><a href="{{ .Permalink }}">{{ i18n "permalink" }}</a></span>
       </span>
+      -->
     </span>
 <!--
     <div class="title is-4">
@@ -70,26 +72,26 @@
   <nav class="navigation post-navigation" role="navigation">
     <h2 class="screen-reader-text">Navigation Article</h2>
     <div class="nav-links">
-      {{ if .PrevInSection }}
+      {{ if .NextInSection }}      
       <div class="nav-previous">
-        <a href="{{ .PrevInSection.Permalink }}" rel="prev">
-          <span class="screen-reader-text">Article Previous</span>
-          <span aria-hidden="true" class="nav-subtitle">Sebelumnya</span>
+        <a href="{{ .NextInSection.Permalink }}" rel="next">    
+          <span class="screen-reader-text">Article Next</span>
+          <span aria-hidden="true" class="nav-subtitle">Selanjutnya</span>
           <span class="nav-title">
             <span class="nav-title-icon-wrapper"><i class="fa fa-arrow-left" aria-hidden="true"></i></span>
-            {{ .PrevInSection.Title }}
+            {{ .NextInSection.Title }}            
           </span>
         </a>
       </div>
       {{ end }}
-      {{ if .NextInSection }}
+      {{ if .PrevInSection }}
       <div class="nav-next">
-        <a href="{{ .NextInSection.Permalink }}" rel="next">
-          <span class="screen-reader-text">Article Next</span>
-          <span aria-hidden="true" class="nav-subtitle">Selanjutnya</span>
+        <a href="{{ .PrevInSection.Permalink }}" rel="prev">          
+          <span class="screen-reader-text">Article Previous</span>
+          <span aria-hidden="true" class="nav-subtitle">Sebelumnya</span>
           <span class="nav-title">
             <span class="nav-title-icon-wrapper"><i class="fa fa-arrow-right" aria-hidden="true"></i></span>
-            {{ .NextInSection.Title }}
+            {{ .PrevInSection.Title }}
           </span>
         </a>
       </div>

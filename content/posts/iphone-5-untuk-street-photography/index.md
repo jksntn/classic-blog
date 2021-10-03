@@ -6,7 +6,7 @@ slug: iphone-5-untuk-street-photography
 images: 
  - /iphone-5-untuk-street-photography/featured.jpg
 categories:
- - reviews
+ - review
 tags:
  - gear
  - street photography

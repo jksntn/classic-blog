@@ -4,7 +4,7 @@ date: 2019-10-21
 description: Pengalaman saya minum kopi hitam di Coffee shop
 slug: laki-kok-minum-kopi-pake-gula
 categories:
- - stories
+ - personal
 tags:
  - kopi hitam
  - kopi

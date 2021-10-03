@@ -6,7 +6,7 @@ slug: memotret-street-photography-untuk-pekerja-kantoran
 images: 
  - /memotret-street-photography-untuk-pekerja-kantoran/featured.jpg
 categories:
- - photography
+ - fotografi
 tags:
  - street photography
 ---

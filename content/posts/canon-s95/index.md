@@ -6,7 +6,7 @@ slug: canon-s95
 images: 
  - /canon-s95/featured.jpg
 categories:
- - reviews
+ - review
 tags:
  - canon
  - gear

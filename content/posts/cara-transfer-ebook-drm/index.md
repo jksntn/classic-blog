@@ -5,7 +5,7 @@ author: jksntn
 description: Bagaimana cara saya transfer eBook ber drm ke eBook Reader lain
 slug: cara-transfer-ebook-drm
 categories:
-  - books
+  - buku
 tags: 
   - ebook
   - ebook reader

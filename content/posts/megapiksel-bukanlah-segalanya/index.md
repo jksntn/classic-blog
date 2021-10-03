@@ -6,7 +6,7 @@ slug: megapiksel-bukanlah-segalanya
 images: 
  - /megapiksel-bukanlah-segalanya/featured.jpg
 categories:
- - photography
+ - fotografi
 tags:
  - photography
  - street photography

@@ -7,7 +7,7 @@ slug: bapak-bapak-yang-mulai-bisa-menikmati-kopi-hitam
 tags:
 - kopi
 categories: 
-- stories
+- personal
 ---
 
 Hampir selama saya dibesarkan, saya belum pernah minum kopi tanpa gula. Lingkungan keluarga saya tidak mengenal kopi tanpa gula. Barulah anak-anaknya yang senang minum kopi tanpa gula. 

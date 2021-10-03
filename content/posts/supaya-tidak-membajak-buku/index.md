@@ -6,7 +6,7 @@ slug: supaya-tidak-membajak-buku
 description: Buat sebagian orang mungkin membaca buku bisa jadi sebuah privilese, karena tidak semua orang bisa membaca buku yang dia mau (dengan membeli). 
 draft: false
 categories:
-  - books
+  - buku
 tags:
   - buku bajakan
   - buku

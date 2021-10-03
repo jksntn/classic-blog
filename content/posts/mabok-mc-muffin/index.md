@@ -8,7 +8,7 @@ images:
 description: Pada suatu malam saya mendapatkan broadcast messenger yang berisikan promo sarapan gratis di Mc Donald, yaitu free Mc Muffin sebelum jam 10 pagi.
 draft: false
 categories:
-  - stories
+  - personal
 tags:
   - mcd
 ---

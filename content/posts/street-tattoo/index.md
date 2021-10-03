@@ -6,7 +6,7 @@ slug: street-tattoo
 images:
  - /street-tattoo/featured.jpg
 categories:
- - photography
+ - fotografi
 tags: 
  - 24 hour project
  - street photography

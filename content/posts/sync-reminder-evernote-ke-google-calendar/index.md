@@ -6,7 +6,7 @@ slug: sync-reminder-evernote-ke-google-calendar
 images: 
  - /sync-reminder-evernote-ke-google-calendar/evernote-google-calendar.png
 categories: 
- - tools tips
+ - tips
 tags: 
  - evernote
  - google calendar

@@ -6,7 +6,7 @@ slug: gagal-upload-ebook-ke-google-play-books
 description: Pada suatu hari saya pernah mendapatkan pesan Error Processing Failed ketika saya mengupload buku tersebut.
 draft: false
 categories:
-  - books
+  - buku
 tags:
   - ebook
   - google play book

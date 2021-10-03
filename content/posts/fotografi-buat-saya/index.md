@@ -6,7 +6,7 @@ slug: fotografi-buat-saya
 images:
  - /fotografi-buat-saya/featured.jpg
 categories:
- - stories
+ - personal
 tags: 
  - photography
  - street photogtaphy

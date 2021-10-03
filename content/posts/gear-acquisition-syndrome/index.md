@@ -6,7 +6,7 @@ slug: gear-acquisition-syndrome
 images: 
  - /gear-acquisition-syndrome/featured.jpg
 categories:
- - photography
+ - fotografi
 tags:
  - gear
  - photography
