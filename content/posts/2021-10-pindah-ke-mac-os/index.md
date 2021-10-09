@@ -36,6 +36,7 @@ Engga tanggung-tanggung, saya langsung pindah menggunakan Big Sur (macOS 11). Se
 ### Mau Coba Install Hackintosh? 
 
 Cara paling mudah dipahami adalah:
+
 - Menyiapkan instalan dan EFI untuk boot flashdisk, tutorialnya bisa dilihat [di sini](https://github.com/exxncss/x250-hackintosh#buat-installer-macos). Untuk bahan-bahan apabila di web Oralia engga bisa didownload, dari komunitas Hackintosh udah melakukan mirroring file recovery OS nya [di sini](https://drive.google.com/drive/u/2/folders/1nF71xPbhiyuS8vQOi-E6wHS-tSknvoZo).
 - Melakukan instalasi mac (recovery macOS ke HDD/SSD kita). Tutorialnya bisa ditonton [di sini](https://www.youtube.com/watch?v=olBn3HQP4yc).
 - Melakukan penyesuaian, patch, dll. Kalo ini bisa langsung ditanya aja ke grup/dm di forum, dll.
