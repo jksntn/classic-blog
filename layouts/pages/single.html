@@ -1,6 +1,10 @@
 {{ define "style"}}{{ end }}
 {{ define "title" }}{{ .Title }} | {{ .Site.Title }}{{end }}
-{{ define "body-classes" }}single page page-two-column{{ end }}
+{{ define "body-classes" }}single post has-sidebar{{ end }}
+
+{{ define "widgets-column" }}
+  {{ partial "widgets/menu" . }}
+{{ end }}
 
 {{ define "header" }}{{ partial "site-header" . }}{{ end }}
 {{ define "featured-image"}}

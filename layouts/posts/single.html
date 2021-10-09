@@ -3,10 +3,11 @@
 {{ define "body-classes" }}single post has-sidebar{{ end }}
 
 {{ define "widgets-column" }}
-  {{ partial "widgets/recent" . }}
-  {{ partial "widgets/related" . }}
-  {{ partial "widgets/category" . }}
+  <!-- {{ partial "widgets/recent" . }} -->
   {{ partial "widgets/menu" . }}
+  {{ partial "widgets/related" . }}
+  <!-- {{ partial "widgets/category" . }} -->
+
 {{ end }}
 
 {{ define "header" }}{{ partial "site-header" . }}{{ end }}
@@ -39,14 +40,6 @@
   </div> <!-- .entry-content -->
   <footer class="entry-footer">
     <span class="cat-tags-links">
-      {{ if .Params.categories }}
-      <span class="cat-links"><i class="icon fa fa-folder-open" aria-hidden="true"></i>
-        <span class="screen-reader-text">{{ i18n "categoriesTitle" }}</span>
-        {{ with .Params.categories }}
-          <span>{{ delimit (apply (apply (sort .) "partial" "post/category-link" ".") "chomp" ".") ", " }}</span>
-        {{ end }}
-      </span>
-      {{ end }}
       {{ if .Params.tags }}
       <span class="tags-links"><i class="icon fa fa-tags" aria-hidden="true"></i>
         <span class="screen-reader-text">{{ i18n "tagsTitle" }}</span>

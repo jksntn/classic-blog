@@ -44,7 +44,7 @@ outputs:
   page: ["HTML"]
 
 permalinks:
-  posts: /:slug/
+  posts: /:year/:month/:slug/
   pages: /:slug/
   archive: /:slug/
 
