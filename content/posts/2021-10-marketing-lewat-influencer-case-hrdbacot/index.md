@@ -4,7 +4,7 @@ date: 2021-10-11
 author: jksntn
 slug: marketing-lewat-influencer-case-hrdbacot
 images: 
- - /2021/10/marketing-lewat-influencer-case-hrdbacot/featured.png
+ - /2021/10/marketing-lewat-influencer-case-hrdbacot/featured.jpg
 description: Ngobrolin marketing Samsung Mobile Indonesia melalui influencer @hrdbacot 
 draft: false
 categories:
@@ -13,6 +13,7 @@ tags:
   - digital marketing
   - influencer
 ---
+
 Di tulisan digital marketing pertama saya di blog ini,  saya mau membahas sesuatu yang sedang terjadi di Twitter, yaitu menggunakan akun besar seperti [@hrdbacot](https://twitter.com/hrdbacot) sebagai channel marketingnya Samsung smartphone Indonesia.
 
 <!--more-->
@@ -37,9 +38,9 @@ Singkatnya adalah ada seseorang mungkin followers yang menanyakan (via DM) apaka
 
 Kemudian DM tersebut dikomentarin seperti konten-konten biasanya oleh @hrdbacot. Dan setelah postingan itu, beberapa menit kemudian dipostlah konten iklannya. 
 
-{{< figure src="img1.png" alt="campaign" caption="Twit DM followers yang nanya" >}}
+{{< figure src="img1.jpg" alt="campaign" caption="Twit DM followers yang nanya" >}}
 
-{{< figure src="img2.png" alt="campaign" caption="Twit Pertanyaan dan Twit Iklan" >}}
+{{< figure src="img2.jpg" alt="campaign" caption="Twit Pertanyaan dan Twit Iklan" >}}
 
 Cara ini cukup berhasil, walaupun targetnya bukan penjualan (mungkin), setidaknya ribuan followers [@hrdbacot](https://twitter.com/hrdbacot) terkecoh dengan tipe tweet tersebut, dan banyak yang reply dengan memberikan suggestion/saran gratis kepada akun tersebut. 
 
