@@ -47,6 +47,7 @@ Kalau ada kesulitan, mentok, dll, bisa kunjungi ini saja.
 
 - [Grup Telegram Hackintosh Indonesia](https://t.me/HackintoshLover)
 - [Forum Tonymacx86](https://www.tonymacx86.com/)
+- [Grup Facebook Hackintosh Indonesia](https://www.facebook.com/groups/hackintosh.indonesia)
 
 ### Apakah Worth it?
 
