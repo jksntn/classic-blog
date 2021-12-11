@@ -17,7 +17,7 @@ tags:
   - oprek
 ---
 
-Sebenernya sudah cukup lama saya memikirkan untuk pindah OS ke macOS (menggunakan hackintosh) pada laptop non mac. Karena pada 2021 ini cukup banyak kisah success story orang-orang yang moveon ke macOS. Kalaupun ada bug, biasanya karena chipset wifi dan bluetoothnya engga support, dan bisa disiasati menggunakan wifi/bluetooth external.
+Sebenarnya sudah cukup lama saya memikirkan untuk pindah OS ke macOS (menggunakan hackintosh) pada laptop non mac. Karena pada 2021 ini cukup banyak kisah success story orang-orang yang moveon ke macOS. Kalaupun ada bug, biasanya karena chipset wifi dan bluetoothnya engga support, dan bisa disiasati menggunakan wifi/bluetooth external.
 
 Akhirnya setelah ada orang lain yang berhasil [menginstall hackintosh di thinkpad X250](https://github.com/exxncss/x250-hackintosh) (thanks mas bro exxncss), saya pun memberanikan diri mencoba OS ini. 
 
