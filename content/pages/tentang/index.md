@@ -11,9 +11,7 @@ Platform ini menjadi media penyaluran opini saya terhadap perkembangan isu di in
 
 Tulisan diupdate kalau lagi sempet...
 
-Salam hangat,
-
-![](/tentang/jksntn-ttd.png)
+{{< figure src="selfs.jpg" alt="Counterstrike" caption="Salam 🤘." >}}
 
 ### Contact
 
