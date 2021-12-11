@@ -27,12 +27,16 @@ Engga tanggung-tanggung, saya langsung pindah menggunakan Big Sur (macOS 11). Se
 
 {{< figure src="counterstrike.jpg" alt="Counterstrike" caption="Salah satu game yang ga bisa dimainin di Big Sur" >}}
 
+{{< notice note >}}
+Untuk memainkan game-game yang hanya bisa dimainkan di Windows dan di MacOS Catalina ke bawah, saya menggunakan [Crossover dari Codeweavers](https://www.codeweavers.com/). Walau ada banyak game yang engga support, tapi game saya seperti Counter Strike Source, GTA San Andreas, dan Age of Empires 2 HD bisa berjalan dengan cukup lancar, tapi masih ada frame drop di beberapa kondisi.
+{{< /notice >}}
+
 ### Apa yang ga berfungsi?
 
 - **Bluetooth**. Chipset Intel AC-7265 sayangnya masih belum support untuk AirDrop maupun Handoff. Padahal cukup berguna kalau mau pindahin data besar tanpa kabel/sync ke iCloud.
 - **Audio Bluetooth**. Sepertinya memang masih jadi bugnya dari chipset Intel AC-7265, kalau wifi tersambung jadinya suka tersendat-sendat. Kalau wifi off, audio bluetooth dari TWS saya ga ada masalah.
 - **VGA port**. Vga port dari thinkpad x250 saya jadi ga kedetect, dan solusinya adalah menggunakan kabel tambahan display port ke hdmi. 
-- **Card Reader**. Ini kayaknya dari bro exxncns yang saya ambil EFI nya blm melakukan [patch untuk card reader](https://github.com/FIRSTPLATO/cardreader-kext). Nanti kalo sempet saya beresin sih kayaknya.
+- **Card Reader**. Update, card reader bisa berfungsi setelah melalui step-step di artikel ini: [Fix Internal/External Card Reader Hackintosh Guide](https://noobsplanet.com/threads/32/)
 - **Jack 35mm**. Ini kejadian yang jarang banget, audio dari jack 35mm kadang suka mati, dan solusinya adalah sleep dan bangunin laptopnya kembali. 
 
 ### Mau Coba Install Hackintosh? 
