@@ -90,6 +90,6 @@ Terakhir, apabila kamu memiliki kamera point and shoot yang shutter lag rendah, 
 Kalaupun ada budget, dan kamu mau fokus memotret street photography, saya menyarankan menggupgrade kamera digital poket yang ada manual fokus (atau snap fokus seperti Ricoh GR), lebih bagus lagi kalau lensanya fix (tidak bisa zoom).
 
 [download manual]: https://apps.apple.com/us/app/manual-custom-exposure-camera/id917146276?ls=1
-[24 hour project]: /24-hour-project
+[24 hour project]: /2017/03/24-hour-project/
 [oggsie]: http://oggsie.com/oggsie
 [jtinseoul]: https://jtinseoul.wordpress.com/

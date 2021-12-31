@@ -44,7 +44,6 @@ Fotografer memilih kamera dan lensa karena fiturnya, maka dari itu buat awam yan
 ### Belilah Pengalaman, Bukan Membeli Kamera
 
 Hal yang membuat foto kamu menjadi semakin bagus adalah karena teknik fotografi yang telah kamu pelajari, bukan semata-mata karena kamera dan lensa yang mahal. Oleh karena itu saya lebih merekomendasikan supaya kamu membeli buku foto atau mengikuti workshop fotografi ketimbang berputar-putar di toko kamera online atau forum kamera.  
-
 Memang ada harga ada kualitas, tapi jangan korbankan uang kamu untuk sesuatu yang sebenarnya tidak kamu perlukan. Saya akui memang smartphone-smartphone mahal (bahkan yang flagship) lumayan mahal. Tapi tidak semuanya memiliki fitur yang sama. Saya suka menggunakan iPhone 5 untuk memotret karena shutter lag nya sangatlah kecil, jadi ketika memotret foto jalanan, saya tidak kehilangan momen.  
 
 Perlu diperhatikan juga apakah ISO, _Shutter_, dan fokus bisa diatur manual, karena tentunya beberapa foto bagus bisa didapatkan dengan pengaturan manual, tapi ini tidak wajib, karena belum tentu semua orang membutuhkannya. Saya pernah membeli aplikasi kamera pada iPhone saya untuk mengambil foto dengan pengaturan manual: iso, shutter, dan fokus. Tapi untuk memotret di jalan, saya malah lebih sering memotret menggunakan aplikasi kamera bawaan.  
@@ -59,6 +58,6 @@ Bagaimana cara kita mencoba kamera smartphone yang tidak kita miliki? Cobalah pa
 
 ### Bacaan Lebih Lanjut
 
-*   [7 Benefits of Shooting Street Photography With a Smartphone](http://erickimphotography.com/blog/2015/07/08/the-benefits-of-street-photography-with-a-smartphone/)
-*   [3 Reasons Why You Should Use the iPhone 5 For Street Photography by Mike Avina](http://erickimphotography.com/blog/2012/10/11/3-reasons-why-you-should-use-the-iphone-5-for-street-photography-by-mike-avina/)
-*   [PHOTOGRAPHY – THE PASSIONATE JOURNEY](http://oggsie.com/blog/13536202/the-passionate-journey)
+- [7 Benefits of Shooting Street Photography With a Smartphone](http://erickimphotography.com/blog/2015/07/08/the-benefits-of-street-photography-with-a-smartphone/)
+- [3 Reasons Why You Should Use the iPhone 5 For Street Photography by Mike Avina](http://erickimphotography.com/blog/2012/10/11/3-reasons-why-you-should-use-the-iphone-5-for-street-photography-by-mike-avina/)
+- [PHOTOGRAPHY – THE PASSIONATE JOURNEY](http://oggsie.com/blog/13536202/the-passionate-journey)

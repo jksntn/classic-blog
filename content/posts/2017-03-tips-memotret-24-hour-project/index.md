@@ -29,7 +29,7 @@ Untuk memotret selama kurang lebih 24 jam, maka saya sarankan membawa kamera yan
   
 Saya sendiri lebih merekomendasikan menggunakan kamera yang lebih kecil lagi, seperti kamera poket atau kamera Smartphone, namun karena smartphone juga dipakai untuk komunikasi dan kegiatan yang membutuhkan paket data Internet, maka kemungkinan smartphone kamu akan cepat habis baterainya. 
 
-Saya sendiri menggunakan kamera poket [Canon S95](/canon-s95) sebagai kamera utama dan [iPhone 5](/iphone-5-untuk-street-photography) sebagai kamera cadangan.  
+Saya sendiri menggunakan kamera poket [Canon S95][canon s95] sebagai kamera utama dan [iPhone 5][iphone 5] sebagai kamera cadangan.  
   
 Bicara soal cadangan, hal penting yang perlu disiapkan adalah daya tambahan, seperti powerbank dan baterai tambahan. Walaupun hanya diminta mengupload 24 foto terbaik, tidak ada salahnya untuk membawa memory cadangan. 
 
@@ -98,4 +98,6 @@ Apabila kamu punya preset di aplikasi smartphone, usahakan menetapkan beberapa p
 Ada beberapa aplikasi pada smartphone yang bisa kamu gunakan untuk mengedit foto, seperti Snapseed atau VSCO, ada juga Lightroom Mobile. Usahakan untuk mempelajari workflow aplikasi-aplikasi tersebut sebelum hari H nanti, supaya waktu mengedit foto lebih sedikit dan kita bisa lebih fokus untuk memotret.
 
 
-[24 hour project]: /24-hour-project
+[24 hour project]: /2017/03/24-hour-project/
+[iphone 5]: /2017/08/iphone-5-untuk-street-photography/
+[canon s95]: /2017/02/canon-s95/

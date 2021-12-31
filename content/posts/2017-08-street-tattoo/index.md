@@ -48,5 +48,5 @@ Jujur Saja, saya sebenarnya masih bisa mengeksplorasi subyek foto saya saat memo
 
 
 [taman]: https://www.google.com/search?client=opera&q=taman+martha+tiahahu&sourceid=opera&ie=UTF-8&oe=UTF-8
-[24hourproject]: /24-hour-project
-[canons95]: /canon-s95
+[24hourproject]: /2017/03/24-hour-project/
+[canons95]: /2017/02/canon-s95/

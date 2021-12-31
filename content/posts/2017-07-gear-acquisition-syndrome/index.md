@@ -32,7 +32,7 @@ Foto saya biasa-biasa saja.
   
 Sampai akhirnya pada masa saya menjual semua gear tersebut. Waktu itu saya menjual karena memang buat menambah biaya nikah saya, tapi saya masih juga mencari alternatif lain, yaitu Film 35mm. Saya masih terjangkit GAS, waktu itu. Dan memang akhir dari obsesi saya terhadap gear adalah saat saya hanya memotret selama satu tahun menggunakan smartphone iPhone 5. Di situlah baru saya benar-benar mendalami street photography.  
   
-Pelajaran yang sangat penting adalah, bahwa gear yang saya anggap akan mempengaruhi 'kualitas' foto saya, ternyata enggak. Enggak signifikan. Foto-foto saya justru berubah setelah saya mulai memotret street photography cukup serius menggunakan [iPhone 5](/iphone-5-untuk-street-photography). Dan saya justru lebih bangga dengan hasil foto saya menggunakan iPhone 5 dibandingkan dengan foto-foto saya sebelumnya yang diambil menggunakan DSLR.  
+Pelajaran yang sangat penting adalah, bahwa gear yang saya anggap akan mempengaruhi 'kualitas' foto saya, ternyata enggak. Enggak signifikan. Foto-foto saya justru berubah setelah saya mulai memotret street photography cukup serius menggunakan [iPhone 5](/2017/08/iphone-5-untuk-street-photography/). Dan saya justru lebih bangga dengan hasil foto saya menggunakan iPhone 5 dibandingkan dengan foto-foto saya sebelumnya yang diambil menggunakan DSLR.  
 
 ### Cara Sembuh dari GAS
 
