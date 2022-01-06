@@ -116,3 +116,5 @@ related:
 # pygmentsStyle: "dracula"
 
 ignoreErrors: "error-remote-getjson"
+
+buildFuture: true
