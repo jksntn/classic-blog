@@ -54,15 +54,15 @@ Satu lagi kemudahan yang saya dapatkan adalah kita bisa memasukkan clippingan ar
 
 ### Apakah Obsidian ini gratis? 
 
-Yes gratis, tapi mereka menyediakan donasi juga kok, jadi misalnya mau support Developernya gitu. Kamu bisa memilih $25 atau $50 untuk donasi. Tampilannya seperti di bawah ini
+Yes gratis, tapi mereka menyediakan donasi juga kok, jadi misalnya mau support Developernya gitu. Kamu bisa memilih $25 (one time purchase) atau $50 (tahunan) untuk donasi. Tampilannya seperti di bawah ini
 
 {{< figure src="Screen Shot 2022-01-07 at 2.06.04 AM.png" alt="" caption="Pricing Obsidian" >}}
 
-Untuk fitur sync dan publishnya sendiri 
+Untuk fitur sync dan publishnya sendiri berbayar seperti dijelasin di bawah ini, sync $8, dan publish $16. Semua itu harga bulanan, ditagihnya pertahun.
 
 {{< figure src="Screen Shot 2022-01-07 at 2.06.20 AM.png" alt="" caption="Addon Service Obsidian" >}}
 
-Tapi apabila kamu menggunakan gratis juga bisa kok, tinggal untuk syncnya bisa menggunakan iCloud untuk pengguna iOS, MAC, dan windows.
+Tapi apabila kamu mau menggunakan fitur sync di Obsidian bisa gratis juga, caranya bisa menggunakan layanan cloud seperti iCloud, google drive, dan dropbox, bahkan bisa menggunakan [Github](https://renerocks.ai/blog/obsidian-encrypted-github-android/). Karena saya menggunakan iphone, di windowspun saya gunakan icloud drive. Untuk di Android, perlu [apps tambahan](https://help.obsidian.md/Obsidian/Android+app) supaya syncnya bisa berjalan. 
 
 ### Kesimpulan
 
