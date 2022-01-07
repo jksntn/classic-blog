@@ -50,7 +50,7 @@ Uniknya dari obsidian ini adalah catatan disimpan ke dalam file berekstensi .md 
 
 Obsidian juga memiliki aplikasi mobile untuk iOS dan Android yang cukup bagus pengerjaannya (tidak seperti Joplin), sehingga terasa smooth bahkan ketika tidak ada koneksi Internet.
 
-Satu lagi kemudahan yang saya dapatkan adalah kita bisa memasukkan clippingan artikel ke dalam Obsidian dengan baik dan tidak ada yang terlewatkan dari proses Clipping tersebut. Untuk clipping artikel webnya sendiri bisa menggunakan [MarkDownload](https://github.com/deathau/markdownload). Kemudian hasil clipping tadi tinggal dicopas aja, dan ketika diview/preview tulisan, formatnya pun sama dengan yang kita clip.
+Satu lagi kemudahan yang saya dapatkan adalah kita bisa memasukkan clippingan artikel ke dalam Obsidian dengan rapih sesuai dengan format di websitenya. Untuk clipping artikel webnya sendiri bisa menggunakan ekstensi di firefox atau chrome: [MarkDownload](https://github.com/deathau/markdownload). Kemudian hasil clipping tadi tinggal dicopas aja, dan ketika diview/preview tulisan di Obsidian, formatnya pun sama dengan artikel yang yang tampil di web aslinya.
 
 ### Apakah Obsidian ini gratis? 
 
@@ -62,16 +62,16 @@ Untuk fitur sync dan publishnya sendiri berbayar seperti dijelasin di bawah ini,
 
 {{< figure src="Screen Shot 2022-01-07 at 2.06.20 AM.png" alt="" caption="Addon Service Obsidian" >}}
 
-Tapi apabila kamu mau menggunakan fitur sync di Obsidian bisa gratis juga, caranya bisa menggunakan layanan cloud seperti iCloud, google drive, dan dropbox, bahkan bisa menggunakan [Github](https://renerocks.ai/blog/obsidian-encrypted-github-android/). Karena saya menggunakan iphone, di windowspun saya gunakan icloud drive. Untuk di Android, perlu [apps tambahan](https://help.obsidian.md/Obsidian/Android+app) supaya syncnya bisa berjalan. 
+Tapi apabila kamu mau menggunakan fitur sync di Obsidian bisa gratis juga, caranya bisa menggunakan layanan cloud seperti iCloud, google drive, dan dropbox, bahkan bisa menggunakan [Github](https://renerocks.ai/blog/obsidian-encrypted-github-android/). Karena saya menggunakan iphone, jadi di windows saya menggunakan icloud drive untuk sync-nya (sekarang lagi pake hackintosh/mac, jadi icloudnya kepake otomatis). Untuk di Android, perlu [apps tambahan](https://help.obsidian.md/Obsidian/Android+app) supaya syncnya bisa berjalan. 
 
 ### Kesimpulan
 
-Apabila kamu mencari aplikasi note-taking yang cukup handal, native, bisa sync, offline, dan format tulisan menggunakan markdown, saya bisa sangat merekomendasikan aplikasi ini untuk anda gunakan. 👍
+Apabila kamu mencari aplikasi note-taking yang cukup handal, native, bisa sync, offline, dan format tulisan menggunakan markdown, saya bisa sangat merekomendasikan Obsidian ini untuk anda gunakan sebagai aplikasi note-taking yang handal. 👍
 
 Rate: ⭐️⭐️⭐️⭐️
 
 ### Tapi
 
-Karena saat ini sedang menggunakan [hackintosh](/2021/10/pindah-ke-mac-os/) dan juga iPhone, jadi saya saat ini memilih menggunakan Apple notes dulu untuk sementara waktu. 😅
+Karena saat ini saya sedang menggunakan [hackintosh](/2021/10/pindah-ke-mac-os/) dan juga iPhone, jadi saya saat ini memilih menggunakan Apple notes dulu untuk sementara waktu. 😅
 
 Tapi kalau misalnya saya harus menggunakan lagi PC Windows, mungkin saya akan berpindah lagi ke Obsidian.
