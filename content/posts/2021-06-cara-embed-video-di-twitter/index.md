@@ -6,11 +6,13 @@ slug: cara-embed-video-di-twitter
 description: Tips bagaimana cara embed video orang, tanpa kita meretweet orang tersebut.
 draft: false
 categories:
-  - tips
+  - internet
 tags:
   - twitter video
   - twitter
   - video
+  - tips
+  - social media
 ---
 Tulisan ini sebenernya dibuat kalau saya lupa cara embed (retweet) video orang ke dalam tweet sendiri. Jadi seolah-olah kita ngupload sendiri videonya, padahal ambil dari tweet orang lain. 
 

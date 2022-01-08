@@ -20,7 +20,7 @@ Pada suatu malam saya mendapatkan broadcast messenger yang berisikan promo sarap
 
 Mc Muffin itu terdiri dari roti burger, daging sapi asap, keju dan telur. Saya kalau lagi laper, liat sekilas gambarnya langsung tergoda. Tapi kalau mengingat kejadian dahulu kala itu jadi rada 'enek' juga.
 
-### Jadi begini ceritanya
+## Jadi begini ceritanya
 
 Waktu itu hari minggu sore, saya langsung mengumpulkan genk (temen-temen sepermainan) untuk berangkat besok pagi-pagi sekali, kalau bisa setelah pas subuh. Tapi kenyataannya kami berangkat sekitar jam 6-7 pagi, itu juga setelah membangunkan dan menjemput beberapa temen yang sulit sekali bangun pagi.
 
@@ -32,7 +32,7 @@ Setelah cukup puas makan di sana, kami kemudian memberanikan diri pergi ke Mc Do
 
 Suasana di sana lebih sepi dibandingkan dengan suasana di tempat sebelumnya. Kami makan dengan lumayan lahap juga, tapi salah satu teman saya ada yang ga suka, dan diberikan ke yang lain Mc Muffinnya. Saat itu sih masih enak-enak aja, soalnya masi lumayan rada laper. Setelah selesai di McD Mall Ciputra, kami langsung pergi menuju Mc Donald di Java Mall, itu jaraknya sekitar 5-10 menit dari Simpang Lima.
 
-### Kali ini kami lebih berpengalaman
+## Kali ini kami lebih berpengalaman
 
 Makan-makan Mc Muffin di McD JavaMall lancar-lancar aja. Saat itu yang masih bertahan makan hanya beberapa orang dari genk saya, sebagian besar temen saya udah ga kuat katanya, kebanyakan protein kali ya? Hehe. Ternyata saya belum puas, dan kami mencoba untuk sarapan gratis McMuffin untuk terakhir kali pada hari itu di McD Ada Swalayan Banyumanik, daerah itu udah deket banget sama kosan kami.
 

@@ -28,13 +28,13 @@ Sebenarnya ketika kamu menulis di Medium itu, kamu menulis di platform orang lai
 
 Selanjutnya, saya akan menjelaskan beberapa platform yang saya gunakan setelah berhenti menggunakan [medium][medium].
 
-### Telegra.ph
+## Telegra.ph
 
 Telegraph mirip banget dengan medium, bedanya adalah kita tak perlu setup atau registrasi untuk mulai menulis, selain itu bisa [instant view][telegraph] apabila memposting di telegram. 
 
 Tapi kelemahannya adalah kita tak bisa mengakses postingannya kalau tak tau linknya, jadi ini hanya bergantung pada link saja. Tanpa ada home seperti website atau blog pada umumnya. 
 
-### Write.as
+## Write.as
 
 Selain itu ada [Write.as][writeas], platform blogging yang bisa memecahkan masalah utama saya, yaitu simpel dan support markdown. Ya, tanpa adanya tombol format (rich text), kamu cukup menggunakan [Markdown Syntax][markdown] saja. Selain itu write.as benar-benar simpel, secara gratis kamu bisa menggunakan layanan ini dengan fitur yang sudah cukup untuk membangun blog sendiri. 
 
@@ -44,7 +44,7 @@ Saking simpelnya, saya bisa blogging menggunakan smartphone saya. Dan membuka da
 
 Sayangnya, untuk bisa menambahkan halaman about dan halaman lain, saya harus merogoh kocek tambahan. Selain itu ada kemungkinana foto yang diupload di imgur tadi bisa dihapus. Menulis di writeas memang sangat mudah, tidak perlu pusing dengan hosting, domain, dan hal-hal lainnya, sayangnya terlalu simpel dan tidak bisa dicustom tampilannya.
 
-### Tumblr
+## Tumblr
 
 Setelah akhirnya pemerintah kita [membatalkan blokir terhadap tumblr][tumblr], ada kemungkinan tumblr mulai digunakan lagi oleh anak-anak muda Indonesia, karena memang platform blogging tumblr pas banget buat yang suka showoff hasil karya foto, lukisan, atau ilustrasi, intinya banyak seniman muda yang lebih suka memposting di tumblr ketimbang di Instagram.
 
@@ -54,7 +54,7 @@ Sayangnya ada beberapa kekurangan tumblr yang suka menjadi perhatian saya. Walau
 
 Hal-hal tersebut membuat saya berpikir ulang untuk terus menulis di tumblr.
 
-### Static Site Generator (Hugo)
+## Static Site Generator (Hugo)
 
 Saat ini emang lagi ramai penggunaan **static site generator** untuk membuat blog dan website secara cepat dan mudah. Dan menariknya lagi, karena nanti websitenya menjadi static, maka load website yang dibuat menjadi sangat, sangaaaat cepat. 
 

@@ -9,6 +9,7 @@ categories:
   - buku
 tags:
   - ebook
+  - tips
   - google play book
   - epub
 ---
@@ -26,7 +27,7 @@ Tidak hanya store yang banyak, bahkan GPB (google play books) pun saya punya dua
 
 Semua buku tersebut saya kumpulkan di GPB akun store India saya.
 
-### Processing Failed
+## Processing Failed
 
 Pada suatu hari saya pernah mendapatkan pesan Error: *Processing Failed* ketika saya mengupload buku tersebut. Yang pasti ada struktur ebook yang gagal dibaca oleh GPB. Tapi saya ga tau struktur kode xml apa yang bikin gagal diuploadnya.
 

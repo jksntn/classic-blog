@@ -21,7 +21,7 @@ Semoga bermanfaat.
 
 <!--more--> 
 
-### Minimalkan Gear
+## Minimalkan Gear
 
 {{< figure src="gear.jpg" >}}
 
@@ -39,7 +39,7 @@ Supaya memudahkan transfer data dari kamera digital ke smartphone (untuk diungga
 
 Menurut saya membawa bawaan lebih ringan dan sedikit gear lebih baik, karena memudahkan untuk fokus pada memotret dan tidak cepat menguras stamina (karena hunting 24 jam).  
 
-### Perlengkapan Penting Lainnya
+## Perlengkapan Penting Lainnya
 
 {{< figure src="sendal.jpg" >}}
 
@@ -49,7 +49,7 @@ Bawalah uang secukupnya, apabila memungkinkan, hindari membawa dokumen yang sang
 
 Bawalah kartu identitas dan mungkin membawa kartu nama apabila ada pihak yang tertarik dengan apa yang sedang kita lakukan.  
 
-### Menyiapkan Rute Perjalanan
+## Menyiapkan Rute Perjalanan
 
 {{< figure src="rute.jpg" >}}
 
@@ -59,7 +59,7 @@ Walaupun kemungkinan pada hari H nanti rute bisa berubah, tapi dengan menetapkan
 
 Apalagi kalau misalnya tempat-tempat tersebut menarik di waktu-waktu tertentu, misalnya ketika ada matahari pagi, atau matahari sore. Dengan menyiapkan rute perjalanan, kamu bisa tetap mendapatkan momen ketika waktu-waktu yang krusial tadi itu.
 
-### Rencanakan Waktu Istirahat
+## Rencanakan Waktu Istirahat
 
 {{< figure src="rest.jpg" >}}
 
@@ -73,7 +73,7 @@ Keamanan saat istirahat juga perlu diperhatikan, misalnya ketika tiduran saat is
   
 Apabila membawa kendaraan pribadi seperti mobil, mungkin tempat istirahat bisa lebih fleksibel, dan kamu juga bisa membawa bantal supaya istirahat lebih nyaman. Namun mungkin memperhatikan tempat-tempat yang nyaman dan aman apabila parkir, terutama membawa mobil sendirian.  
 
-### Saat Memotret
+## Saat Memotret
 
 {{< figure src="dilarang.jpg" >}}
 
@@ -87,7 +87,7 @@ Hindari membuat orang merasa tidak nyaman, mintalah izin kepada subyek yang difo
 
 Berikan juga dokumen seperti kartu nama atau kartu presentasi 24hourproject supaya bisa memberikan kenyamanan kepada subyek fotografi kita.
 
-### Kurangi Mengedit Foto
+## Kurangi Mengedit Foto
 
 {{< figure src="editfoto.jpg" >}}
 

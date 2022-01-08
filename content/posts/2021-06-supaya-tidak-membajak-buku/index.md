@@ -20,7 +20,7 @@ Saya pernah mengalami hal itu (bahkan mungkin sampe sekarang 🤣), saat jalan-j
 
 <!--more-->
 
-### Meminjam Buku Perpustakaan
+## Meminjam Buku Perpustakaan
 
 Untuk mengatasi rasa penasaran terhadap sebuah buku, hal yang pertama kali akan saya cari info mungkin adalah perpustakaan mana yang dekat dengan tempat tinggal, yang memiliki banyak koleksi buku dewasanya. Karena ga banyak perpustakaan bahkan perpus daerah yang memiliki koleksi buku yang menarik, terutama buku dewasa (bukan buku mesum ya 😥). 
 
@@ -30,7 +30,7 @@ Saya menemukan lokasi perpustakaan yang koleksi bacaan dewasanya cukup lengkap d
 
 Namun kelemahan dari membaca buku perpustakaan adalah adanya tenggat waktu sehingga agak susah menyempatkan diri membaca buku terutama ketika banyak deadline pekerjaan yang menumpuk. Apalagi kalau perpusnya agak jauh dengan lokasi tempat tinggal kita, kadang mau balikin bukunya jadi males 😅.
 
-### Ipusnas dan Libby
+## Ipusnas dan Libby
 
 Buat yang malas pergi ke perpustakaan, sekarang ada aplikasi mobile yang memungkinkan kita membaca koleksi bukunya tanpa harus membelinya. Dan sistem baca ini mirip banget sistem pinjem ke perpustakaan, nantinya ada tenggat waktu (14 hari) untuk membaca buku tersebut, dan selama ada yang minjem ini, orang lain tidak bisa langsung membacanya, mereka musti menunggu dulu hingga buku tersebut tersedia untuk dipinjam kembali. 
 
@@ -44,7 +44,7 @@ Saya sendiri meminjam buku online di [Libby](https://libbyapp.com), walaupun mem
 Buat yang mau punya kartu anggota gratis caranya cukup gampang kok. Cukup mendaftar *citizen membership*, triknya cukup menggunakan alamat di US sana. Jangan bilang siapa-siapa ya 🤫.
 {{< /notice >}}
 
-### Gabung Komunitas Baca Buku
+## Gabung Komunitas Baca Buku
 
 Dengan mengikuti kegiatan komunitas atau klub baca, kadang banyak sekali event yang hadiahnya buku lho! Kalau ada kegiatan diskusi buku dengan penulisnya, sering sekali ada giveaway buku. Mungkin di saat pandemi ini kegiatan diskusinya pindah ke online sih. Bahkan beberapa influencer buku juga sering kasi giveaway buku ke followersnya. Makanya rajin-rajin aja pantengin influencer bukunya.
 
@@ -60,7 +60,7 @@ Bingung mau ikutan komunitas atau klub baca buku mana lagi? Kamu bisa cek utas y
 
 Btw @hzboy ini juga sering banget ngetwit yang berhubungan dengan buku, komunitas buku, dan dunia literasi. Wajib banget difollow sih 👍. 
 
-### Beli eBook 👌
+## Beli eBook 👌
 
 Supaya bisa membeli buku dengan harga yang lebih terjangkau, kamu bisa membeli buku (ebook) karena sering sekali ada diskonan, bahkan kamu bisa [membeli ebook dengan harga yang sangat murah](/membeli-ebook-setengah-harga). Namun kebanyakan buku yang didiskon murah ini adalah buku-buku luar yang belum diterjemahkan. Rekomendasi toko online yang suka kasi harga miring:
 
@@ -72,7 +72,7 @@ Untuk bisa belanja di store-store ini, kamu musti punya kartu kredit atau menggu
 
 Kalau saya sendiri lebih sering pakai trik pindah negara dan belanja di Store google play soalnya lumayan bisa beli buku dengan setengah harga aslinya sih 😁. 
 
-### Membedakan Buku Bajakan
+## Mengenali Buku Bajakan
 
 Waktu dulu masih sering keliling jakarta naik bus Transjakarta, saya sering banget menemukan penjual asongan yang menjual buku [Bumi Manusia](https://www.goodreads.com/book/show/1398034.Bumi_Manusia) dengan harga yang sangat miring sekali, sekitar 20-30 ribu saja. Tentu itu buku bajakan sih.
 

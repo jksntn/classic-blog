@@ -27,7 +27,7 @@ Pada tahun 2017 ini, kegiatan dilakukan serentak pada tanggal 1 April, dan pada 
 
 {{< figure src="2017-24h-docs.jpg" caption="Infografis 24hourproject" >}}
 
-### Cara Berpartisipasi
+## Cara Berpartisipasi
 
 Cara mengikuti kegiatan 24 Hour Project _challenge_ ini adalah dengan mendaftar di halaman [mendaftar 24hourproject.org](http://www.24hourproject.org/user/register), setelah mendaftar, kamu diminta untuk mengisi data-data yang diperlukan seperti ketersediaan mendaftar, perangkat yang digunakan, dan data kota tempat memotret.  
   

@@ -52,7 +52,7 @@ Obsidian juga memiliki aplikasi mobile untuk iOS dan Android yang cukup bagus pe
 
 Satu lagi kemudahan yang saya dapatkan adalah kita bisa memasukkan clippingan artikel ke dalam Obsidian dengan rapih sesuai dengan format di websitenya. Untuk clipping artikel webnya sendiri bisa menggunakan ekstensi di firefox atau chrome: [MarkDownload](https://github.com/deathau/markdownload). Kemudian hasil clipping tadi tinggal dicopas aja, dan ketika diview/preview tulisan di Obsidian, formatnya pun sama dengan artikel yang yang tampil di web aslinya.
 
-### Apakah Obsidian ini gratis? 
+## Apakah Obsidian ini gratis? 
 
 Yes gratis, tapi mereka menyediakan donasi juga kok, jadi misalnya mau support Developernya gitu. Kamu bisa memilih $25 (one time purchase) atau $50 (tahunan) untuk donasi. Tampilannya seperti di bawah ini
 
@@ -64,7 +64,7 @@ Untuk fitur sync dan publishnya sendiri berbayar seperti dijelasin di bawah ini,
 
 Tapi apabila kamu mau menggunakan fitur sync di Obsidian bisa gratis juga, caranya bisa menggunakan layanan cloud seperti iCloud, google drive, dan dropbox, bahkan bisa menggunakan [Github](https://renerocks.ai/blog/obsidian-encrypted-github-android/). Karena saya menggunakan iphone, jadi di windows saya menggunakan icloud drive untuk sync-nya (sekarang lagi pake hackintosh/mac, jadi icloudnya kepake otomatis). Untuk di Android, perlu [apps tambahan](https://help.obsidian.md/Obsidian/Android+app) supaya syncnya bisa berjalan. 
 
-### Kesimpulan
+## Kesimpulan
 
 Apabila kamu mencari aplikasi note-taking yang cukup handal, native, bisa sync, offline, dan format tulisan menggunakan markdown, saya bisa sangat merekomendasikan Obsidian ini untuk anda gunakan sebagai aplikasi note-taking yang handal. 👍
 

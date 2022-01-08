@@ -6,7 +6,7 @@ slug: menghapus-link-dari-google-search
 images: 
  - /2020/11/menghapus-link-dari-google-search/featured.png
 categories:
-  - tips
+  - internet
 tags: 
  - google
  - google search
@@ -28,7 +28,7 @@ Sebenarnya cara untuk menghapus ini sangatlah mudah apabila websitenya kamu mili
 
 {{< figure src="image11.png" caption="Halaman support Google terkait penghapusan link" >}}
 
-### Apabila kamu tak memiliki akses Google Webmaster, atau foto/link yang mau dihapus ternyata ada di website milik orang lain.
+## Apabila kamu tak memiliki akses Google Webmaster, atau foto/link yang mau dihapus ternyata ada di website milik orang lain.
 
 Kalau websitenya punya orang lain, atau ada di platform milik orang lain misalnya saja seperti Steller tadi. Pastikan link tersebut sudah HILANG karena kamu menghapusnya, atau meminta Admin web terkait untuk dihapus. Setelah itu kunjungi [link removal outdated content ini](https://www.google.com/webmasters/tools/removals). 
 
@@ -36,7 +36,7 @@ Kalau websitenya punya orang lain, atau ada di platform milik orang lain misalny
 
 Untuk lebih memahami cara kerja removal tools ini, harap dibaca perlahan [halaman support ini](https://support.google.com/webmasters/answer/7041154). Pada halaman tersebut dijelaskan bagaimana cara kerja request removal Google ini bekerja. 
 
-### TL;DR
+## TL;DR
 
 Seperti yang saya jelaskan, supaya link atau foto kamu hilang dari google search, pastikan link tersebut sudah hilang karena kamu menghapusnya, atau kamu meminta admin web tersebut untuk menghapusnya, SEBELUM kamu menggunakan removal tools ini.
 

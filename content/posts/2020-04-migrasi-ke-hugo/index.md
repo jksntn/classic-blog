@@ -6,7 +6,7 @@ slug: migrasi-ke-hugo
 images:
  - /2020/04/migrasi-ke-hugo/featured.png
 categories:
-  - personal
+  - development
 tags:
  - hugo
  - static site generator
@@ -40,7 +40,7 @@ Gunakan sesuai kebutuhanmu. 👍
 
 Kalau dari sisi development, menggunakan SSG itu enaknya mudah untuk maintenance, dan mudah didevelop. Apalagi kalau menggunakan windows, maka saya lebih menyarankan menggunakan Hugo ini saja. 
 
-### Membuat Platform Sendiri
+## Membuat Platform Sendiri
 
 Membuat website dan hosting sendiri adalah sebuah pilihan yang menurut saya udah paling benar, karena kamu memiliki kuasa penuh terhadap website kamu itu. Kecuali hostingnya tidak kamu perpanjang. 
 
@@ -54,7 +54,7 @@ Coba bayangkan tulisanmu yang kamu posting di [Medium.com][medium] atau di [word
 
 Buat platformmu sendiri.
 
-### Final Verdict
+## Final Verdict
 
 Kalau bisa disebut kekurangan, Hugo ini cukup sulit buat orang awam yang tidak memahami bagaimana web server bekerja, atau tidak memahami HTML, CSS, dan Javascript. Atau tidak memahami bagaimana cara kerja Git.
 

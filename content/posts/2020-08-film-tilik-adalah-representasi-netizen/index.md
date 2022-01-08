@@ -6,7 +6,7 @@ slug: film-tilik-adalah-representasi-netizen
 images:
  - /2020/08/film-tilik-adalah-representasi-netizen/featured.jpg
 categories:
-  - sosial
+  - film
 tags: 
  - film
  - trending

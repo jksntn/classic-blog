@@ -9,6 +9,7 @@ categories:
 tags: 
   - ebook
   - ebook reader
+  - tips
 ---
 Karena saya termasuk warga negara yang baik, maka saya sangat menghindari namanya pembajakan buku. Namun alasan saya tidak membajak buku tersebut sebenarnya bukan karena rasa kemanusiaan sih, tapi karena engga nemu aja bajakannya 🙈.
 
@@ -52,7 +53,7 @@ Setelah menginstall PocketBook reader, hal yang harus dilakukan adalah AUTHORIZE
 
 Penting untuk diingat, Adobe ID ini harus sama antara yang di eBook reader dan PC kamu membuka Adobe Digital Editions tadi. Kalau lupa, kamu tinggal reset password saja. 
 
-### Troubleshoot
+## Troubleshoot
 
 Kalau kamu tak sengaja memasukkan file .acsm ke dalam Adobe Digital Editions tanpa authorizarion ke Adobe ID, dan akhirnya ketika kamu baru inget untuk memasukkan Adobe ID kamu tersebut, dan mendapati error: 
 

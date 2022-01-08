@@ -25,7 +25,7 @@ Selama menggunakan DSLR, saya tak lepas dari yang namanya GAS (Gear Acquisition 
 
 Saya bukan pemuja SLR, saya hanya kagum pada kemampuan SLR, saya kadang-kadang juga mengambil foto menggunakan kamera handphone dan kamera film poket. Hal yang saya pelajari selama terjangkit GAS adalah kemampuan bukan berasal dari gear yang digunakan, tapi teknik yang digunakan.
 
-### Saya dan Street Photography
+## Saya dan Street Photography
 
 Saya sebenarnya berkenalan dan mulai menggemari street photography yaitu pada tahun 2013, saat itu saya masih memiliki Nikon D3000. Saya mulai mengenali street photography setelah dikenalkan oleh teman saya waktu itu, dan hingga kini saya sangat menggemari bidang fotografi satu itu.
 

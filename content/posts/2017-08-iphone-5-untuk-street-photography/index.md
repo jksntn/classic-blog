@@ -19,7 +19,7 @@ Saya hanya menggunakan kamera iPhone 4 dulu untuk memotret dokumen, hal-hal yang
 
 Sampai akhirnya saya banyak mengenal fotografer atau mentor fotografi yang menggunakan iPhone-nya untuk memotret sehari-hari dan bahkan untuk memotret street photography, seperti [Olly Lang][oggsie] dan [Josh White][jtinseoul]. Sebenarnya ada banyak fotografer yang juga menggunakan smartphone untuk fokus memotret di jalanan, namun kedua orang inilah yang paling menginspirasi saya untuk fokus memotret street photography menggunakan smartphone. 
 
-### Mengapa iPhone 5?
+## Mengapa iPhone 5?
 
 Kenapa saya menggunakan iPhone 5? Padahal ada smartphone android yang harga secondnya lebih murah dibandingkan iPhone 5, namun memiliki kualitas hasil foto yang sama atau malah lebih. 
 
@@ -27,7 +27,7 @@ Bagi saya pribadi, saya memilih iPhone 5 karena ukurannya yang kecil, dan sangat
 
 Selain itu saya memilih iPhone 5 karena aplikasi iOS, atau aplikasi kamera bawaannya sangat mudah digunakan, tidak ada masalah (lagging atau hal lainnya), dan fiturnya sudah sangat familiar bagi saya (karena saya sudah menggunakan iPhone 3GS dan 4 sebelumnya). Tapi dari semua alasan tersebut, tentu saja nomor satunya karena budget.  
 
-### Fitur iPhone 5
+## Fitur iPhone 5
 
 Kamera depan iPhone 5 mampu memotret gambar jpeg dengan resolusi 8 megapiksel dan focal length 4.12mm atau setara dengan 33mm (pada sistem 35mm). Pada iPhone 5, pengaturan ISO, shutter speed, kompensasi exposure, white balance dan fokus bisa secara manual namun tidak melalui aplikasi kamera bawaannya. 
 
@@ -43,7 +43,7 @@ Autofokus iPhone 5 juga tergolong cepat, menurut saya. Namun apabila kondisi kur
 
 Kalau ngobrolin fitur aplikasi kamera bawaan, sebenarnya aplikasi bawaan iPhone 5, lebih tepatnya aplikasi kamera iOS (terakhir di iOS 10), aplikasi bawaan iPhone 5 ini sudah sangat bagus untuk dipakai memotret, apalagi memotret street photography yang membutuhkan kecepatan. Saya malahan sangat jarang memotret menggunakan aplikasi third party-nya. Biasanya aplikasi third party ini saya gunakan untuk mendapatkan foto yang tertentu, seperti long exposure.  
 
-### Pengalaman menggunakan iPhone 5
+## Pengalaman menggunakan iPhone 5
 
 Menggunakan iPhone 5 untuk memotret, terutama memotret street photograhy, benar-benar mudah, tinggal point and shoot (literally). Apalagi karena ukurannya yang kecil di kantong, sehingga tidak terlalu besar apabila disimpan di kantong dada. Sewaktu-waktu bisa langsung digunakan untuk memotret karena mudah dimasuk atau keluar kantong, juga karena ada shortcut menuju aplikasi kamera, sehingga kesiapan memotret bisa lebih cepat.  
 
@@ -65,7 +65,7 @@ Karena hal itulah maka dianjurkan membawa powerbank apabila mau memotret seharia
 
 Saya ternyata kebanyakan memotret kucing 😹 dan penumpang KRL.    
 
-### Kekurangan iPhone 5
+## Kekurangan iPhone 5
 
 Karena kamera iPhone 5 ini menggunakan sensor kecil dan pengolahan gambar tidak seperti yang ada pada kamera digital, maka sangat terasa dynamic range pada hasil kamera iPhone 5 ini cukup kecil atau pendek.  
 
@@ -77,7 +77,7 @@ Hal yang terkadang menjadi masalah apabila memotret menggunakan iPhone 5 ini ada
 
 Karena saya mereview dalam sudut pandang memotret street photography, maka dynamic range yang pendek juga noise bukanlah masalah. Justru saya terkadang mendapatkan foto yang bagus walaupun noisenya tinggi.  
 
-### Apakah kamu perlu membeli iPhone 5 untuk memotret?
+## Apakah kamu perlu membeli iPhone 5 untuk memotret?
 
 Apabila kamu memiliki iPhone 4 atau 4s, dan tujuannya untuk memotret street photography, maka kamu tidak perlu membeli iPhone 5 ini, kecuali kamu memang ada budget dan berencana untuk mengupgrade smartphone, mungkin kamu bisa membeli seri di atas iPhone 5, seperti iPhone SE, atau iPhone 7.  
 

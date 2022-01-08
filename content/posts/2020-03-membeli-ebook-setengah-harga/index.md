@@ -49,7 +49,7 @@ Harga ebook di google play ternyata lebih murah ketimbang harga di Kobo.com. ðŸ™
 
 Mungkin yang jadi pertanyaan selanjutnya adalah. Kamu pikir buku-buku tersebut hanya bisa dibaca di apps masing-masing, tidak bisa dipindahkan ke ebook reader. 
 
-#### ENGGA DONG...
+## ENGGA DONG...
 
 Buku yang kamu beli di [Google Play Store][google book] dan [Kobo.com][kobo] bisa kamu pindahkan kok ke Ebook Reader. Caranya akan saya jelaskan di artikel [Memindahkan eBook dari Google Play Store ke Ebook Reader](/cara-transfer-ebook-drm).
 

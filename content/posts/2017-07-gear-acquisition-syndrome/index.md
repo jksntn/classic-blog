@@ -24,7 +24,7 @@ Apabila kamu emang seorang kolektor, mungkin GAS ini tidaklah menjadi masalah. B
   
 Permasalahan dengan GAS ini adalah, keingingan untuk memiliki gear yang baru selalu muncul kapan saja, bahkan walaupun dia baru saja membeli sebuah gear. Dia akan merasa, 'apabila ditambah gear yang itu, mungkin foto saya akan jadi tambah bagus'. Begitulah seterusnya, sampai akhirnya dia menyadari bahwa gear-gear tersebut tidaklah sepenuhnya sesuai dengan apa yang dia harapkan.  
 
-### Saya dan GAS
+## Saya dan GAS
 
 Saya juga pernah mengalami hal seperti itu, saya sangat terobsesi menambah gear seperti DSLR, lensa, dan aksesoris kamera. Saya selalu berpikir dengan menggunakan 'yang itu' akan menambah kualitas foto saya, begitu seterusnya. Padahal, setelah saya membandingkan foto-foto lama saya dan foto setelah saya keracunan GAS, tidaklah mengalami perubahan yang signifikan.  
   
@@ -34,7 +34,7 @@ Sampai akhirnya pada masa saya menjual semua gear tersebut. Waktu itu saya menju
   
 Pelajaran yang sangat penting adalah, bahwa gear yang saya anggap akan mempengaruhi 'kualitas' foto saya, ternyata enggak. Enggak signifikan. Foto-foto saya justru berubah setelah saya mulai memotret street photography cukup serius menggunakan [iPhone 5](/2017/08/iphone-5-untuk-street-photography/). Dan saya justru lebih bangga dengan hasil foto saya menggunakan iPhone 5 dibandingkan dengan foto-foto saya sebelumnya yang diambil menggunakan DSLR.  
 
-### Cara Sembuh dari GAS
+## Cara Sembuh dari GAS
 
 Sebenarnya agak sulit untuk menyembuhkan diri dari GAS. Saya juga termasuk yang agak sulit untuk 100% sembuh dari yang namanya GAS di fotografi. Misalnya saja, setelah 1 tahun memotret menggunakan kamera yang sama, tentu pada tahun berikutnya akan ada planning atau sedikit keinginan untuk menggunakan kamera yang lain. Jujur aja saya tidak bisa terpaku pada 1 gear saja. Apalagi kalau kameranya digital.  
   

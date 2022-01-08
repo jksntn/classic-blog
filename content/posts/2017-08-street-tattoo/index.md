@@ -40,7 +40,7 @@ Kalau menurut saya, adanya fenomena jasa bikin tato pinggir jalan sebagai pertan
   
 Jujur Saja, saya sebenarnya masih bisa mengeksplorasi subyek foto saya saat memotret foto ini. Namun karena kurangnya _engagement_ atau kurangnya kedekatan antara saya dengan subyek secara emosional, dan juga karena sedang [24 Hour Project][24hourproject], maka saya tidak bisa terdiam lama dengan satu subyek foto.  
 
-### Meta Info
+## Meta Info
 
 *   Gear: [Canon S95][canons95]
 *   ISO: 400

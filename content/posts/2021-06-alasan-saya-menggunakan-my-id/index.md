@@ -26,7 +26,7 @@ Jadi ceritanya beberapa bulan yang lalu domain saya (jksntn.pw) berakhir dan aga
 
 Akhirnya saya beralih dulu ke blogspot (blogger) milik Google. Tapi entah mengapa saya kangen banget ngeblog di Hugo lagi [(baca tulisan saya soal migrasi ke Hugo)](/migrasi-ke-hugo). Apabila formatting blogspot engga bikin sakit kepala, mungkin saya tetep betah nulis di blogspot sih 😅.
 
-Nulis di markdown itu entah mengapa bikin candu sih, *apaan dah 🤣.
+Nulis di markdown itu entah mengapa bikin candu sih, *apaan dah* 🤣.
 
 Dengan menggunakan [Netflify][netlify] + [Hugo][hugo] + domain my.id, berarti uang yang saya keluarkan untuk membuat website/blog ini hanyalah 11k pertahun!!!
 

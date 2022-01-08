@@ -7,8 +7,11 @@ description: Tips mengganti mata uang di Google Play Store, supaya bisa beli ite
 draft: false
 images:
   - /2021/09/cara-mudah-mengganti-mata-uang-di-google-play-store/featured.jpg
+categories:
+  - buku
 tags:
   - ebook
+  - tips
   - google play book
   - google play store
   - vpn
@@ -23,7 +26,7 @@ Walaupun cara yang akan saya jelaskan ini kamu tak perlu pindah negara (mengguna
 
 Cara ini sebelumnya pernah saya jelaskan [di tulisan ini](/membeli-ebook-setengah-harga/).
 
-### Mengapa Musti Menggunakan Mata Uang Negara Lain? 
+## Mengapa Musti Menggunakan Mata Uang Negara Lain? 
 
 Seperti yang pernah saya jelaskan pada [tulisan saya sebelumnya](/membeli-ebook-setengah-harga/), untuk beberapa item seperti e-book, harga yang ada di Store luar bisa lebih murah sekitar 50% atau lebih. Contohnya pada buku Steve Jobs di bawah ini.
 
@@ -37,7 +40,7 @@ Sebelumnya saya jelaskan kalau cara untuk pindah store ini adalah kamu musti men
 
 Namun sekarang tidak perlu menggunakan VPN lagi, kamu cukup menambahkan profile alamat/region pada opsi di payment google mu. 
 
-### TL;DR
+## TL;DR
 
 Cara untuk mengganti regionalnya adalah dengan mengunjungi halaman ini [https://pay.google.com/gp/w/u/1/home/paymentmethods](https://pay.google.com/gp/w/u/1/home/paymentmethods), kemudian kamu tinggal menambahkan Payment Profile ID dengan negara yang lain. 
 
@@ -66,7 +69,7 @@ Setelah ini kamu tinggal memasukkan kartu Debit atau Kredit sebagai pilihan pemb
 
 Sebelumnya saya pernah menggunakan Mastercard nya Debit BCA, namun gagal. Entah mungkin kalau sekarang sudah bisa atau belum. Silakan dicoba sendiri saja.
 
-### Mengapa Store India?
+## Mengapa Store India?
 
 Setelah sebelumnya saya coba mengubah dengan harga Turki (karena ada beberapa referensi dari forum bahwa harga di Store Turki harganya murah juga), ternyata harga di Store India harganya jauh lebih murah. 
 

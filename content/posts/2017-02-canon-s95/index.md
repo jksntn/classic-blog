@@ -24,7 +24,7 @@ Misalnya saja karena pengguna DSLR Canon banyak, maka saya memilih Nikon, engga,
 
 
 
-### Mengapa Saya Membeli Canon S95
+## Mengapa Saya Membeli Canon S95
 
 {{< figure src="kehidupandikereta.jpg" caption="Kehidupan di kereta" >}}
 
@@ -40,7 +40,7 @@ Mengapa saya mencari kamera point and shoot?
 
 Karena setelah 1 tahun saya fokus memotret street photography menggunakan iPhone 5, saya menyimpulkan bahwa lebih nyaman menggunakan kamera yang ukurannya kecil tapi memiliki fitur fotografi yang cukup banyak, daripada saya memiliki yang lumayan besar (tidak bisa masuk kantong celana), sehingga akhirnya saya jarang memotret.
 
-### Fitur Canon S95 untuk Street Photography
+## Fitur Canon S95 untuk Street Photography
 
 {{< figure src="kerjadikrl.jpg" caption="Kerja di KRL" >}}
 
@@ -56,7 +56,7 @@ Perlu saya jelaskan juga bahwa kamera ini, walaupun bisa manual fokus, tapi tete
 
 Sebenarnya saya berharap banyak pada mode gambar vivid yang ada pada kamera ini, karena saya sudah terbiasa memotret JPEG dengan mode gambar vivid pada kamera Nikon D90 saya, sehingga saya tidak perlu melakukan post processing yang lama di depan komputer, tapi entah mengapa saya tidak begitu menyukai hasil vivid pada Canon S95 ini. Jadi saya hanya memotret JPEG menggunakan mode gambar standar saja, kemudian baru post processing di komputer. Kamera ini sebenarnya bisa memotret RAW, format filenya adalah CR2 RAW. Namun karena ada distorsi pada hasil RAW-nya (yang sebenarnya bisa diperbaiki di komputer—yang bakal menambah lama post processing-nya), saya lebih memilih memotret JPEG saja.
 
-### Pengalaman Street Photography
+## Pengalaman Street Photography
 
 {{< figure src="hasil1jpg.jpg" caption="Kereta Langsung" >}}
 
@@ -70,7 +70,7 @@ Karena menggunakan storage external, maka saya tidak terlalu dipusingkan dengan 
 
 Fitur manual yang ada pada kamera ini walaupun jarang saya pakai, namun sangat bermanfaat ketika saya butuh memotret jenis foto tertentu. Secara 'default' saya menggunakan mode P, auto ISO (saya set maksimal 1600), dan tinggal memainkan kompensasi exposurenya antara 0 ke -1. Apabila memotret portrait, maka saya aktifkan flash internalnya. Keuntungan dari saya tidak banyak memotret adalah, ketika saya memotret menggunakan flash, baterai tidak cepat habis.
 
-### Kelemahan Canon S95
+## Kelemahan Canon S95
 
 Sebenarnya kelemahan Canon S95 ini sudah saya jelaskan di atas, secara garis besar kelemahannya tersebut adalah:
 
@@ -81,7 +81,7 @@ Autofokus yang lambat bukanlah akhir segalanya, untuk mengatasi autofokus yang l
 
 Selain 2 hal itu, kamera ini sangat nyaman untuk saya gunakan memotret street photography, dan memotret yang lain yang menyenangkan untuk difoto.
 
-### Apakah Kamu Perlu Canon S95?
+## Apakah Kamu Perlu Canon S95?
 
 {{< figure src="petugaskrl.jpg" caption="Petugas Krl, saya sering sekali memotret di dalam di dalam KRL" >}}
 

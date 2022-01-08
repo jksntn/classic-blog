@@ -6,7 +6,7 @@ slug: blogging-hugo-di-iphone-atau-ipad-bisakah
 description: Menjawab pertanyaan ini cukup mudah, untuk keperluan bloggingnya bikin tulisan baru, hapus, dan edit, tentu saja bisa. 
 draft: false
 categories:
-  - tips
+  - development
 tags:
   - hugo
   - web development
@@ -20,7 +20,7 @@ Bahkan kalau kamu mau mengubah layout, code html atau css di dalam [Hugo](/migra
 
 Tentu saja markup kode selain markdown tidak akan ke-generate ya, karena kamu perlu menjalankan hugo di local (iphone, dan itu cukup mustahil) untuk bisa melihat previewnya.
 
-### Flow
+## Flow
 
 {{< figure src="flow.jpg" caption="Gambaran work flow menggunakan Working Copy dan iA Writer untuk ngeblog di iPhone atau iPad" >}}
 
@@ -34,7 +34,7 @@ Setelah selesai mengedit di iA Writer, baru kemudian saya kembali ke apps Workin
 
 Saya juga menggunakan Netlify untuk mengelola domain (.my.id) saya dan menjalankan hugonya. Jadi nanti ketika ada perubahan di Git-nya, maka akan mentrigger Netlify untuk mengupdate website/blog sesuai Git yang terbaru. 
 
-### It is Necessary? 
+## It is Necessary? 
 
 Nah, sebenernya agak berlebihan sih untuk saya apabila harus ngeblog sekalian ngepublish postingan di iPhone atau iPad, karena pertama, apps Working Copy berbayar, dan itu cukup mahal sih apabila saya cuman gunain untuk ngeblog Hugo doang. Karena saya bisa melakukannya di laptop dengan gratis. 
 
@@ -44,7 +44,7 @@ FYI iA Writer juga aplikasi berbayar (sekitar 150rb rupiah), dan untungnya dulu 
 
 Jadi apabila kamu masih bisa buka laptop sih sebenernya 'ngeblog' menggunakan Working Copy engga..... perlu 😂.
 
-### Tapi, Bagaimana Kalau mau jalanin Hugo di Android?
+## Tapi, Bagaimana Kalau mau jalanin Hugo di Android?
 
 Bisa, [cek di sini aja](https://gist.github.com/bep/a0d8a26cf6b4f8bc992729b8e50b480b#gistcomment-3624139) 😁. Untuk Git clonenya kamu cukup menggunakan aplikasi Termux. 
 

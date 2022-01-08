@@ -6,7 +6,7 @@ slug: sync-reminder-evernote-ke-google-calendar
 images: 
  - /2020/03/sync-reminder-evernote-ke-google-calendar/evernote-google-calendar.png
 categories:
-  - tips
+  - software
 tags: 
  - evernote
  - google calendar
@@ -30,7 +30,7 @@ Cara pertama hanya bisa dilakukan di aplikasi mobile saja, jadi kalau misalnya D
 
 Kalau menggunakan cara kedua, reminder Evernote akan synchronize dengan google Calendar kamu. jadi setiap ada reminder baru atau update reminder Evernote, beberapa menit langsung muncul di Google Calendar kamu. cara ini lebih efisien dan efektif untuk menampilkan Reminder Evernote di Google Calendar. 
 
-### Caranya bagaimana?
+## Caranya bagaimana?
 
 Kunjungi [evernote.cronofy.com][cronofy], kamu tinggal menghubungkan (login evernote) dan google calendar yang mau kamu hubungkan. Btw sebelumnya saya membuat calendar khusus satu bernama Evernote untuk memudahkan saya melihat apakah ini Event calendar google, atau reminder Evernote. 
 

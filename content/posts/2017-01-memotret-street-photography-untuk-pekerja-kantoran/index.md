@@ -27,7 +27,7 @@ Jawaban bagi saya pada pertanyaan di atas adalah: saya perlu memotret street pho
 
 Saya akan menjelaskan beberapa tips supaya bisa memotret street photography walaupun waktu yang kamu miliki itu terbatas.  
 
-### Gunakan kendaraan umum
+## Gunakan kendaraan umum
 
 Karena dengan menggunakan kendaraan umum, lebih mudah bertemu orang-orang sebagai subyek fotografi kita. Walaupun seburuk apapun kendaraan umum di tempatmu, kamu akan selalu menemukan hal menarik yang bisa kamu jadikan subjek fotografi atau bahkan proyek fotografi.  
   
@@ -37,13 +37,13 @@ Penggunaan transportasi umum juga membantu saya untuk fokus pada hal lainnya sel
   
 Kekurangan dari menggunakan kendaraan umum mungkin bisa menyebabkan waktu perjalanan kamu semakin lama dan beresiko terlambat datang ke kantor, tapi saya bisa jamin, kamu tidak akan menyesal dengan menggunakan transportasi umum untuk berangkat antara rumah dan kantor. Seperti yang saya bilang sebelumnya, kamu akan menemukan banyak hal menarik yang bisa kamu jadikan subjek fotografi pada saat di jalan menuju ke kantor atau rumah dengan transportasi umum.  
 
-### Buat sebuah photo project
+## Buat sebuah photo project
 
 Supaya memudahkan untuk fokus, saya membuat sebuah photo project supaya hasil foto saya tetap fokus pada tema atau project yang sudah kita tentukan. Fokus pada project memudahkan saya untuk melihat potensi-potensi sebuah momen untuk saya ambil jepret dan saya masukkan ke dalam salah satu photo project saya.  
   
 Photo project bisa lebih dari satu, asal kita tetap fokus mengerjakan project tersebut, saya rasa punya banyak photo project tidak jadi masalah. Saya sendiri saat ini sedang fokus pada 3 project, ketiganya juga tidak berada dalam satu tempat, maksudnya, subyek foto dari 3 project saya tidak akan bisa saya foto dalam satu tempat.  
 
-### Satu kamera dan Satu lensa selama Satu tahun
+## Satu kamera dan Satu lensa selama Satu tahun
 
 Gunakanlah 1 kamera dan 1 lensa selama satu tahun atau selama pengerjaan project, supaya tidak terjadi inkonsistensi pada hasil foto pada photo project-mu, juga supaya lebih fokus pada kegiatan memotret, sehingga kita tidak lagi meraba-raba fitur kamera baru.  
   
