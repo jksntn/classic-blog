@@ -30,17 +30,19 @@ Evernote ini sebenernya lebih dikenal dengan aplikasi atau tools note taking yan
 Ada pilihan plan berbayar dengan fitur tambahan. Saya dulu sempat berlangganan sampai akhirnya mereka menaikkan harga premiumnya. Aplikasi yang mirip menurut saya adalah Google Keep.
 
 **Cons:**
--   Bukan aplikasi todo dedicated
--   Tidak bisa diintegrasikan dengan aplikasi kalender
--   Tidak bisa offline di Android, untuk bisa offline musti berbayar
--   Reminder tidak bisa recurring
+
+- Bukan aplikasi todo dedicated
+- Tidak bisa diintegrasikan dengan aplikasi kalender
+- Tidak bisa offline di Android, untuk bisa offline musti berbayar
+- Reminder tidak bisa recurring
 
 **Pros:**
--   Aplikasi responsive pada Android
--   Fitur berbayar cukup berguna buat digunakan kerja atau bisnis
--   Bisa chat atau kolaborasi antar sesama pengguna
--   Multiplatform
--   Memiliki fitur reminder
+
+- Aplikasi responsive pada Android
+- Fitur berbayar cukup berguna buat digunakan kerja atau bisnis
+- Bisa chat atau kolaborasi antar sesama pengguna
+- Multiplatform
+- Memiliki fitur reminder
 
 ## Trello
 
@@ -49,14 +51,16 @@ Ada pilihan plan berbayar dengan fitur tambahan. Saya dulu sempat berlangganan s
 Trello sebenernya terlalu luas penggunaannya untuk sebuah aplikasi todo, karena sejatinya trello ini sendiri adalah aplikasi web task management. Sebagai aplikasi task management, trello ini sudah memiliki fitur yang sangat lengkap, bahkan dengan adanya fitur power up (berbayar/premium), task management akan semakin mudah dan produktif
 
 **Cons:**
--   Bukan aplikasi todo dedicated
--   Power up berbayar (recurring, calendar integration, dll)
--   Tidak bisa offline di android.
+
+- Bukan aplikasi todo dedicated
+- Power up berbayar (recurring, calendar integration, dll)
+- Tidak bisa offline di android.
 
 **Pros:**
--   Versi gratis fiturnya udah lumayan lengkap
--   Multiplatform
--   Bisa kolaborasi
+
+- Versi gratis fiturnya udah lumayan lengkap
+- Multiplatform
+- Bisa kolaborasi
 
 ## Wunderlist
 
@@ -65,16 +69,18 @@ Trello sebenernya terlalu luas penggunaannya untuk sebuah aplikasi todo, karena 
 Sebagai aplikasi todo, wunderlist menjadi pilihan utama buat saya, saya menggunakan aplikasi ini sudah cukup lama. Sampai akhirnya wunderlist dibeli oleh Microsoft. Semenjak dibeli, wunderlist mulai mengurangi fitur dan sisi supportnya, terakhir update aplikasi di playtore sekitar bulan April 2018. Walaupun begitu, sebenarnya wunderlist ini melegenda di kalangan orang-orang. 
 
 **Cons:**
--   Mulai ditinggalkan developer
+
+- Mulai ditinggalkan developer
     
 **Pros:**
--   Versi gratis sudah sangat lengkap fiturnya
--   Bisa recurring
--   Bisa subtask
--   Bisa mengintegrasikan todo ke kalender semisal google kalender atau aplikasi kalender bawaan hape.
--   Multiplatform
--   Bisa mengkategorikan list todo, jadi bisa lebih fokus.
--   Bisa offline di Android
+
+- Versi gratis sudah sangat lengkap fiturnya
+- Bisa recurring
+- Bisa subtask
+- Bisa mengintegrasikan todo ke kalender semisal google kalender atau aplikasi kalender bawaan hape.
+- Multiplatform
+- Bisa mengkategorikan list todo, jadi bisa lebih fokus.
+- Bisa offline di Android
 
 ## Microsoft To Do
 
@@ -83,19 +89,21 @@ Sebagai aplikasi todo, wunderlist menjadi pilihan utama buat saya, saya mengguna
 Setelah membeli wunderlist dan sunrise calendar, Microsoft akhirnya membuat aplikasi to do sendiri. Dari segi penampilan memang keliatan banget mirip wunderlist, dan ada fitur di android untuk mengimpor todo dari wunderlist, kayaknya ini emang langkah Microsoft untuk memindahkan pengguna wunderlist ke milik mereka. 
 
 **Cons:**
--   Harus login menggunakan email Microsoft.
--   Tidak bisa diintegrasi ke kalender seperti wunderlist
--   List tidak bisa dikategorikan seperti wunderlist, padahal kalo dikategorikan akan bikin fokus
--   Privasi agak diragukan
+
+- Harus login menggunakan email Microsoft.
+- Tidak bisa diintegrasi ke kalender seperti wunderlist
+- List tidak bisa dikategorikan seperti wunderlist, padahal kalo dikategorikan akan bikin fokus
+- Privasi agak diragukan
 
 **Pros:**
--   Mirip Wunderlist, bagi pengguna Wunderlist ga akan pangling sama aplikasi ini
--   Gratis
--   Ada fitur reminder dan bisa recurring (berulang)
--   Bisa bikin subtask
--   Multiplatform, ada di PC (Windows Store)
--   Bisa kolaborasi
--   Bisa offline di android
+
+- Mirip Wunderlist, bagi pengguna Wunderlist ga akan pangling sama aplikasi ini
+- Gratis
+- Ada fitur reminder dan bisa recurring (berulang)
+- Bisa bikin subtask
+- Multiplatform, ada di PC (Windows Store)
+- Bisa kolaborasi
+- Bisa offline di android
 
 ## Any Do
 
@@ -108,18 +116,20 @@ Aplikasi ini bahkan memiliki sistem pintar buat orang yang bingung mau memasukka
 Buat yang bukan tergantung dengan Google, mungkin saya akan merekomendasikan Any Do ini. Walaupun ada fitur berbayar, namun fitur gratisnya udah sangat cukup untuk menunjang produktivitasmu bekerja, berumah tangga, atau bahkan liburan.
 
 **Cons:**
--   Tidak bisa terintegrasi dengan aplikasi kalender lain
--   Terlalu kompleks, jadi ga fokus hanya untuk membuat to do
+
+- Tidak bisa terintegrasi dengan aplikasi kalender lain
+- Terlalu kompleks, jadi ga fokus hanya untuk membuat to do
 
 **Pros:**
--   Memiliki aplikasi kalender sendiri
--   Fitur gratis sudah sangat cukup sebagai aplikasi to do
--   Multiplatform
--   Bisa set reminder dan recurring yang rumit.
--   Bisa bikin subtask
--   Bisa bikin kategori list, jadi lebih fokus
--   Bisa offline di Android
--   Aplikasi cukup responsive di Android
+
+- Memiliki aplikasi kalender sendiri
+- Fitur gratis sudah sangat cukup sebagai aplikasi to do
+- Multiplatform
+- Bisa set reminder dan recurring yang rumit.
+- Bisa bikin subtask
+- Bisa bikin kategori list, jadi lebih fokus
+- Bisa offline di Android
+- Aplikasi cukup responsive di Android
 
 ## Google Keep
 
@@ -128,20 +138,22 @@ Buat yang bukan tergantung dengan Google, mungkin saya akan merekomendasikan Any
 Kalau ada aplikasi google yang masih saya pakai hingga saat ini, yaitu google keep. Aplikasi notes dan memiliki fitur reminder yang bisa dijadikan sebagai todo. Namun karena sejatinya aplikasi ini adalah aplikasi notes semacam evernote, maka kegiatan membuat todo jadi agak kurang fokus. 
 
 **Cons:**
--   Terlalu general, tidak bisa fokus
--   Integrasi hanya di google calendar, tidak bisa di kalender lainnya.
--   Login menggunakan akun google
--   Privasi agak diragukan
+
+- Terlalu general, tidak bisa fokus
+- Integrasi hanya di google calendar, tidak bisa di kalender lainnya.
+- Login menggunakan akun google
+- Privasi agak diragukan
 
 **Pros:**
--   Gratis
--   Bisa memasukkan gambar (jadi header)  
--   Bisa kolaborasi
--   Multiplatform
--   Bisa offline di Android
--   Ada fitur reminder dan recurring
--   Ada fitur ganti warna pada notes
--   Terintegrasi di Google Calendar
+
+- Gratis
+- Bisa memasukkan gambar (jadi header)  
+- Bisa kolaborasi
+- Multiplatform
+- Bisa offline di Android
+- Ada fitur reminder dan recurring
+- Ada fitur ganti warna pada notes
+- Terintegrasi di Google Calendar
 
 ## Google Task
 
@@ -151,21 +163,23 @@ Kalau ada aplikasi to do yang pas buat saya, saya pikir adalah google Task. Goog
 
 Karena saya cukup sering menggunakan layanan google lainnya, maka menurut saya google task ini paling pas, dan juga bisa fokus hanya to do saja. Berbeda dengan Google Keep yang bisa note taking.
 
-**Cons:** 
--   login menggunakan akun google
--   Tidak bisa kolaborasi
--   Hanya terintegrasi dengan google calendar versi web
--   Privasi agak diragukan
--   Tidak bisa dikategorikan
+**Cons:**
+
+- login menggunakan akun google
+- Tidak bisa kolaborasi
+- Hanya terintegrasi dengan google calendar versi web
+- Privasi agak diragukan
+- Tidak bisa dikategorikan
 
 **Pros:**
--   Gratis
--   Bisa Recurring  
--   Terintegrasi ke google calendar
--   Bisa bikin subtask
--   Multiplatform
--   Bisa akses offline
--   Aplikasi sangat ringan dan responsive di Android
+
+- Gratis
+- Bisa Recurring  
+- Terintegrasi ke google calendar
+- Bisa bikin subtask
+- Multiplatform
+- Bisa akses offline
+- Aplikasi sangat ringan dan responsive di Android
 
 ## Kesimpulan
 
