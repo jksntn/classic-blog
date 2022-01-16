@@ -52,13 +52,15 @@ Jangan terkecoh lagi ya gaes. 😉
 
 Etis engga etis sebenernya menurut saya sah-sah saja akun tersebut melakukan iklan, karena tujuan dari munculnya akun tersebut adalah jasa konten gratis, kontennya mengenai dunia perkantoran dari sisi HRD, yang sebelumnya belum pernah ada yang bahas. Jadi ya memang ga aneh kalo nantinya akun tersebut melakukan iklan terus. 
 
-Cuman ada baiknya dikasi disclaimer supaya lebih orang-orang sadar ini tuh lagi ngiklan. Ya semacam fan service sih. Tapi ga ada juga terserah mereka sih.
+Cuman ada baiknya dikasi disclaimer supaya orang-orang paham ini tuh lagi ngiklan. Ya semacam fan service sih. Seperti yang  dilakukan Pandji Pragiwaksono dengan menambahkan hastag #spon pada tweet, ig post, podcast, dan blognya.
+
+Tapi ga ada juga terserah mereka sih.
 
 ### Yang Jadi Pertanyaan
 
-Apakah kalau kita melakukan iklan 'diam-diam' tanpa perjanjian dengan pemilik akun itu sah-sah saja? 
+Apakah kalau kita melakukan iklan 'diam-diam' tanpa perjanjian dengan pemilik akun itu sah-sah saja? Misalnya begini, saya sengaja mengirim DM tentang sesuatu hal, dan ketika @hrdbacot mempostingnya, kemudian tim saya mereply dengan konten2 iklan yang related. Apa itu etis? 
 
-Engga, kecuali itu adalah jualan personal yang kecil-kecilan (jualan karya, jasa pribadi, akun premium, dan sejenisnya) mending diobrolin baik-baik sih.
+ENGGA DONG!!
 
 Soalnya kalo ketauan, pertama mungkin konten trigger nya dihapus, sehingga otomatis reply yang berbau iklan olehmu juga ikut terhapus. 
 
