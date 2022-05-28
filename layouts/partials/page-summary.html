@@ -10,13 +10,15 @@
     {{ end }} -->
 
   </header> <!-- .entry-header -->
-
+<!-- 
   {{ $img := (.Resources.ByType "image").GetMatch "*featured*" }}
   {{ with $img }}
   <div class="post-thumbnail">
     <img src="{{ .Permalink }}" alt="{{ $.Title }}">
-  </div> <!-- .post-thumbnail -->
-  {{ end }}
+  </div> <!-- .post-thumbnail
+  {{ end }} 
+
+-->
 
   <div class="entry-content" itemscope itemtype="http://schema.org/CreativeWork">
     {{/* Remove footnotes, see https://discourse.gohugo.io/t/how-to-make-footnote-links-absolute/5749/10 */}}
