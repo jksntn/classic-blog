@@ -9,7 +9,7 @@ Saya adalah seorang bapak-bapak yang kebetulan tinggal di Bekasi, Jawa Barat. Pu
 
 Platform ini menjadi media penyaluran opini saya terhadap perkembangan isu di internet, terutama teknologi, gadget, apps, operating system (os), sosial, politik, komedi, fotografi, desain grafis, film, musik, dan banyak hal lainnya.
 
-Tulisan diupdate kalau lagi sempet...
+Tulisan diupdate kalau lagi sempet... 😅
 
 {{< figure src="selfs.jpg" alt="Counterstrike" caption="Salam 🤘." >}}
 
