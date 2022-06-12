@@ -6,7 +6,7 @@ slug: bagaimana-saya-membangun-email-hosting-dengan-biaya-murah
 description: Beberapa cara yang saya lakukan untuk membangun email hosting yang murah
 draft: false
 categories:
-  - project
+  - produktivitas
 tags:
   - email
   - hosting

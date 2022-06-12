@@ -8,7 +8,7 @@ images:
 description: Review aplikasi todo yang cukup populer saat ini, dari yang gratis dan yang berbayar.
 draft: false
 categories:
- - software
+ - produktivitas
 tags:
  - notes
  - todo

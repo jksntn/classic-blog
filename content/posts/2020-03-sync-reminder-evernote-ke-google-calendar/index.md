@@ -6,7 +6,7 @@ slug: sync-reminder-evernote-ke-google-calendar
 images: 
  - /2020/03/sync-reminder-evernote-ke-google-calendar/evernote-google-calendar.png
 categories:
-  - software
+  - produktivitas
 tags: 
  - evernote
  - google calendar

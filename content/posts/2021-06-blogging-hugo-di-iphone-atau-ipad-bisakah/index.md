@@ -6,7 +6,7 @@ slug: blogging-hugo-di-iphone-atau-ipad-bisakah
 description: Menjawab pertanyaan ini cukup mudah, untuk keperluan bloggingnya bikin tulisan baru, hapus, dan edit, tentu saja bisa. 
 draft: false
 categories:
-  - development
+  - produktivitas
 tags:
   - hugo
   - web development

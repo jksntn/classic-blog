@@ -6,7 +6,7 @@ slug: migrasi-ke-hugo
 images:
  - /2020/04/migrasi-ke-hugo/featured.png
 categories:
-  - development
+  - produktivitas
 tags:
  - hugo
  - static site generator

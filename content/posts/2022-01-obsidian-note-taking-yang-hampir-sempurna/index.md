@@ -8,7 +8,7 @@ images:
 description: Review aplikasi note taking Obsidian yang menurut saya adalah note taking yang hampir sempurna
 draft: false
 categories:
-  - software
+  - produktivitas
 tags:
   - notes
   - evernote
