@@ -8,7 +8,7 @@ images:
 description: Pengalaman saya pindah OS dari windows ke macOS
 draft: false
 categories:
-  - personal
+  - produktivitas
 tags:
   - hackintosh
   - macos
