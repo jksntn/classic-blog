@@ -17,6 +17,6 @@ Tulisan diupdate kalau lagi sempet... 😅
 
 Kamu bisa menemukan saya di digital dengan username saya `jksntn`.
 
-- [jksntn.work@gmail.com](mailto:jksntn.work@gmail.com) - Hubungi saya melalui email
+- [jksntn@proton.me](mailto:jksntn@proton.me) - Hubungi saya melalui email
 - [Twitter](https://twitter.com/jksntn) - microblog, hubungi saya lewat sini
 - [Instagram](https://instagram.com/jksntn) - visual story, kamu bisa hubungi saya lewat ini juga
